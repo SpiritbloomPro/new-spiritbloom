@@ -1,19 +1,19 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+evoker:
+  label: Evoker
+  permalink: /evoker
+  description: Preservation Evoker Content
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+paladin:
+  label: Paladin
+  permalink: /paladin
+  description: Holy Paladin Content
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+shaman:
+  label: Shaman
+  permalink: /shaman
+  description: Restoration Shaman Content
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+general:
+  label: General
+  permalink: /general
+  description: General Healer Content

@@ -5,14 +5,15 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import path from 'path';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Spiritbloom.Pro',
+  tagline: 'Level up your healing',
+  favicon: 'img/Spiritbloom.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -20,15 +21,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://new.spiritbloom.pro',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Harrek', // Usually your GitHub org/user name.
+  projectName: 'new-spiritbloom', // Usually your repo name.
+  deploymentBranch: 'main',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
@@ -37,7 +40,8 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'ko'],
+    path: 'i18n'
   },
 
   presets: [
@@ -45,33 +49,58 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        docs : false,
         blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+          showReadingTime: false,
+          feedOptions: {},
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: './src/css/custom.css',
-        },
+        }
       }),
     ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'general',
+        path: 'general',
+        routeBasePath: 'general',
+        sidebarPath: './sidebars.js'
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'preservation',
+        path: 'preservation',
+        routeBasePath: 'preservation',
+        sidebarPath: './sidebars.js',
+        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'restoration-shaman',
+        path: 'restoration-shaman',
+        routeBasePath: 'restoration-shaman',
+        sidebarPath: './sidebars.js'
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'holy-paladin',
+        path: 'holy-paladin',
+        routeBasePath: 'holy-paladin',
+        sidebarPath: './sidebars.js'
+      }
+    ]
   ],
 
   themeConfig:
@@ -80,56 +109,64 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
-        respectPrefersColorScheme: true,
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Spiritbloom.Pro',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'SpiritbloomPro logo',
+          src: 'img/Spiritbloom.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+          /*{
+            type: 'localeDropdown',
             position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          },*/
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            to: '/general',
+            label: 'General Healing',
+            position: 'right'
           },
+          {
+            to: '/preservation',
+            label: 'Preservation',
+            position: 'right'
+          },
+          {
+            to: '/restoration-shaman',
+            label: 'Restoration Shaman',
+            position: 'right'
+          },
+          {
+            to: '/holy-paladin',
+            label: 'Holy Paladin',
+            position: 'right'
+          },
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'right'
+          }
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.spiritbloom.pro',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+                label: 'Authors',
+                href: '/blog/authors',
+              }
             ],
           },
           {
@@ -146,13 +183,17 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Spiritbloom.Pro. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
+    scripts: [
+      '/js/wowhead-tooltips.js',
+		  'https://wow.zamimg.com/js/tooltips.js'
+    ]
 };
 
 export default config;
