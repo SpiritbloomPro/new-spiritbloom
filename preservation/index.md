@@ -24,3 +24,7 @@ Should now be on github pages
 |   |   |   |
 
 !Fire Breath!
+
+
+
+![](/img/midnight-logo-1.png)
