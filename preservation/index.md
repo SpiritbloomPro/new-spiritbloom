@@ -17,3 +17,5 @@ id: Introduction
 This is a test <WowheadLink spellShorthand='Living Flame' />
 
 And this is another test !Living Flame!
+
+Should now be on github pages
