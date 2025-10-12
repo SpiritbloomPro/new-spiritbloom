@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 description: The Introduction
-id: Introduction
+title: Introduction
 ---
 
 # Lorem ipsum dolor
