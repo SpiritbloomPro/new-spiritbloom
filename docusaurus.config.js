@@ -70,7 +70,8 @@ const config = {
         id: 'general',
         path: 'general',
         routeBasePath: 'general',
-        sidebarPath: './sidebars.js'
+        sidebarPath: './sidebars.js',
+        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')],
       }
     ],
     [
@@ -89,7 +90,8 @@ const config = {
         id: 'restoration-shaman',
         path: 'restoration-shaman',
         routeBasePath: 'restoration-shaman',
-        sidebarPath: './sidebars.js'
+        sidebarPath: './sidebars.js',
+        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
       }
     ],
     [
@@ -98,7 +100,8 @@ const config = {
         id: 'holy-paladin',
         path: 'holy-paladin',
         routeBasePath: 'holy-paladin',
-        sidebarPath: './sidebars.js'
+        sidebarPath: './sidebars.js',
+        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
       }
     ]
   ],

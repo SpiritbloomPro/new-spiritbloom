@@ -1,7 +1,9 @@
-export default function VideoClip({ url }) {
+export default function VideoClip({ url, side = 'center' }) {
   return (
-    <video autoPlay loop muted style={{ width: '100%' }}>
-        <source src={ url }/>
-    </video>
+    <div class={"video video-" + side}>
+        <video autoPlay loop muted>
+            <source src={ url }/>
+        </video>
+    </div>
   );
 }

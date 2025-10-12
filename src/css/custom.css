@@ -5,14 +5,45 @@
  */
 
 [data-theme='dark'] {
-    --ifm-color-primary: #33937F ;
-    --ifm-color-primary-dark: #33937F;
-    --ifm-color-primary-darker: #33937F;
-    --ifm-color-primary-darkest: #33937F;
-    --ifm-color-primary-light: #33937F;
-    --ifm-color-primary-lighter: #33937F;
-    --ifm-color-primary-lightest: #33937F;
+    --ifm-color-primary: #D79E53;
+    --ifm-color-primary-dark: #D79E53;
+    --ifm-color-primary-darker: #D79E53;
+    --ifm-color-primary-darkest: #D79E53;
+    --ifm-color-primary-light: #D79E53;
+    --ifm-color-primary-lighter: #D79E53;
+    --ifm-color-primary-lightest: #D79E53;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+    --ifm-background-color: #121212;
+}
+
+html.plugin-id-preservation[data-theme='dark'] {
+  --ifm-color-primary: #36BFA3;
+  --ifm-color-primary-dark: #36BFA3;
+  --ifm-color-primary-darker: #36BFA3;
+  --ifm-color-primary-darkest: #36BFA3;
+  --ifm-color-primary-light: #36BFA3;
+  --ifm-color-primary-lighter: #36BFA3;
+  --ifm-color-primary-lightest: #36BFA3;
+}
+
+html.plugin-id-restoration-shaman[data-theme='dark'] {
+  --ifm-color-primary: #5DAEFF;
+  --ifm-color-primary-dark: #5DAEFF;
+  --ifm-color-primary-darker: #5DAEFF;
+  --ifm-color-primary-darkest: #5DAEFF;
+  --ifm-color-primary-light: #5DAEFF;
+  --ifm-color-primary-lighter: #5DAEFF;
+  --ifm-color-primary-lightest: #5DAEFF;
+}
+
+html.plugin-id-holy-paladin[data-theme='dark'] {
+  --ifm-color-primary: #F48CBA;
+  --ifm-color-primary-dark: #F48CBA;
+  --ifm-color-primary-darker: #F48CBA;
+  --ifm-color-primary-darkest: #F48CBA;
+  --ifm-color-primary-light: #F48CBA;
+  --ifm-color-primary-lighter: #F48CBA;
+  --ifm-color-primary-lightest: #F48CBA;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400..700&display=swap');
@@ -25,11 +56,34 @@ table tr {
     border-top: none;
 }
 
+.video {
+    width: 60%;
+    padding: 0 1.5rem;
+}
+
+.video-right {
+    float: right;
+}
+
+.video-left {
+    float: left;
+}
+
+.video-center {
+    width: 80%;
+    margin: auto;
+}
+
+.video video {
+    width: 100%;
+    height: auto;
+}
+
 /*Home Page*/
 
 .hero__title,
 .hero__subtitle {
-    color: #33937F;
+    color: #D79E53;
     text-shadow: -3px -3px 10px black;
     -webkit-text-stroke: 5px black;
     paint-order: stroke fill;
@@ -72,3 +126,5 @@ table tr {
   width: 100%;
   object-fit: cover;
 }
+
+/**/
