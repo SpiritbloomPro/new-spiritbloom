@@ -5,6 +5,10 @@ backend:
   open_authoring: true
 
 publish_mode: editorial_workflow
+site_url: https://new.spiritbloom.pro
+logo :
+  src: https://new.spiritbloom.pro/img/Spiritbloom.png
+  show_in_header: true
 
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
@@ -22,7 +26,6 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
 - name: preservation
   label: "Preservation Guide"
@@ -35,13 +38,7 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
-  nested:
-    depth: 2
-    summary: '{{title}}'
-    subfolders: false
-  meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 - name: holy-paladin
   label: "Holy Paladin Guide"
   folder: holy-paladin
@@ -53,7 +50,6 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
 - name: restoration-shaman
   label: "Restoration Shaman Guide"
@@ -66,7 +62,6 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
 - name: blog
   label: "Blog"
@@ -79,7 +74,6 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - label: "Tags"
       name: "tags"
       widget: "list"
