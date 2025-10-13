@@ -44,7 +44,7 @@ collections:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number}
+    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: preservation
   label: "Preservation Guide"
   folder: preservation
@@ -60,7 +60,7 @@ collections:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number}
+    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: holy-paladin
   label: "Holy Paladin Guide"
   folder: holy-paladin
@@ -76,7 +76,7 @@ collections:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number}
+    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: restoration-shaman
   label: "Restoration Shaman Guide"
   folder: restoration-shaman
@@ -92,7 +92,7 @@ collections:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number}
+    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: blog
   label: "Blog"
   folder: blog
