@@ -1,9 +1,7 @@
 backend:
   name: github
-  branch: main
-  repo: Harreks/new-spiritbloom
-  auth_type: implicit
-  app_id: Ov23lihSDS3ClvKYwPXK
+  branch: dev
+  repo: SpiritbloomPro/new-spiritbloom
 
 site_url: https://new.spiritbloom.pro
 logo :
@@ -14,10 +12,29 @@ logo :
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
+media_libraries:
+  default:
+    config:
+      transformations:
+        raster_image:
+          format: webp
+          width: 2048
+          height: 2048
+        svg:
+          optimize: true
+  stock_assets:
+    providers: []
+
+output:
+  omit_empty_optional_fields: true
+
 collections:
 - name: general
   label: "General Guide"
   folder: general
+  media_folder: /static/img/general
+  public_folder: /img/general
+  icon: star
   identifier_field: title
   extension: md
   widget: "list"
@@ -25,11 +42,15 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
+    - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
 - name: preservation
   label: "Preservation Guide"
   folder: preservation
+  media_folder: /static/img/evoker
+  public_folder: /img/evoker
+  icon: nest_eco_leaf
   identifier_field: title
   extension: md
   widget: "list"
@@ -37,11 +58,15 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
+    - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
 - name: holy-paladin
   label: "Holy Paladin Guide"
   folder: holy-paladin
+  media_folder: /static/img/paladin
+  public_folder: /img/paladin
+  icon: brightness_5
   identifier_field: title
   extension: md
   widget: "list"
@@ -49,11 +74,15 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
+    - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
 - name: restoration-shaman
   label: "Restoration Shaman Guide"
   folder: restoration-shaman
+  media_folder: /static/img/shaman
+  public_folder: /img/shaman
+  icon: water_drop
   identifier_field: title
   extension: md
   widget: "list"
@@ -61,11 +90,15 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
+    - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number}
 - name: blog
   label: "Blog"
   folder: blog
+  media_folder: /static/img/blog
+  public_folder: /img/blog
+  icon: article
   identifier_field: title
   extension: md
   widget: "list"
@@ -73,10 +106,247 @@ collections:
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields:
     - { name: title, label: Title, widget: string }
+    - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
     - label: "Tags"
       name: "tags"
-      widget: "list"
+      widget: "select"
+      multiple: true
+      options: ["evoker", "paladin", "shaman", "general"]
     - label: "Authors"
       name: "authors"
-      widget: "list"
+      widget: "select"
+      multiple: true
+      options: ["harrek", "frug", "youtee", "kig"]
+- name: config
+  label: Configurations
+  icon: edit_square
+  media_folder: /static/img/config
+  public_folder: /img/config
+  editor:
+    preview: false
+  files:
+    - name: authors
+      label: Authors
+      file: blog/authors.yml
+      delete: false
+      editor:
+        preview: false
+      fields:
+        - name: harrek
+          label: Harrek
+          widget: object
+          collapsed: true
+          required: false
+          fields:
+            - name: name
+              label: Name
+              widget: string
+            - name: title
+              label: Title
+              widget: string
+              required: false
+            - name: url
+              label: Personal Website
+              widget: string
+              required: false
+            - name: image_url
+              label: Image
+              widget: image
+            - name: description
+              label: Description
+              widget: text
+              required: false
+            - name: page
+              label: Page
+              widget: hidden
+              default: true
+            - name: socials
+              label: Socials
+              widget: object
+              collapsed: true
+              required: false
+              fields:
+                - name: x
+                  label: X/Twitter
+                  widget: string
+                  required: false
+                - name: bluesky
+                  label: Bluesky
+                  widget: string
+                  required: false
+                - name: youtube
+                  label: Youtube
+                  widget: string
+                  required: false
+                - name: twitch
+                  label: Twitch
+                  widget: string
+                  required: false
+                - name: github
+                  label: Github
+                  widget: string
+                  required: false
+        - name: frug
+          label: Fruggie
+          widget: object
+          collapsed: true
+          required: false
+          fields:
+            - name: name
+              label: Name
+              widget: string
+            - name: title
+              label: Title
+              widget: string
+              required: false
+            - name: url
+              label: Personal Website
+              widget: string
+              required: false
+            - name: image_url
+              label: Image
+              widget: image
+            - name: description
+              label: Description
+              widget: text
+              required: false
+            - name: page
+              label: Page
+              widget: hidden
+              default: true
+            - name: socials
+              label: Socials
+              widget: object
+              collapsed: true
+              required: false
+              fields:
+                - name: x
+                  label: X/Twitter
+                  widget: string
+                  required: false
+                - name: bluesky
+                  label: Bluesky
+                  widget: string
+                  required: false
+                - name: youtube
+                  label: Youtube
+                  widget: string
+                  required: false
+                - name: twitch
+                  label: Twitch
+                  widget: string
+                  required: false
+                - name: github
+                  label: Github
+                  widget: string
+                  required: false
+        - name: youtee
+          label: YouTee
+          widget: object
+          collapsed: true
+          required: false
+          fields:
+            - name: name
+              label: Name
+              widget: string
+            - name: title
+              label: Title
+              widget: string
+              required: false
+            - name: url
+              label: Personal Website
+              widget: string
+              required: false
+            - name: image_url
+              label: Image
+              widget: image
+            - name: description
+              label: Description
+              widget: text
+              required: false
+            - name: page
+              label: Page
+              widget: hidden
+              default: true
+            - name: socials
+              label: Socials
+              widget: object
+              collapsed: true
+              required: false
+              fields:
+                - name: x
+                  label: X/Twitter
+                  widget: string
+                  required: false
+                - name: bluesky
+                  label: Bluesky
+                  widget: string
+                  required: false
+                - name: youtube
+                  label: Youtube
+                  widget: string
+                  required: false
+                - name: twitch
+                  label: Twitch
+                  widget: string
+                  required: false
+                - name: github
+                  label: Github
+                  widget: string
+                  required: false
+        - name: kig
+          label: Kig
+          widget: object
+          collapsed: true
+          required: false
+          fields:
+            - name: name
+              label: Name
+              widget: string
+            - name: title
+              label: Title
+              widget: string
+              required: false
+            - name: url
+              label: Personal Website
+              widget: string
+              required: false
+            - name: image_url
+              label: Image
+              widget: image
+            - name: description
+              label: Description
+              widget: text
+              required: false
+            - name: page
+              label: Page
+              widget: hidden
+              default: true
+            - name: socials
+              label: Socials
+              widget: object
+              collapsed: true
+              required: false
+              fields:
+                - name: x
+                  label: X/Twitter
+                  widget: string
+                  required: false
+                - name: bluesky
+                  label: Bluesky
+                  widget: string
+                  required: false
+                - name: youtube
+                  label: Youtube
+                  widget: string
+                  required: false
+                - name: twitch
+                  label: Twitch
+                  widget: string
+                  required: false
+                - name: github
+                  label: Github
+                  widget: string
+                  required: false
+

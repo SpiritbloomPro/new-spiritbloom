@@ -2,24 +2,25 @@ harrek:
   name: Harrek
   title: Healer Theorycrafter
   url: https://harrekheals.me
-  image_url: /authors/harrek-logo.png
-  description:
-    "This is the description for
-    the author page"
+  image_url: img/config/rounded-logo-w-background.webp
+  description: Website dev
   page: true
   socials:
+    bluesky: harrekheals.me
+    youtube: harreks
     github: harreks
-
 frug:
   name: Fruggie
   title: Holy paladin, Cat lover
   image_url: /static/img/midnight-logo-1.png
   socials:
     x: fruggiee
-    twitch: Fruggiee
     youtube: Fruggie
-
-
+    twitch: Fruggiee
 youtee:
-  name:
-   Youtee
+  name: Youtee
+  image_url: /static/img/midnight-logo-1.png
+kig:
+  name: Kig
+  image_url: /static/img/midnight-logo-1.png
+  page: true
