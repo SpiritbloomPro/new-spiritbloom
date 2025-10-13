@@ -13,14 +13,13 @@ harrek:
 frug:
   name: Fruggie
   title: Holy paladin, Cat lover
-  description:
-      "I spend my time hanging out in Hammer of Wrath,
-      and posting lots of cat photos!"
   socials:
-      x: fruggiee
+      image_url: static/img/midnight-logo-1.png
+  x: fruggiee
       twitch: Fruggiee
-      youtube: Fruggiee
+      youtube: Fruggie
 
 
 youtee:
-  name: Youtee
+  name:
+   Youtee
