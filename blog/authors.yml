@@ -2,7 +2,7 @@ harrek:
   name: Harrek
   title: Healer Theorycrafter
   url: https://harrekheals.me
-  image_url: img/config/rounded-logo-w-background.webp
+  image_url: /img/config/rounded-logo-w-background.webp
   description: Website dev
   page: true
   socials:
