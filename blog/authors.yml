@@ -13,11 +13,11 @@ harrek:
 frug:
   name: Fruggie
   title: Holy paladin, Cat lover
+  image_url: /static/img/midnight-logo-1.png
   socials:
-      image_url: static/img/midnight-logo-1.png
-  x: fruggiee
-      twitch: Fruggiee
-      youtube: Fruggie
+    x: fruggiee
+    twitch: Fruggiee
+    youtube: Fruggie
 
 
 youtee:
