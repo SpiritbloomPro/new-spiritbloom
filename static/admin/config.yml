@@ -2,9 +2,7 @@ backend:
   name: github
   branch: main
   repo: Harreks/new-spiritbloom
-  open_authoring: true
 
-publish_mode: editorial_workflow
 site_url: https://new.spiritbloom.pro
 logo :
   src: https://new.spiritbloom.pro/img/Spiritbloom.png
