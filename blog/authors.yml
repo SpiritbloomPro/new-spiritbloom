@@ -1,15 +1,7 @@
-harrek:
-  name: Harrek
-  title: Healer Theorycrafter
-  url: https://harrekheals.me
-  image_url: /authors/harrek-logo.png
-  description:
-    "This is the description for
-    the author page"
-  page: true
-  socials:
-    github: harreks
-
+authors:
+  - name: Harrek
+    title: test
+    description: test test
 frug:
   name: Fruggie
   title: Holy paladin, Cat lover
@@ -18,8 +10,14 @@ frug:
     x: fruggiee
     twitch: Fruggiee
     youtube: Fruggie
-
-
 youtee:
-  name:
-   Youtee
+  name: Youtee
+harrek:
+  socials:
+    github: harreks
+  page: true
+  description: This is the description for the author page
+  image_url: /authors/harrek-logo.png
+  url: https://harrekheals.me
+  title: Healer Theorycrafter
+  name: Harrek
