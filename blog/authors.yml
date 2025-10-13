@@ -8,6 +8,7 @@ harrek:
   socials:
     bluesky: harrekheals.me
     youtube: harreks
+    github: harreks
 frug:
   name: Fruggie
   title: Holy paladin, Cat lover
@@ -16,6 +17,10 @@ frug:
     x: fruggiee
     youtube: Fruggie
     twitch: Fruggiee
-kig: null
 youtee:
   name: Youtee
+  image_url: /static/img/midnight-logo-1.png
+kig:
+  name: Kig
+  image_url: /static/img/midnight-logo-1.png
+  page: true
