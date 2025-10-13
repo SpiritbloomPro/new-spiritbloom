@@ -6,11 +6,8 @@ harrek:
   description: Website dev
   page: true
   socials:
-    x: ''
     bluesky: harrekheals.me
     youtube: harreks
-    twitch: ''
-    github: harreks
 frug:
   name: Fruggie
   title: Holy paladin, Cat lover
@@ -19,6 +16,6 @@ frug:
     x: fruggiee
     youtube: Fruggie
     twitch: Fruggiee
+kig: null
 youtee:
   name: Youtee
-kig: null
