@@ -93,6 +93,22 @@ collections:
     - { name: description, label: Description, widget: string}
     - { name: body, label: Body, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
+- name: holy-priest
+  label: "Holy Priest Guide"
+  folder: holy-priest
+  media_folder: /static/img/priest
+  public_folder: /img/priest
+  icon: health_cross
+  identifier_field: title
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: title, label: Title, widget: string }
+    - { name: description, label: Description, widget: string}
+    - { name: body, label: Body, widget: markdown }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: blog
   label: "Blog"
   folder: blog
@@ -297,6 +313,60 @@ collections:
                   required: false
         - name: kig
           label: Kig
+          widget: object
+          collapsed: true
+          required: false
+          fields:
+            - name: name
+              label: Name
+              widget: string
+            - name: title
+              label: Title
+              widget: string
+              required: false
+            - name: url
+              label: Personal Website
+              widget: string
+              required: false
+            - name: image_url
+              label: Image
+              widget: image
+            - name: description
+              label: Description
+              widget: text
+              required: false
+            - name: page
+              label: Page
+              widget: hidden
+              default: true
+            - name: socials
+              label: Socials
+              widget: object
+              collapsed: true
+              required: false
+              fields:
+                - name: x
+                  label: X/Twitter
+                  widget: string
+                  required: false
+                - name: bluesky
+                  label: Bluesky
+                  widget: string
+                  required: false
+                - name: youtube
+                  label: Youtube
+                  widget: string
+                  required: false
+                - name: twitch
+                  label: Twitch
+                  widget: string
+                  required: false
+                - name: github
+                  label: Github
+                  widget: string
+                  required: false
+        - name: pwrwrdholy
+          label: Pwrwrdholy
           widget: object
           collapsed: true
           required: false

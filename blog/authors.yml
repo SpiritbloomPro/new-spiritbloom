@@ -13,6 +13,7 @@ frug:
   name: Fruggie
   title: Holy paladin, Cat lover
   image_url: /static/img/midnight-logo-1.png
+  page: true
   socials:
     x: fruggiee
     youtube: Fruggie
@@ -22,10 +23,14 @@ youtee:
   title: Robot Overlord, Preservation Evoker
   image_url: /img/config/20241009_075024.webp
   description: Hey i'm YouTee i play all healers, I try to focus on Preservation but get easily distracted as I love wow.
+  page: true
   socials:
     x: https://x.com/YouTeeut
     twitch: https://www.twitch.tv/youteeut
 kig:
   name: Kig
   image_url: /static/img/midnight-logo-1.png
+  page: true
+pwrwrdholy:
+  name: Pwrwrdholy
   page: true

@@ -103,6 +103,16 @@ const config = {
         sidebarPath: './sidebars.js',
         remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
       }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'holy-priest',
+        path: 'holy-priest',
+        routeBasePath: 'holy-priest',
+        sidebarPath: './sidebars.js',
+        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
+      }
     ]
   ],
 
@@ -130,27 +140,38 @@ const config = {
           {
             to: '/general',
             label: 'General Healing',
-            position: 'right'
+            position: 'right',
+            className: 'navbar-general'
           },
           {
             to: '/preservation',
             label: 'Preservation',
-            position: 'right'
-          },
-          {
-            to: '/restoration-shaman',
-            label: 'Restoration Shaman',
-            position: 'right'
+            position: 'right',
+            className: 'navbar-preservation'
           },
           {
             to: '/holy-paladin',
             label: 'Holy Paladin',
-            position: 'right'
+            position: 'right',
+            className: 'navbar-holy-paladin'
+          },
+          {
+            to: '/restoration-shaman',
+            label: 'Restoration Shaman',
+            position: 'right',
+            className: 'navbar-restoration-shaman'
+          },
+          {
+            to: '/holy-priest',
+            label: 'Holy Priest',
+            position: 'right',
+            className: 'navbar-holy-priest'
           },
           {
             to: '/blog',
             label: 'Blog',
-            position: 'right'
+            position: 'right',
+            className: 'navbar-general'
           }
         ],
       },
@@ -186,7 +207,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Spiritbloom.Pro. Built with Docusaurus.`,
+        copyright: `Built by Harrek, powered by the SpiritbloomPro team.`,
       },
       prism: {
         theme: prismThemes.github,

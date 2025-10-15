@@ -35,7 +35,7 @@ To note: !Emerald Blossom!, !Rescue!, !Cauterizing Flame!, !Dream Flight!, !Rewi
 
 ### Temporal Anomaly
 ### Stasis
-### !Reversion!
+### Reversion
 ### Lifebind
 ### Time of Need
 ### Lifespark
