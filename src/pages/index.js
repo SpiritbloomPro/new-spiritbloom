@@ -3,12 +3,11 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
-import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero hero--primary hero-banner')}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -34,12 +33,17 @@ const Guides = [
         title: 'Restoration Shaman',
         link: 'restoration-shaman',
         image: 'rsham-guide.png'
+    },
+    {
+        title: 'Holy Priest',
+        link: 'holy-priest',
+        image: 'hpriest-guide.png'
     }
 ];
 
 function Guide({title, link, image}){
     return (
-        <div className={clsx('col col--3 guide-box')}>
+        <div className={clsx('col col--2 guide-box')}>
             <Link to={link}>
                 <Heading as="h3" className='guide-boxes-title'>{title}</Heading>
                 <img className='guide-boxes-image' src={'/img/' + image}></img>

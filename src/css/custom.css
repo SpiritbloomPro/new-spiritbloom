@@ -5,45 +5,94 @@
  */
 
 [data-theme='dark'] {
-    --ifm-color-primary: #D79E53;
-    --ifm-color-primary-dark: #D79E53;
-    --ifm-color-primary-darker: #D79E53;
-    --ifm-color-primary-darkest: #D79E53;
-    --ifm-color-primary-light: #D79E53;
-    --ifm-color-primary-lighter: #D79E53;
-    --ifm-color-primary-lightest: #D79E53;
+    --ifm-color-primary: #d79e53;
+    --ifm-color-primary-dark: #d1903b;
+    --ifm-color-primary-darker: #ce8930;
+    --ifm-color-primary-darkest: #a97127;
+    --ifm-color-primary-light: #ddac6b;
+    --ifm-color-primary-lighter: #dfb277;
+    --ifm-color-primary-lightest: #e8c79c;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
     --ifm-background-color: #121212;
 }
 
+.navbar-general:hover,
+.navbar__brand:hover {
+    color: #D79E53;
+}
+
 html.plugin-id-preservation[data-theme='dark'] {
-  --ifm-color-primary: #36BFA3;
-  --ifm-color-primary-dark: #36BFA3;
-  --ifm-color-primary-darker: #36BFA3;
-  --ifm-color-primary-darkest: #36BFA3;
-  --ifm-color-primary-light: #36BFA3;
-  --ifm-color-primary-lighter: #36BFA3;
-  --ifm-color-primary-lightest: #36BFA3;
+    --ifm-color-primary: #36bfa3;
+    --ifm-color-primary-dark: #31ac93;
+    --ifm-color-primary-darker: #2ea28b;
+    --ifm-color-primary-darkest: #268672;
+    --ifm-color-primary-light: #44caaf;
+    --ifm-color-primary-lighter: #4dcdb3;
+    --ifm-color-primary-lightest: #6ad5bf;
+}
+
+.navbar-preservation:hover {
+    color: #36BFA3;
 }
 
 html.plugin-id-restoration-shaman[data-theme='dark'] {
-  --ifm-color-primary: #5DAEFF;
-  --ifm-color-primary-dark: #5DAEFF;
-  --ifm-color-primary-darker: #5DAEFF;
-  --ifm-color-primary-darkest: #5DAEFF;
-  --ifm-color-primary-light: #5DAEFF;
-  --ifm-color-primary-lighter: #5DAEFF;
-  --ifm-color-primary-lightest: #5DAEFF;
+    --ifm-color-primary: #5daeff;
+    --ifm-color-primary-dark: #3a9dff;
+    --ifm-color-primary-darker: #2994ff;
+    --ifm-color-primary-darkest: #007af4;
+    --ifm-color-primary-light: #80bfff;
+    --ifm-color-primary-lighter: #91c8ff;
+    --ifm-color-primary-lightest: #c5e2ff;
+}
+
+.navbar-restoration-shaman:hover {
+    color: #5DAEFF;
 }
 
 html.plugin-id-holy-paladin[data-theme='dark'] {
-  --ifm-color-primary: #F48CBA;
-  --ifm-color-primary-dark: #F48CBA;
-  --ifm-color-primary-darker: #F48CBA;
-  --ifm-color-primary-darkest: #F48CBA;
-  --ifm-color-primary-light: #F48CBA;
-  --ifm-color-primary-lighter: #F48CBA;
-  --ifm-color-primary-lightest: #F48CBA;
+    --ifm-color-primary: #f48cba;
+    --ifm-color-primary-dark: #f169a5;
+    --ifm-color-primary-darker: #ef579a;
+    --ifm-color-primary-darkest: #ea237b;
+    --ifm-color-primary-light: #f7afcf;
+    --ifm-color-primary-lighter: #f9c1da;
+    --ifm-color-primary-lightest: #fef5f9;
+}
+
+.navbar-holy-paladin:hover {
+    color: #F48CBA;
+}
+
+html.plugin-id-holy-priest[data-theme='dark'] {
+  --ifm-color-primary: #e0c097;
+  --ifm-color-primary-dark: #d7af7a;
+  --ifm-color-primary-darker: #d3a66c;
+  --ifm-color-primary-darkest: #c68c40;
+  --ifm-color-primary-light: #e9d2b4;
+  --ifm-color-primary-lighter: #eddac2;
+  --ifm-color-primary-lightest: #faf5ee;
+}
+
+.navbar-holy-priest:hover {
+    color: #e0c097;
+}
+
+.navbar-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.theme-layout-navbar {
+    background-color: #343a40;
+}
+
+.theme-layout-footer {
+    background-color: #343a40;
+}
+
+h1, h2, h3, h4, h5 {
+    color: var(--ifm-color-primary);
 }
 
 @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400..700&display=swap');
@@ -99,6 +148,7 @@ table tr {
     margin-top: 2rem;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .guide-box {
@@ -125,6 +175,25 @@ table tr {
   height: 100%;
   width: 100%;
   object-fit: cover;
+}
+
+.hero-banner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /**/
