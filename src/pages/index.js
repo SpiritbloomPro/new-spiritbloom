@@ -43,7 +43,7 @@ const Guides = [
 
 function Guide({title, link, image}){
     return (
-        <div className={clsx('col col--2 guide-box')}>
+        <div className={clsx('col guide-box')}>
             <Link to={link}>
                 <Heading as="h3" className='guide-boxes-title'>{title}</Heading>
                 <img className='guide-boxes-image' src={'/img/' + image}></img>

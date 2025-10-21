@@ -56,6 +56,7 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
         },
         theme: {
           customCss: './src/css/custom.css',

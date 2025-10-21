@@ -1,5 +1,7 @@
 {
-  "body": {
-    "Test Spell": "15245"
-  }
+    "active-spells": {},
+    "class-talents": {},
+    "spec-talents": {},
+    "hero-talents": {},
+    "other": {}
 }

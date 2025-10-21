@@ -128,6 +128,10 @@ table tr {
     height: auto;
 }
 
+.hash-link {
+    opacity: 1;
+}
+
 /*Home Page*/
 
 .hero__title,
@@ -156,13 +160,21 @@ table tr {
     position: relative;
     height: 200px;
     padding: 0;
+    --ifm-col-width: 20%;
+    margin-bottom: 1rem;
+}
+
+.guide-box a {
+    display: block;
+    width: 99%;
+    height: 99%;
 }
 
 .guide-boxes-title {
     position: absolute;
     bottom: 0;
     left: 50%;
-    font-size: 30px;
+    font-size: 1.5rem;
     text-shadow: -3px -3px 10px black;
     -webkit-text-stroke: 5px black;
     paint-order: stroke fill;
@@ -187,6 +199,15 @@ table tr {
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+  }
+
+  .hero__title {
+    font-size: 2.5rem;
+    word-wrap: normal;
+  }
+
+  .guide-box {
+    --ifm-col-width: 45%;
   }
 }
 

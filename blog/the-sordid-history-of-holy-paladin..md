@@ -1,5 +1,7 @@
 ---
 title: The sordid history of holy paladin.
+date: 2025-10-16
+unlisted: true
 description: With the release of a new expansion and a change in how paladin plays, I thought it might be interesting to look back at what we've actually done throughout the ages!
 tags:
   - paladin

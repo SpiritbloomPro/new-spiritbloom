@@ -1,19 +1,11 @@
-import EvokerSpells from '@site/static/spells/evoker.json';
-import PaladinSpells from '@site/static/spells/paladin.json';
-import ShamanSpells from '@site/static/spells/shaman.json';
+import fullSpellList from '@site/src/components/formatSpellData';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 export default function WowheadLink({ spellShorthand }) {
     const { siteConfig, i18n } = useDocusaurusContext();
     const language = i18n.currentLocale;
 
-    var spellId = EvokerSpells[spellShorthand];
-    if(!spellId){
-        spellId = PaladinSpells[spellShorthand];
-    }
-    if(!spellId){
-        spellId = ShamanSpells[spellShorthand];
-    }
+    var spellId = fullSpellList[spellShorthand];
 
     if(spellId){
         const specialVersion = 'beta'; //This can be used to replace links with special wowhead versions
