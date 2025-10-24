@@ -6,16 +6,16 @@ import Heading from '@theme/Heading';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary hero-banner')}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-      </div>
-    </header>
-  );
+    return (
+        <header className={clsx('hero hero--primary hero-banner')}>
+        <div className="container">
+            <Heading as="h1" className="hero__title">
+                {siteConfig.title}
+            </Heading>
+            <p className="hero__subtitle">{siteConfig.tagline}</p>
+        </div>
+        </header>
+    );
 }
 
 const Guides = [
@@ -41,9 +41,32 @@ const Guides = [
     }
 ];
 
+const Content = [
+    {
+        title: 'General Guides',
+        link: 'general',
+        image: 'general-guide.png'
+    },
+    {
+        title: 'Our Blog',
+        link: 'blog',
+        image: 'blog.png'
+    },
+    {
+        title: 'Who Are We?',
+        link: 'blog/authors',
+        image: 'authors.png'
+    },
+    {
+        title: 'Support Us',
+        link: 'support',
+        image: 'support.png'
+    }
+];
+
 function Guide({title, link, image}){
     return (
-        <div className={clsx('col col--2 guide-box')}>
+        <div className={clsx('col guide-box')}>
             <Link to={link}>
                 <Heading as="h3" className='guide-boxes-title'>{title}</Heading>
                 <img className='guide-boxes-image' src={'/img/' + image}></img>
@@ -60,9 +83,22 @@ export default function Home() {
         description="Healer guides and articles">
         <HomepageHeader />
         <main>
+            <div className="container homepage-title">
+              <h1>Class Guides</h1>
+            </div>
             <div className="container">
                 <div className="guide-boxes-container">
                     {Guides.map((props, idx) => (
+                        <Guide key={idx} {...props} />
+                    ))}
+                </div>
+            </div>
+            <div className="container homepage-title">
+              <h1>Other Content</h1>
+            </div>
+            <div className="container">
+                <div className="guide-boxes-container">
+                    {Content.map((props, idx) => (
                         <Guide key={idx} {...props} />
                     ))}
                 </div>

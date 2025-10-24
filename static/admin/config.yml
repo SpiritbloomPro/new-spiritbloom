@@ -43,7 +43,8 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
-    - { name: body, label: Body, widget: markdown }
+    - { name: unlisted, label: Unlisted, widget: boolean, required: false }
+    - { name: body, label: Content, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: preservation
   label: "Preservation Guide"
@@ -58,9 +59,10 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
-    - { name: description, label: Description, widget: string}
-    - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
+    - { name: description, label: Description, widget: string }
+    - { name: unlisted, label: Unlisted, widget: boolean, required: false }
+    - { name: body, label: Content, widget: markdown }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20 }
 - name: holy-paladin
   label: "Holy Paladin Guide"
   folder: holy-paladin
@@ -75,7 +77,8 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
-    - { name: body, label: Body, widget: markdown }
+    - { name: unlisted, label: Unlisted, widget: boolean, required: false }
+    - { name: body, label: Content, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: restoration-shaman
   label: "Restoration Shaman Guide"
@@ -91,7 +94,8 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
-    - { name: body, label: Body, widget: markdown }
+    - { name: unlisted, label: Unlisted, widget: boolean, required: false }
+    - { name: body, label: Content, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: holy-priest
   label: "Holy Priest Guide"
@@ -107,7 +111,8 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: description, label: Description, widget: string}
-    - { name: body, label: Body, widget: markdown }
+    - { name: unlisted, label: Unlisted, widget: boolean, required: false }
+    - { name: body, label: Content, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: blog
   label: "Blog"
@@ -119,11 +124,13 @@ collections:
   extension: md
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields:
     - { name: title, label: Title, widget: string }
+    - { name: date, label: Date, widget: datetime, default: "{{now}}", date_format: "YYYY-MM-DD", time_format: false }
     - { name: description, label: Description, widget: string}
-    - { name: body, label: Body, widget: markdown }
+    - { name: unlisted, label: Unlisted, widget: boolean, required: false }
+    - { name: body, label: Content, widget: markdown }
     - label: "Tags"
       name: "tags"
       widget: "select"
@@ -419,4 +426,59 @@ collections:
                   label: Github
                   widget: string
                   required: false
-
+    - name: evoker-spells
+      label: Evoker Spells
+      file: /static/spells/evoker.json
+      delete: false
+      editor:
+        preview: false
+      fields:
+        - { name: active-spells, label: Active Spells, widget: keyvalue, required: false }
+        - { name: class-talents, label: Class Talents, widget: keyvalue, required: false }
+        - { name: spec-talents, label: Spec Talents, widget: keyvalue, required: false }
+        - { name: hero-talents, label: Hero Talents, widget: keyvalue, required: false }
+        - { name: other, label: Others, widget: keyvalue, required: false }
+    - name: paladin-spells
+      label: Paladin Spells
+      file: /static/spells/paladin.json
+      delete: false
+      editor:
+        preview: false
+      fields:
+        - { name: active-spells, label: Active Spells, widget: keyvalue, required: false }
+        - { name: class-talents, label: Class Talents, widget: keyvalue, required: false }
+        - { name: spec-talents, label: Spec Talents, widget: keyvalue, required: false }
+        - { name: hero-talents, label: Hero Talents, widget: keyvalue, required: false }
+        - { name: other, label: Others, widget: keyvalue, required: false }
+    - name: shaman-spells
+      label: Shaman Spells
+      file: /static/spells/shaman.json
+      delete: false
+      editor:
+        preview: false
+      fields:
+        - { name: active-spells, label: Active Spells, widget: keyvalue, required: false }
+        - { name: class-talents, label: Class Talents, widget: keyvalue, required: false }
+        - { name: spec-talents, label: Spec Talents, widget: keyvalue, required: false }
+        - { name: hero-talents, label: Hero Talents, widget: keyvalue, required: false }
+        - { name: other, label: Others, widget: keyvalue, required: false }
+    - name: priest-spells
+      label: Priest Spells
+      file: /static/spells/priest.json
+      delete: false
+      editor:
+        preview: false
+      fields:
+        - { name: active-spells, label: Active Spells, widget: keyvalue, required: false }
+        - { name: class-talents, label: Class Talents, widget: keyvalue, required: false }
+        - { name: spec-talents, label: Spec Talents, widget: keyvalue, required: false }
+        - { name: hero-talents, label: Hero Talents, widget: keyvalue, required: false }
+        - { name: other, label: Others, widget: keyvalue, required: false }
+    - name: other-spells
+      label: Other Spells
+      file: /static/spells/other.json
+      delete: false
+      editor:
+        preview: false
+      fields:
+        - { name: other, label: Others, widget: keyvalue, required: false }
