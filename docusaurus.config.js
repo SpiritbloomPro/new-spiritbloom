@@ -44,6 +44,7 @@ const config = {
     path: 'i18n'
   },
 
+
   presets: [
     [
       'classic',
@@ -56,7 +57,10 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-          remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
+          remarkPlugins: [
+            require('./src/plugins/replace-wowhead-links.js'),
+            require('./src/plugins/wowhead-talent-calc.js')
+          ]
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -72,7 +76,10 @@ const config = {
         path: 'general',
         routeBasePath: 'general',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')],
+        remarkPlugins: [
+          require('./src/plugins/replace-wowhead-links.js'),
+          require('./src/plugins/wowhead-talent-calc.js')
+        ]
       }
     ],
     [
@@ -82,7 +89,10 @@ const config = {
         path: 'preservation',
         routeBasePath: 'preservation',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
+        remarkPlugins: [
+          require('./src/plugins/replace-wowhead-links.js'),
+          require('./src/plugins/wowhead-talent-calc.js')
+        ]
       }
     ],
     [
@@ -92,7 +102,10 @@ const config = {
         path: 'restoration-shaman',
         routeBasePath: 'restoration-shaman',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
+        remarkPlugins: [
+          require('./src/plugins/replace-wowhead-links.js'),
+          require('./src/plugins/wowhead-talent-calc.js')
+        ]
       }
     ],
     [
@@ -102,7 +115,10 @@ const config = {
         path: 'holy-paladin',
         routeBasePath: 'holy-paladin',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
+        remarkPlugins: [
+          require('./src/plugins/replace-wowhead-links.js'),
+          require('./src/plugins/wowhead-talent-calc.js')
+        ]
       }
     ],
     [
@@ -112,7 +128,10 @@ const config = {
         path: 'holy-priest',
         routeBasePath: 'holy-priest',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [require('./src/plugins/replace-wowhead-links.js')]
+        remarkPlugins: [
+          require('./src/plugins/replace-wowhead-links.js'),
+          require('./src/plugins/wowhead-talent-calc.js')
+        ]
       }
     ]
   ],

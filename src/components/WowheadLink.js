@@ -8,7 +8,7 @@ export default function WowheadLink({ spellShorthand }) {
     var spellId = fullSpellList[spellShorthand];
 
     if(spellId){
-        const specialVersion = 'beta'; //This can be used to replace links with special wowhead versions
+        const specialVersion = 'beta'; //This can be used to replace links with special wowhead versions. Default = ''
         var wowheadVersion;
         if(language == 'en'){
             if(specialVersion != ''){

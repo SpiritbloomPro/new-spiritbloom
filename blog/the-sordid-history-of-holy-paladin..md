@@ -14,6 +14,8 @@ Are we meant to be melee? Casters? Based on instants? Cast times? Both?
 
 Everyone seems to have an opinion, and everyone is so intent on maintaining their agenda that if you're even a little aware of the going-ons of the holy paladin spaces you will have heard many people throw claims every which way about what a holy paladin is meant to be. Usually this is defined by some throwback to "we have always done x!" or "the _class fantasy of paladin_ is y". 
 
+<!-- truncate -->
+
 ![Arthas, famously no longer a paladin anymore in this picture.](/img/blog/arthas.webp "Arthas, famously no longer a paladin in this picture.")
 
 **In broad strokes** I want to split World of Warcraft history into three eras; we have the early days where stuff was still being figured out, niches were being defined and Blizzard was finding their footing with regards to class and spec design. For no reason other than it feeling right this is Vanilla through Cataclysm to me. 
