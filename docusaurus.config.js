@@ -197,36 +197,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.spiritbloom.pro',
-              },
-              {
-                label: 'Authors',
-                href: '/blog/authors',
-              }
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
+        links: [],
         copyright: `Built by Harrek, powered by the SpiritbloomPro team.`,
       },
       prism: {
