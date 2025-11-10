@@ -139,6 +139,43 @@ table tr {
     opacity: 1;
 }
 
+.footer-elements-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer-element {
+    position: relative;
+    padding: 0;
+    --ifm-col-width: 20%;
+    margin-bottom: 1rem;
+}
+
+.footer-element-image-container {
+    height: 100px;
+    margin-bottom: 0.5rem;
+}
+
+.footer-element a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.footer-element-image {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.footer-element h4 {
+    color: #d79e53;
+}
+
 /*Home Page*/
 
 .hero__title,
@@ -156,7 +193,7 @@ table tr {
 }
 
 .guide-boxes-container {
-    margin-top: 2rem;
+    margin: 2rem 0;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;

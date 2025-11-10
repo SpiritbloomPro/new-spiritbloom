@@ -1,6 +1,6 @@
 ---
 title: Spell Interactions
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 # Spell Interactions
@@ -246,8 +246,8 @@ The amount of !Chrono Flames! caused depends on the amount of targets hit, not t
 
 ### Consume Flame
 
-Healing a target that has a !Dream Breath! active with either !Verdant Embrace! or !Emerald Blossom! will cause !Consume Flame!, reducing the duration remaining on the !Dream Breath! buff and healing that target for twice the amount the heal over time would do over a period of time, four seconds for !VE! and two seconds for !Emerald Blossom!. It is important to notice that unlike the previous version of !Consume Flame!, **it will only heal the player whose !Dream Breath! is getting consumed, and do no AoE healing at all**.
+Healing a target that has a !Dream Breath! active with either !Verdant Embrace! or !Emerald Blossom! will cause !Consume Flame!, reducing the duration remaining on the !Dream Breath! buff and healing that target for twice the amount the heal over time would do over a period of time, four seconds for !Verdant Embrace! and two seconds for !Emerald Blossom!. It is important to notice that unlike the previous version of !Consume Flame!, **it will only heal the player whose !Dream Breath! is getting consumed, and do no AoE healing at all**.
 
-Each instance of !VE! or !Blossom! healing causes its own !Consume Flame!, so !Echoing! the spells means you can cause multiple !Consume Flames! at the same time and even multiple times on the same target.
+Each instance of !Verdant Embrace! or !Blossom! healing causes its own !Consume Flame!, so !Echoing! the spells means you can cause multiple !Consume Flames! at the same time and even multiple times on the same target.
 
-The healing of !Consume Flame! depends on the healing of !Dream Breath!, and not the !VE! or !Blossom! that triggered it, so to increase its healing you can use talents like !Call of Ysera!, !Renewing Breath!, !Expanded Lungs!, !Tempo Charged! and !Fulminous Roar!.
+The healing of !Consume Flame! depends on the healing of !Dream Breath!, and not the !Verdant Embrace! or !Blossom! that triggered it, so to increase its healing you can use talents like !Call of Ysera!, !Renewing Breath!, !Expanded Lungs!, !Tempo Charged! and !Fulminous Roar!.
