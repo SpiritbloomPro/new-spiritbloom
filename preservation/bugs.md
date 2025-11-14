@@ -16,5 +16,4 @@ This is a list of all currently known bugs affecting Preservation. If you find a
 
 | Talent | Bug |
 | --- | --- |
-| !Font of Magic! | Speccing into or out of !Font of Magic! can bug out your !Spiritbloom!, showing a "you don't know that spell" error when trying to cast it untill you relog or change the talent back to the previous state\n\n!Wings of Liberty! reduces the global cooldown on !Verdant Embrace! casts. |
 | !Wings of Liberty! | !Wings of Liberty! reduces the global cooldown on !Verdant Embrace! casts. |

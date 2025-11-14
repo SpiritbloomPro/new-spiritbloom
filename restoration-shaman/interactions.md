@@ -1,5 +1,5 @@
 ---
-title: Interactions
+title: Spell Interactions
 sidebar_position: 7
 ---
 
@@ -44,3 +44,37 @@ Here you will find details on how the Restoration Shaman spells work. The goal h
 ### Ancestral Vigor
 
 Targets that get their HP increased by !Ancestral Vigor! keep the same percentage hp going up and down as the bonus applies and expires.
+
+## Hero Talents
+
+### Surging Totem
+
+!Surging Totem! completely replaces !Healing Rain! when you spec into Totemic, and will maintain the rain for you in the area the totem is currently placed at. However because the cooldown of !Surging Totem! is longer than what baseline !Healing Rain! has, the spec also has the !Totemic hidden aura! which the following effects:
+
+- !Healing Rain! heals for 30% more (this is mentioned on the !Surging Totem! tooltip).
+- !Downpour! healing increased by 100%.
+- !Overflowing Shores! healing increased by 100%.
+- !Tidewaters! healing increased by 100%.
+- !Acid Rain! damage increased by 30%.
+
+### Call of the Ancestors
+
+Your ancestors cast their own version of the spells, those spells have their own power that is different from yours and are not affected by your talents that buff certain spells unless specifically mentioned, like on !Whispering Waves!.
+
+!Ancestor Lava Burst! will always crit regardless of if the target has !Flame Shock! on them or not.
+
+An important thing to note about ancestors is the way they respond to spell queue: If you spell queue either !Unleash Life! or !Ancestral Swiftness! the ancestor that spawns from them will also respond to the spell you queued *from*. If you start casting a !Healing Wave! and midway through the cast you use !Unleash Life! to queue it so it casts right after your !Healing Wave!, the ancestor that spawns from !Unleash Life! will also do their own !Ancestor Healing Wave! cast to match yours even though the cast happened before it spawned. Abusing this can get you a lot more casts out of the ancestors over the course of a fight or key.
+
+| You Cast | Your Ancestor Casts |
+| --- | --- |
+| !Riptide! | !Ancestor Healing Surge! |
+| !Healing Wave! | !Ancestor Healing Wave! |
+| !Unleash Life! | !Ancestor Healing Surge! |
+| !Chain Heal! | !Ancestor Chain Heal! |
+| !Healing Stream Totem! | !Ancestor Chain Heal! |
+| !Healing Rain! | !Ancestor Chain Heal! |
+| !Healing Tide Totem! | !Ancestor Chain Heal! |
+| !Flame Shock! | !Ancestor Lava Burst! |
+| !Lightning Bolt! | !Ancestor Lava Burst! |
+| !Lava Burst! | !Ancestor Lava Burst! |
+| !Chain Lightning! | !Ancestor Chain Lightning! |
