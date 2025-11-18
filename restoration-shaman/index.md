@@ -15,4 +15,4 @@ Restoration is a very welcoming spec, with a low barrier to entry and able to gi
 
 ## The Author
 
-This guide is maintained by [Harrek](/blog/authors/harrek). A healer main for around 15 years, Cutting Edge and occasionally Hall of Fame raider, having played all the different healer specs over the years with an extra focus on Shaman starting around Battle for Azeroth and Shadowlands.
+This guide is maintained by [Harrek](/blog/authors/harrek). A healer main for around 15 years, current writer of the Wowhead Restoration Shaman guide, Cutting Edge and occasionally Hall of Fame raider, having played all the different healer specs over the years with an extra focus on Shaman starting around Battle for Azeroth and Shadowlands.
