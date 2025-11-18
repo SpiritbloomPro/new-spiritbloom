@@ -5,6 +5,7 @@
         "Healing Stream Totem": 5394,
         "Ascendance": 114052,
         "Earthliving Weapon": 382021,
+        "Unleash Life": 73685,
         "Ancestral Swiftness": 443454,
         "Natures Swiftness": 378081,
         "Lava Burst": 51505,
@@ -39,6 +40,8 @@
         "Stormstream Totem": 1267016
     },
     "hero-talents": {
+        "Surging Totem": 444995,
+        "Totemic hidden aura": 455630,
         "Lively Totems": 445034,
         "Totemic Rebound": 445025,
         "Call Of The Ancestors": 443450,

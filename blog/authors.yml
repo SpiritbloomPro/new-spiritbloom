@@ -6,10 +6,10 @@ harrek:
   description: Hello! I'm Harrek, and i have been playing healers in WoW for around 15 years now. I am a theorycrafter, guide writer, coach, addon developer and website developer and i focus on helping people learn how to play better and improve based on a healthy mix of on-paper theory and real scenarios.
   page: true
   socials:
-    bluesky: harrekheals.me
     youtube: harreks
-    github: harreks
     patreon: harrek
+    Website: https://harrekheals.me
+    github: harreks
 frug:
   name: Fruggie
   title: Holy paladin, Cat lover
@@ -30,8 +30,12 @@ youtee:
     twitch: https://www.twitch.tv/youteeut
 kig:
   name: Kig
-  image_url: /static/img/midnight-logo-1.png
+  title: Preservation Evoker Kigglypuff
+  image_url: /img/config/Nozdormu.webp
+  description: I love all things preservation and will always try every possible way to make it pump.
   page: true
+  socials:
+    x: https://x.com/kigsandgiggles
 pwrwrdholy:
   name: Pwrwrdholy
   page: true

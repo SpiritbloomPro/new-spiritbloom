@@ -12,6 +12,10 @@ Secondary stats make the majority of your gearing decisions but they are usually
 
 <!-- truncate -->
 
+:::note
+This post was written during The War Within, and so uses TWW numbers for stat ratings. While the numbers for Midnight are much lower the idea behind how the statistics interact with each other still remains the same.
+:::
+
 ## What do the numbers actually mean?
 
 The first part is that not every stat gains the same amount of percentage from the same amount of ratings, this is the table of how much rating you need to gain 1% of each stat at level 80:
