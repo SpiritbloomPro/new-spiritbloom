@@ -33,7 +33,7 @@ Here you will find details on how the Restoration Shaman spells work. The goal h
 ### Unleash Life
 
 - On cast, you will get the !Unleash Life! buff increasing your next !Chain Heal!, !Riptide! or !Healing Wave! by 25% and reducing the cast time by 30%.
-- Your !Season One Two Piece! makes this buff have two charges.
+- Your !Season One Tier Four Piece! makes this buff have two charges.
 - !Earthen Accord! increases the healing of !Unleash Life! by 30% and makes the buff increase your other spells by 30% instead.
 
 ### Deluge

@@ -1,5 +1,9 @@
 {
-    "active-spells": {},
+    "active-spells": {
+        "Guardian Spirit": 47788,
+        "Divine Hymn": 64843,
+        "Leap of Faith": 73325
+    },
     "class-talents": {},
     "spec-talents": {},
     "hero-talents": {},

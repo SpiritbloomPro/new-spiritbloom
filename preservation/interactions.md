@@ -116,7 +116,7 @@ To note, !Time of Need! also has a ~100% power increase to all spells it casts c
 
 - Consuming !Leaping Flames! while having a !Lifespark! charge will not increase all the damage and healing those !Living Flames! do. Only the main cast will be buffed by !Lifespark!.
 
-- !Call of Ysera! and !Lifespark stack!. Having both buffs up when casting a !Living Flame! will increase its healing multiplicatively.
+- !Call of Ysera! and !Lifespark! stack. Having both buffs up when casting a !Living Flame! will increase its healing multiplicatively.
 
 - !Lifespark! does not !Echo!. Healing someone with an !Echoed! !Living Flame! buffed by !Lifespark! will only hit them with a normal, unbuffed !Living Flame!.
 
