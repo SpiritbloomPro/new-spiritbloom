@@ -22,3 +22,6 @@ This is a list of all currently known bugs affecting Restoration Shaman. If you 
 | Talent | Bug |
 | --- | --- |
 | !Spouting Spirits!, !Lively Totems! | !Spouting Spirits! will cause !Lively Totems! to fire !Chain Heal! on both the initial placement of !Spirit Link Totem! and the heal from !Spouting Spirits! |
+| !Whirling Earth! | The earth mote can't be consumed, neither !Chain Heals! from !Splitstream! nor hard casted ones consume the buff to apply !Earthliving! |
+| !Earthliving Weapon! | The !Earthliving Weapon! buff sometimes can't be refreshed |
+| !Quickstream! | !Quickstream! doesn't do anything |

@@ -10,6 +10,19 @@ harrek:
     github: harreks
     Website: https://harrekheals.me
     patreon: harrek
+frug:
+  name: Fruggie
+  title: Holy paladin, Cat lover
+  image_url: /img/config/sippy.webp
+  description: |-
+    Hi I am Fruggie,
+    you might know me from Hammer of Wrath where I spend my time spreading joy, cat pictures and my own personal take on holy paladin. 
+    I've been a holy paladin player since Icecrown Citadel and have stuck with it through ups and downs throughout most of those years.
+  page: true
+  socials:
+    x: fruggiee
+    youtube: Fruggie
+    twitch: Fruggiee
 youtee:
   name: Youtee
   title: Robot Overlord, Preservation Evoker
@@ -29,6 +42,7 @@ kig:
     x: https://x.com/kigsandgiggles
 pwrwrdholy:
   name: Pwrwrdholy
+  title: Kitten healer by day, Dog Lover all the time
   image_url: /img/config/doggo.webp
   description: Kitten healer by day, Dog Lover all the time. I play multiple healers in world of warcraft and moonlight as dps in M+
   page: true

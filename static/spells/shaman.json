@@ -2,9 +2,11 @@
     "active-spells": {
         "Riptide": 61295,
         "Chain Heal": 1064,
+        "Chain Heals": 1064,
         "Healing Stream Totem": 5394,
         "Ascendance": 114052,
         "Earthliving Weapon": 382021,
+        "Earthliving": 382021,
         "Unleash Life": 73685,
         "Ancestral Swiftness": 443454,
         "Natures Swiftness": 378081,
@@ -19,9 +21,14 @@
         "Earth Shield": 974,
         "Tidecallers Guard": 457481,
         "Downpour": 462486,
-        "Spirit Link Totem": 98008
+        "Spirit Link Totem": 98008,
+        "Spirit Walk": 58875,
+        "Gust of Wind": 192063,
+        "Spiritwalkers Grace": 79206
     },
-    "class-talents": {},
+    "class-talents": {
+        "Elemental Resistance": 462368
+    },
     "spec-talents": {
         "Water Totem Mastery": 382030,
         "Tidal Waves": 51564,
@@ -37,7 +44,13 @@
         "Spouting Spirits": 462383,
         "Tidewaters": 462424,
         "Lava Surge": 77756,
-        "Stormstream Totem": 1267016
+        "Stormstream Totem": 1267016,
+        "Quickstream": 1253099,
+        "Ancestral Reach": 382732,
+        "Flow of the Tides": 382039,
+        "Living Stream": 382482,
+        "Earthen Accord": 1271104,
+        "Overflowing Shores": 383222
     },
     "hero-talents": {
         "Surging Totem": 444995,
@@ -58,7 +71,11 @@
         "Ancestor Lava Burst": 447419,
         "Wind Barrier": 445031,
         "Supportive Imbuements": 445033,
-        "Reactivity": 445035
+        "Splitstream": 445035,
+        "Primal Catalyst": 1260874
     },
-    "other": {}
+    "other": {
+        "Season One Tier Two Piece": 1264866,
+        "Season One Tier Four Piece": 1264867
+    }
 }
