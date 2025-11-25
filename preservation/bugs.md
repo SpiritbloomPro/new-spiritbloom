@@ -18,6 +18,7 @@ This is a list of all currently known bugs affecting Preservation. If you find a
 | --- | --- |
 | !1256581! | !1256581! when !Echo!ed applies a full effectiveness non !Echo!ed !Reversion! on all targets with !Echo!. |
 | !1256581! | !1256581! is not buffed by !Tempo Charged! even though !1256581! is a bronze spell. |
+| !1256581! | Sometimes !1256581! will consume both charges of !Reversion! when used. |
 | !1256682! | !1256682! is currently does not scale with !Echo! effectiveness. |
 | !Consume Flame! | !Consume Flame! currently does not log or show on in-game meters. |
 | !Consume Flame! | All !Consume Flame! healing heals the target you initially casted the !Verdant Embrace! or !Emerald Blossoms! on, regardless of who they healed. |
