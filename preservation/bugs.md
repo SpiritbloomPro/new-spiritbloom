@@ -24,6 +24,6 @@ This is a list of all currently known bugs affecting Preservation. If you find a
 | !Consume Flame! | All !Consume Flame! healing heals the target you initially casted the !Verdant Embrace! or !Emerald Blossoms! on, regardless of who they healed. |
 | !Titan's Gift! | !Titan's Gift! buffs essence spells that are used that don't consume !Essence Burst!. Casts from !Stasis! and our new Season 1 Tierset as examples. |
 | !Threads of Fate! | !Threads of Fate! still exists and is proccing from Chronowarden during !Temporal Burst!. |
-| !Timeless Magic! | !Timeless Magic! Rank 1 incorrectly reduces !Echo!s mana cost by 22.5%, not 15%. Works Properly for !Temporal Anomoly!, !Reversion!, and !Time Dilation! |
-| !Life Cinders! | !Life Cinders! does not currently work at all. |
-| !Mertihras Blessing! | !Merithras Blessing! sometimes will consume 2 store portions of your !Stasis! with a single cast. It will release both !Merithras Blessing!s as normal casts. |
+| !Timeless Magic! | !Timeless Magic! Rank 1 incorrectly reduces !Echo!s mana cost by 22.5%, not 15%. Works Properly for !Temporal Anomaly!, !Reversion!, and !Time Dilation! |
+| !Lifecinders! | !Lifecinders! does not currently work at all. |
+| !Merithras Blessing! | !Merithras Blessing! sometimes will consume 2 store portions of your !Stasis! with a single cast. It will release both !Merithras Blessing!s as normal casts. |

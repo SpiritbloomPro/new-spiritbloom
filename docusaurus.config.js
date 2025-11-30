@@ -69,6 +69,7 @@ const config = {
     ],
   ],
   plugins: [
+    path.resolve(__dirname, './src/plugins/docusaurus-wowhead-tooltips'),
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -205,10 +206,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-    scripts: [
-      '/js/wowhead-tooltips.js',
-		  'https://wow.zamimg.com/js/tooltips.js'
-    ]
+    scripts: []
 };
 
 export default config;
