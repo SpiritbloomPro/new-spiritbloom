@@ -9,35 +9,35 @@ Preservation is a spec that relies pretty strongly on the interaction between it
 
 ## Specialization Spells
 ### Echo
-!Echo! is the most important part of the spec and plays a major role in how abilities interact with each other. The best way to think about !Echo! is that it behaves as a different cast of the spell it is !Echoing!, so effects that always apply to the spell also benefit the !Echoed! version but effects that only benefit your next cast of a spell will not work on !Echoed! casts.
+!Echo! is the most important part of the spec and plays a major role in how abilities interact with each other. The best way to think about !Echo! is that it behaves as a different cast of the spell it is !Echo!ing, so effects that always apply to the spell also benefit the !Echo!ed version but effects that only benefit your next cast of a spell will not work on !Echo!ed casts.
 
-A natural cast of !Echo! repeats the original spell at 70% strength, this is increased by !Time Lord! to 105%. !Echoes! applied by !Resonating Sphere! repeat casts at 30% strength and get increased to 45% by !Time Lord!.
+A natural cast of !Echo! repeats the original spell at 70% strength, this is increased by !Time Lord! to 105%. !Echo!es applied by !Resonating Sphere! repeat casts at 30% strength and get increased to 45% by !Time Lord!.
 
 This is a basic list of all the spells !Echo! interacts with and how it behaves:
 
-- !Living Flame!: Casting !Living Flame! on an ally while !Echo! is active on a friendly target will send an extra !Living Flame! to each !Echo!. If the target of the original !Living Flame! has an !Echo! then they will be hit by 2 !Living Flame!s. Each extra !Living Flame! has it's own chance to proc !Essence Burst!. If !Lifespark! is active when casting the original !Living Flame!, the main cast will be buffed by them but any !Echoed! !Living Flame!s will not.
+- !Living Flame!: Casting !Living Flame! on an ally while !Echo! is active on a friendly target will send an extra !Living Flame! to each !Echo!. If the target of the original !Living Flame! has an !Echo! then they will be hit by 2 !Living Flame!s. Each extra !Living Flame! has it's own chance to proc !Essence Burst!. If !Lifespark! is active when casting the original !Living Flame!, the main cast will be buffed by them but any !Echo!ed !Living Flame!s will not.
 
-- If playing Chronowarden, !Chrono Flame! also hits everyone that gets an !Echoed! !Living Flame!. The main cast of !Chrono Flame! generates a !Temporal Compression! stack but !Echoed! hits won't.
+- If playing Chronowarden, !Chrono Flame! also hits everyone that gets an !Echo!ed !Living Flame!. The main cast of !Chrono Flame! generates a !Temporal Compression! stack but !Echo!ed hits won't.
 
-- !Verdant Embrace!: !Verdant Embrace! will only make you dash to the main target, !Echoed! !Verdant Embrace!s will heal the targets with !Echo! but won't make you move to them. !Lifebind! **does not** apply to people healed by !Echo! !Verdant Embrace!
+- !Verdant Embrace!: !Verdant Embrace! will only make you dash to the main target, !Echo!ed !Verdant Embrace!s will heal the targets with !Echo! but won't make you move to them. !Lifebind! **does not** apply to people healed by !Echo! !Verdant Embrace!
 
 <VideoClip url='https://imgur.com/dPh1J3w.mp4' />
 
-- !Reversion!: !Reversion! will apply a second, different version of itself to all targets that have !Echo! when it is cast. This second !Reversion! is a different buff from the manually cast !Reversion!, meaning both can be present at the same time on the same target. Casting !Reversion! will apply !Golden Hour! on the original target and everyone who gets an !Echoed! !Reversion! as well, scaled to the strength of the !Echo! that applied the !Reversion!. The same target can be healed by two !Golden Hour!s from base !Reversion! and !Echoed! !Reversion! on the same cast.
+- !Reversion!: !Reversion! will apply a second, different version of itself to all targets that have !Echo! when it is cast. This second !Reversion! is a different buff from the manually cast !Reversion!, meaning both can be present at the same time on the same target. Casting !Reversion! will apply !Golden Hour! on the original target and everyone who gets an !Echo!ed !Reversion! as well, scaled to the strength of the !Echo! that applied the !Reversion!. The same target can be healed by two !Golden Hour!s from base !Reversion! and !Echo!ed !Reversion! on the same cast.
 
 - Having two different !Reversion! buffs on the same person also means you get double the effect of !Grace Period!, making it a total of 21% healing increase on said target. This effect does not scale up or down with !Echo! strength.
 
-- !Dream Breath!: When casting !Dream Breath!, every ally with !Echo! will receive a copy of both the initial heal and the over time effects at the same rank as the original cast. Like with !Reversion!, !Echoed! !Dream Breath! is a different buff than the regular cast, which means you can have both heals over time active on the same person at the same time.
+- !Dream Breath!: When casting !Dream Breath!, every ally with !Echo! will receive a copy of both the initial heal and the over time effects at the same rank as the original cast. Like with !Reversion!, !Echo!ed !Dream Breath! is a different buff than the regular cast, which means you can have both heals over time active on the same person at the same time.
 
-- !Merithras Blessing!: Every ally with an !Echo! will create a **full** !Merithras Blessing!, which will heal them first before bouncing up to five times the same way the original cast does. Because !Merithras Blessing! is overrides !Reversion!, it will also apply !Reversion! to the main target *and* all allies with !Echo! when it is cast. Notably, !Echoing! !Merithras Blessing! applies the baseline version of !Reversion!, not the !Echo! one.
+- !Merithras Blessing!: Every ally with an !Echo! will create a **full** !Merithras Blessing!, which will heal them first before bouncing up to five times the same way the original cast does. Because !Merithras Blessing! is overrides !Reversion!, it will also apply !Reversion! to the main target *and* all allies with !Echo! when it is cast. Notably, !Echo!ing !Merithras Blessing! applies the baseline version of !Reversion!, not the !Echo! one.
 
-To note: !Emerald Blossom!, !Rescue!, !Cauterizing Flame!, !Dream Flight!, !Rewind!, !Time Dilation!, and !Naturalize! do not interact with !Echo! in any way. They don't consume active !Echoes!.
+To note: !Emerald Blossom!, !Rescue!, !Cauterizing Flame!, !Dream Flight!, !Rewind!, !Time Dilation!, and !Naturalize! do not interact with !Echo! in any way. They don't consume active !Echo!es.
 
 ### Temporal Anomaly
 
 Baseline !Temporal Anomaly! is a fairly straightforward spell, it sends an orb that travels forwards from your location putting a shield on every allied player it hits, the size of the shield gets reduced beyond the first five targets by a huge amount. !Temporal Anomaly! gets augmented by the choice node talent where you pick between !Resonating Sphere! and !Nozdormus Teachings!.
 
-If you are playing !Resonating Sphere!, as !Temporal Anomaly! travels it will apply Echo to the first 5 targets it hits, this !Echo! replicates at 30% strength normally and gets increased by !Time Lord! to 45%. !Temporal Anomaly! won't overwrite manually cast !Echoes! and will just pass over people that have stronger !Echoes! and apply it's effect to other players instead.
+If you are playing !Resonating Sphere!, as !Temporal Anomaly! travels it will apply Echo to the first 5 targets it hits, this !Echo! replicates at 30% strength normally and gets increased by !Time Lord! to 45%. !Temporal Anomaly! won't overwrite manually cast !Echo!es and will just pass over people that have stronger !Echo!es and apply it's effect to other players instead.
 If you have !Nozdormus Teachings!, !Temporal Anomaly! will instead reduce the current cooldown of all empower spells by 5 seconds, these being !Dream Breath!, and !Fire Breath!. If you put a !Nozdormus Teachings! !Temporal Anomaly! inside your !Stasis!, releasing your !Stasis! will reduce the cooldowns of the empowers when the !Temporal Anomaly! comes out, if you put several !Temporal Anomalies! into your !Stasis!, each one will reduce the cooldowns by 5 seconds.
 
 ### Stasis
@@ -64,11 +64,11 @@ This are the !Stasis! interactions with our spells:
 
 The first and most important thing to know about !Reversion! is that it is actually two different heals over time. !Reversion! and it's !Echo! version both can exist on the same player on the same time and each brings it's own set of effects with it.
 
-For !Golden Hour!, !Reversion! itself will heal via !Golden Hour! and the !Echoed! version will also apply !Golden Hour! healing scaled to the strength of the !Echo! it was used to apply it. A weaker !Echo! from !Temporal Anomaly! would mean less !Golden Hour! healing from the !Echoed! version of !Reversion!.
+For !Golden Hour!, !Reversion! itself will heal via !Golden Hour! and the !Echo!ed version will also apply !Golden Hour! healing scaled to the strength of the !Echo! it was used to apply it. A weaker !Echo! from !Temporal Anomaly! would mean less !Golden Hour! healing from the !Echo!ed version of !Reversion!.
 
 !Grace Period! on the other hand is not scaled to !Echo! strength, and having two !Reversions! on the same target means double the !Grace Period! effect on that player (multiplicative between each other) regardless of if it was applied with a natural !Echo! or a !Resonating Sphere! !Echo!.
 
-!Reversion! also has a chance to proc !Essence Burst! on cast. This means when you use the spell it has a chance to grant you !Essence Burst! once for the natural cast and then once more for each !Echo! active at the time. Similar to how !Living Flame! behaves when !Echoed!.
+!Reversion! also has a chance to proc !Essence Burst! on cast. This means when you use the spell it has a chance to grant you !Essence Burst! once for the natural cast and then once more for each !Echo! active at the time. Similar to how !Living Flame! behaves when !Echo!ed.
 
 One interaction that !Golden Hour! specifically has with stagger-like effects like !Time Dilation! and Brewmaster monk's stagger is that !Golden Hour! considers damage taken as the whole of the damage instance before it is reduced by stagger, but also takes into account the damage taken from the stagger itself. This means that a a lot of damage taken into stagger will make !Golden Hour! heal for way more than what it seems like it should. In practice this means that !Reversion! is a good way to heal people after you !Time Dilation! them to protect them from a big hit and also we are incredibly good at healing Brewmaster.
 
@@ -80,13 +80,13 @@ Our apex talent, it makes it so that every time you use either !Echo! or !Emeral
 
 - !Merithras Blessing! is an instant-cast spell that will instantly heal the target and then proceed to jump up to five times to other injured players healing them for the same amount. If there are no more injured players nearby it can do all of its jumps on the same target healing them multiple times
 
-- !Merithras Blessing! !Echoes! fully, meaning every !Echo! you consume with it will do the initial heal and all the five extra bounces.
+- !Merithras Blessing! !Echo!es fully, meaning every !Echo! you consume with it will do the initial heal and all the five extra bounces.
 
-- Despite being a replacement for !Reversion!, it still applies a normal !Reversion! on the target of the cast and on any !Echoes! it consumes. Notably, !Echoing! !Merithras Blessing! will apply the baseline version of !Reversion!, not the !Echo! one.
+- Despite being a replacement for !Reversion!, it still applies a normal !Reversion! on the target of the cast and on any !Echo!es it consumes. Notably, !Echo!ing !Merithras Blessing! will apply the baseline version of !Reversion!, not the !Echo! one.
 
 ### Lifebind
 
-Every time you use !Verdant Embrace! on someone that isn't yourself that target will have !Lifebind! applied on them. While !Lifebind! is active 60% of the healing you do on either target will transfer to the other. **!Lifebind! does not apply to !Echoed! !Verdant Embrace!**.
+Every time you use !Verdant Embrace! on someone that isn't yourself that target will have !Lifebind! applied on them. While !Lifebind! is active 60% of the healing you do on either target will transfer to the other. **!Lifebind! does not apply to !Echo!ed !Verdant Embrace!**.
 
 You are usually limited to one !Lifebind! at the same time but things like !Wings of Liberty! and !Stasis! can let you have multiple up at the same time. In this case it is important to remember that **!Lifebind! works between you and the affected players, and not from the affected players to each other**, healing you do to yourself will transfer to all !Lifebinds! but healing someone else that has !Lifebind! will only transfer back to you, not to everyone else.
 
@@ -118,11 +118,11 @@ To note, !Time of Need! also has a ~100% power increase to all spells it casts c
 
 - !Call of Ysera! and !Lifespark! stack. Having both buffs up when casting a !Living Flame! will increase its healing multiplicatively.
 
-- !Lifespark! does not !Echo!. Healing someone with an !Echoed! !Living Flame! buffed by !Lifespark! will only hit them with a normal, unbuffed !Living Flame!.
+- !Lifespark! does not !Echo!. Healing someone with an !Echo!ed !Living Flame! buffed by !Lifespark! will only hit them with a normal, unbuffed !Living Flame!.
 
 ### Titan's Gift
 
-!Echoes! cast with !Essence Bursts! will have their initial heal increased by 25%, and also transfer 25% more when they are consumed (88% power without !Time Lord! and 131% with it), and !Emerald Blossoms! cast with !Essence Bursts! will heal for 25% more.
+!Echo!es cast with !Essence Bursts! will have their initial heal increased by 25%, and also transfer 25% more when they are consumed (88% power without !Time Lord! and 131% with it), and !Emerald Blossoms! cast with !Essence Bursts! will heal for 25% more.
 
 ### Flow State
 
@@ -147,7 +147,7 @@ Casting !Verdant Embrace! will instantly make you fly to your targeted ally and 
 
 <VideoClip url="https://i.imgur.com/Z25ZGeP.mp4" />
 
-You can avoid the flight by talenting into !Dream Simulacrum!, and can cast !Verdant Embrace! multiple times in succession by talenting into !Wings of Liberty!. !Verdant Embrace! is a very potent tool in Preservation's kit as a very powerful single target heal that can be !Echoed! and learning how to use it in the correct situations without killing yourself is important.
+You can avoid the flight by talenting into !Dream Simulacrum!, and can cast !Verdant Embrace! multiple times in succession by talenting into !Wings of Liberty!. !Verdant Embrace! is a very potent tool in Preservation's kit as a very powerful single target heal that can be !Echo!ed and learning how to use it in the correct situations without killing yourself is important.
 
 ### Emerald Blossom
 
@@ -161,7 +161,7 @@ For Flameshaper, any target healed by !Emerald Blossom! will also be healed by !
 
 Casting !Fire Breath! will give you the !Leaping Flames! buff, which will make your next !Living Flame! spawn additional !Living Flames! depending on the rank of the !Fire Breath!, each rank adds one additional !Living Flame!. With !Font of Magic! the maximum amount of extra !Living Flames! !Leaping Flames! can give is 4, this means that casting !Living Flame! will hit five targets, one for the original cast and four extras from !Leaping Flames!.
 
-If the !Living Flame! that consumes the buff is an offensive one, then the extra !Living Flame! will try to hit unique enemy targets, if you have more extra !Living Flames! than there are enemies available then the !Living Flames! will heal nearby allies. In a single target scenario this means that casting !Living Flame! with !Leaping Flames! on the one enemy you are fighting will hit that enemy with one !Living Flame! and four nearby allies with healing !Living Flames!. This healing !Living Flames! will not consume any !Echoes! you might have out at the time and they also won't consume !Lifespark! nor benefit from it.
+If the !Living Flame! that consumes the buff is an offensive one, then the extra !Living Flame! will try to hit unique enemy targets, if you have more extra !Living Flames! than there are enemies available then the !Living Flames! will heal nearby allies. In a single target scenario this means that casting !Living Flame! with !Leaping Flames! on the one enemy you are fighting will hit that enemy with one !Living Flame! and four nearby allies with healing !Living Flames!. This healing !Living Flames! will not consume any !Echo!es you might have out at the time and they also won't consume !Lifespark! nor benefit from it.
 
 If you cast !Living Flame! on an ally while !Leaping Flames! is up, then the extra !Living Flames! will aim towards nearby allies. The extra !Living Flames! will not benefit from !Lifespark! and the buff will be consumed.
 
@@ -217,10 +217,10 @@ For Chronowardens, !Chrono Flame! will 'replace' !Living Flame! on your spell bo
 
 And a couple of things to know about this spell:
 
-- Any !Echoed! !Chrono Flame! will also behave in this same way.
+- Any !Echo!ed !Chrono Flame! will also behave in this same way.
 - !Chrono Flames! generated by !Afterimage! also cast a full !Living Flame! + !Chrono Flame!.
 - The cap is per target and it's not really worth tracking or worrying about it.
-- !Chrono Flame! turns !Living Flame! into a bronze spell, and now every hard cast generates a stack of !Temporal Compression!. !Echoed!!Chrono Flame! and the ones from !Afterimage! don't generate more stacks.
+- !Chrono Flame! turns !Living Flame! into a bronze spell, and now every hard cast generates a stack of !Temporal Compression!. !Echo!ed!Chrono Flame! and the ones from !Afterimage! don't generate more stacks.
 
 ### Afterimage
 
@@ -248,6 +248,6 @@ The amount of !Chrono Flames! caused depends on the amount of targets hit, not t
 
 Healing a target that has a !Dream Breath! active with either !Verdant Embrace! or !Emerald Blossom! will cause !Consume Flame!, reducing the duration remaining on the !Dream Breath! buff and healing that target for twice the amount the heal over time would do over a period of time, four seconds for !Verdant Embrace! and two seconds for !Emerald Blossom!. It is important to notice that unlike the previous version of !Consume Flame!, **it will only heal the player whose !Dream Breath! is getting consumed, and do no AoE healing at all**.
 
-Each instance of !Verdant Embrace! or !Blossom! healing causes its own !Consume Flame!, so !Echoing! the spells means you can cause multiple !Consume Flames! at the same time and even multiple times on the same target.
+Each instance of !Verdant Embrace! or !Blossom! healing causes its own !Consume Flame!, so !Echo!ing the spells means you can cause multiple !Consume Flames! at the same time and even multiple times on the same target.
 
 The healing of !Consume Flame! depends on the healing of !Dream Breath!, and not the !Verdant Embrace! or !Blossom! that triggered it, so to increase its healing you can use talents like !Call of Ysera!, !Renewing Breath!, !Expanded Lungs!, !Tempo Charged! and !Fulminous Roar!.

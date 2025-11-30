@@ -1,0 +1,12 @@
+{
+    "name": "docusaurus-wowhead-tooltips",
+    "version": "0.1.0",
+    "description": "Loader & updater for wowhead tooltips.",
+    "main": "src/index.js",
+    "publishConfig": {
+      "access": "public"
+    },
+    "engines": {
+      "node": ">=12.13.0"
+    }
+}
