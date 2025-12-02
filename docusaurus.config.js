@@ -141,7 +141,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/spiritbloompro-social-card.jpg',
+      image: 'img/Spiritbloom.png',
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: true,
