@@ -14,7 +14,7 @@ Occasionally pulls monsters you are not engaged with.
 
 - !Beacon of Light!
 
-!Pillar of Light! healing does not scale with mastery when the talent !Beacon of Faith! is chosen.
+!Pillars of Light! healing does not scale with mastery when the talent !Beacon of Faith! is chosen.
 
 Beacons can randomly stop working, why isn't entirely sure but it has rarely happened for over a decade.
 
@@ -28,7 +28,7 @@ Healing storage is calculated before mastery. A 150k heal with 50% mastery only 
 
 Effective healing to healing absorb shields does not count towards your next !Holy Shock!
 
-- !Suns avatar!
+- !Suns Avatar!
 
 Beams and healing can sometimes continue after !Dawnlight! expires.
 
