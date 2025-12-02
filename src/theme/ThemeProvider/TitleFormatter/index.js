@@ -2,7 +2,6 @@ import React from 'react';
 import {TitleFormatterProvider} from '@docusaurus/theme-common/internal';
 const formatter = (params) => {
   // Add your own title formatting logic here!
-  console.log(params);
   var pluginTitles = {
     "restoration-shaman": 'Shaman',
     "preservation": 'Evoker',
