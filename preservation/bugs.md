@@ -16,7 +16,7 @@ This is a list of all currently known bugs affecting Preservation. If you find a
 
 | Talent | Bug |
 | --- | --- |
-| !Merithras Blessing! | !Merithras Blessing! when !Echo!ed applies a full effectiveness non !Echo!ed !Reversion! on all targets with !Echo!. |
+| !Merithras Blessing! | !Merithras Blessing! when !Echoed! applies a full effectiveness non !Echoed! !Reversion! on all targets with !Echo!. |
 | !Merithras Blessing! | !Merithras Blessing! is not buffed by !Tempo Charged! even though !Merithras Blessing! is a bronze spell. |
 | !Merithras Blessing! | Sometimes !Merithras Blessing! will consume both charges of !Reversion! when used. |
 | !Merithras Blessing Reversion! | !Merithras Blessing Reversion! currently does not scale with !Echo! effectiveness. |
