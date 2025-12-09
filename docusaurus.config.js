@@ -144,6 +144,7 @@ const config = {
       image: 'img/Spiritbloom.png',
       metadata: [
         {name: 'twitter:card', content: 'summary'},
+        {name: 'og:site_name', content: 'Spiritbloom.Pro'}
       ],
       colorMode: {
         defaultMode: 'dark',
