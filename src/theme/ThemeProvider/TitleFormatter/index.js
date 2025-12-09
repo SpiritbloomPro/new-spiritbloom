@@ -9,8 +9,8 @@ const formatter = (params) => {
     "holy-priest": 'Priest',
     "general": 'General Healing'
   };
-  var currentPluging = params.plugin.id !== 'default' ? pluginTitles[params.plugin.id] + ' | ' : '';
-  var title = params.title + ' | ' + currentPluging + params.siteTitle;
+  var currentPluging = params.plugin.id !== 'default' ? pluginTitles[params.plugin.id] + ' | ': '';
+  var title = currentPluging + params.title;
   return title;
 };
 export default function ThemeProviderTitleFormatter({children}) {
