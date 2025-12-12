@@ -16,13 +16,9 @@ This is a list of all currently known bugs affecting Preservation. If you find a
 
 | Talent | Bug |
 | --- | --- |
-| !Merithras Blessing! | !Merithras Blessing! when !Echoed! applies a full effectiveness non !Echoed! !Reversion! on all targets with !Echo!. This also causes full effectiveness !Golden Hour!'s on all targets as well. |
-| !Merithras Blessing! | !Merithras Blessing! will consume both charges of !Reversion! when used when any !Echo!'s are present on an ally. |
 | !Merithras Blessing Reversion! | !Merithras Blessing Reversion! currently does not scale with !Echo! effectiveness. |
 | !Titan's Gift! | !Titan's Gift! buffs essence spells that are used that don't consume !Essence Burst!. Casts from !Stasis! and our new Season 1 Tierset as examples. |
 | !Timeless Magic! | !Timeless Magic! Rank 1 incorrectly reduces !Echo!s mana cost by 22.5%, not 15%. Works Properly for !Temporal Anomaly!, !Reversion!, and !Time Dilation! |
-| !Lifecinders! | !Lifecinders! does not currently work at all. |
-| !Merithras Blessing! | !Merithras Blessing! sometimes will consume 2 store portions of your !Stasis! with a single cast. It will release both !Merithras Blessing!s as normal casts. |
 | !Essence Well! | Casting !Dream Breath! with any !Echo!'s out will cause multiple instances of !Essence Well!. |
-| !Energy Loop! | !Energy Loop! gives a significantly lower amount of mana proportionally on beta vs live despite being no patch notes.|
+| !Energy Loop! | !Energy Loop! gives a significantly lower amount of mana proportionally on beta vs live despite being no patch notes. |
 | !Nozdormu's Teachings! | !Nozdormu's Teachings! Gives 10 seconds of CDR instead of 5 with no patch notes addressing this as a change.
