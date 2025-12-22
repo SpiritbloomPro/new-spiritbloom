@@ -1,10 +1,10 @@
 ---
 title: Midnight, what has changed?
 description: A detailed run-down of what has changed for holy paladin between retail and pre-patch.
-unlisted: true
+unlisted: false
 sidebar_position: 2
 ---
-Going into the pre-patch of midnight we're going to see a rather large overhaul of holy paladin; Blizzard's new philosophy can be broken down into 2 important parts: 
+Going into the pre-patch of midnight we're going to see a rather large overhaul of holy paladin; Blizzard's new philosophy can be broken down into 2 important parts:
 
 - Remove button bloat
 - Less random trickle healing
