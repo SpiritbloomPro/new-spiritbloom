@@ -4,6 +4,9 @@
         "Chain Heal": 1064,
         "Chain Heals": 1064,
         "Healing Stream Totem": 5394,
+        "Healing Stream Totems": 5394,
+        "Stormstream Totem": 1267068,
+        "Stormstream Totems": 1267068,
         "Ascendance": 114052,
         "Earthliving Weapon": 382021,
         "Earthliving": 382021,
@@ -28,7 +31,10 @@
         "Bloodlust": 2825
     },
     "class-talents": {
-        "Elemental Resistance": 462368
+        "Elemental Resistance": 462368,
+        "Therazanes Resilience": 1217622,
+        "Reactive Warding": 462454,
+        "Instinctive Imbuements": 1270350
     },
     "spec-talents": {
         "Water Totem Mastery": 382030,
@@ -40,18 +46,25 @@
         "Whispering Waves": 1217598,
         "Mastery": 77226,
         "Acid Rain": 378443,
-        "Therazanes Resilience": 1217622,
         "Creation Core": 383012,
         "Spouting Spirits": 462383,
         "Tidewaters": 462424,
         "Lava Surge": 77756,
-        "Stormstream Totem": 1267016,
         "Quickstream": 1253099,
         "Ancestral Reach": 382732,
         "Flow of the Tides": 382039,
         "Living Stream": 382482,
         "Earthen Accord": 1271104,
-        "Overflowing Shores": 383222
+        "Overflowing Shores": 383222,
+        "Crashing Waves": 1253090,
+        "Coalescing Water": 470076,
+        "Water Expulsion": 1253014,
+        "Double Dip": 1252882,
+        "Calm Waters": 1252841,
+        "Undercurrent": 382194,
+        "Stormstream Totem Proc": 1267016,
+        "Stormstream Totem Healing Increase": 1267093,
+        "Stormstream Totem Swiftness": 1267120
     },
     "hero-talents": {
         "Surging Totem": 444995,
@@ -65,6 +78,7 @@
         "Whirling Earth": 453406,
         "Latent Wisdom": 443449,
         "Heed My Call": 443444,
+        "Mystic Knowledge": 1270450,
         "Ancestor Chain Lightning": 447425,
         "Ancestor Healing Wave": 1223391,
         "Ancestor Chain Heal": 447433,
@@ -73,10 +87,24 @@
         "Wind Barrier": 445031,
         "Supportive Imbuements": 445033,
         "Splitstream": 445035,
+        "Earthsurge": 455590,
         "Primal Catalyst": 1260874
     },
     "other": {
         "Season One Tier Two Piece": 1264866,
-        "Season One Tier Four Piece": 1264867
+        "Season One Tier Four Piece": 1264867,
+        "Ancestral Protection Totem": 207399,
+        "Earthen Wall Totem": 198838,
+        "Healing Surge": 8004,
+        "High Tide": 157154,
+        "Mana Tide": 1217525,
+        "Spiritwalkers Tidal Totem": 404522,
+        "Master of the Elements": 462375,
+        "Tidebringer": 236501,
+        "Undulation": 200071,
+        "Wellspring": 197995,
+        "Totemic Recall": 108285,
+        "Stone Bulwark Totem": 108270,
+        "Thunderstorm": 51490
     }
 }

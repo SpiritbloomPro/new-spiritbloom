@@ -25,7 +25,7 @@ Here you will find details on how the Restoration Shaman spells work. The goal h
 - By default !Healing Stream Totem! will heal a single ally every two seconds reduced by haste.
 - !Quickstream! reduces the time between ticks by 15%.
 - !Living Stream! doubles the healing of !Healing Stream Totem! but decays over its duration, averaging a 50% increase.
-- !Splitstream! adds an additional target to every tick of !Healing Stream Totem!.
+- !Splitstream! adds an additional target to every tick of !Healing Stream Totem! at 30% the power of the main target.
 - Every tick of !Healing Stream Totem! has a chance to apply !Earthliving! thanks to !Primal Catalyst!.
 - When !Stormstream Totem! procs, you will get a free use of it regardless of the current cooldown of !Healing Stream Totem!. !Stormstream Totem! also adds one more target to heal going up to three with !Splitstream!.
 - !Elemental Resistance! makes healing from !Healing Stream Totem! apply a buff that reduces fire, frost and nature damage taken.
@@ -51,7 +51,7 @@ Targets that get their HP increased by !Ancestral Vigor! keep the same percentag
 
 !Surging Totem! completely replaces !Healing Rain! when you spec into Totemic, and will maintain the rain for you in the area the totem is currently placed at. However because the cooldown of !Surging Totem! is longer than what baseline !Healing Rain! has, the spec also has the !Totemic hidden aura! which the following effects:
 
-- !Healing Rain! heals for 30% more (this is mentioned on the !Surging Totem! tooltip).
+- !Healing Rain! heals for 20% more (this is mentioned on the !Surging Totem! tooltip).
 - !Downpour! healing increased by 100%.
 - !Overflowing Shores! healing increased by 100%.
 - !Tidewaters! healing increased by 100%.

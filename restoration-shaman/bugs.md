@@ -11,6 +11,7 @@ This is a list of all currently known bugs affecting Restoration Shaman. If you 
 
 | Spell | Bug |
 | --- | --- |
+| !Stormstream Totem! | As Farseer, casting !Stormstream Totem! doesn't cause your ancestors to use !Ancestor Chain Heal! |
 | !Tidecallers Guard! | The bonuses stop working if you die, even if the buff is still active, until you reapply it |
 | !Ancestral Swiftness!, !Acid Rain! | The damage from !Acid Rain! is not increased if the !Healing Rain! is casted via !Ancestral Swiftness! |
 | !Downpour! | !Downpour! will consume !Ancestral Swiftness!, other instant cast spells like !Riptide! don't consume !Ancestral Swiftness! |
@@ -22,6 +23,6 @@ This is a list of all currently known bugs affecting Restoration Shaman. If you 
 | Talent | Bug |
 | --- | --- |
 | !Spouting Spirits!, !Lively Totems! | !Spouting Spirits! will cause !Lively Totems! to fire !Chain Heal! on both the initial placement of !Spirit Link Totem! and the heal from !Spouting Spirits! |
-| !Whirling Earth! | The earth mote can't be consumed, neither !Chain Heals! from !Splitstream! nor hard casted ones consume the buff to apply !Earthliving! |
 | !Earthliving Weapon! | The !Earthliving Weapon! buff sometimes can't be refreshed |
-| !Quickstream! | !Quickstream! doesn't do anything |
+| !Quickstream! | !Healing Stream Totem! does not heal more often |
+| !Crashing Waves! | The critical strike chance of !Healing Wave! is not increased |
