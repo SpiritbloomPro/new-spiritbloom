@@ -4,7 +4,12 @@ description: A detailed run-down of what has changed for holy paladin between re
 unlisted: true
 sidebar_position: 2
 ---
-Going into the pre-patch of midnight we're going to see a rather large overhaul of holy paladin, from talents to spells. Removals, reworks and additions we'll be doing a run-through of all of them!
+Going into the pre-patch of midnight we're going to see a rather large overhaul of holy paladin; Blizzard's new philosophy can be broken down into 2 important parts: 
+
+- Remove button bloat
+- Less random trickle healing
+
+So from talents to spells, removals, reworks and additions we'll be doing a run-through of all of them!
 
 # Class Tree
 
@@ -118,55 +123,55 @@ Three new talents have been added here: !Masterwork!, !Reflection of Radiance! a
 
 ## Reworked
 
-!Holy Shock! now replaces !Crusader Strike!. 
+!Holy Shock! now replaces !Crusader Strike!.
 
-!Light of Dawn! is now a 360 degree aoe around yourself, healing all allies within 40yds. 
+!Light of Dawn! is now a 360 degree aoe around yourself, healing all allies within 40yds.
 
-!Unending Light! gives !Light of Dawn! a 20% increased mastery benefit, instead of the increased healing per holy power spent. 
+!Unending Light! gives !Light of Dawn! a 20% increased mastery benefit, instead of the increased healing per holy power spent.
 
-!Righteous Judgment! now replaces !Consecration!, assisting in the pruning of buttons. 
+!Righteous Judgment! now replaces !Consecration!, assisting in the pruning of buttons.
 
-!Saved by the Light! has been changed to by a more reactive heal whenever your beacons take damage, increased based on their missing health. 
+!Saved by the Light! has been changed to by a more reactive heal whenever your beacons take damage, increased based on their missing health.
 
-!Shining Righteousness! is now a %-chance to activate Divine Purpose. 
+!Shining Righteousness! is now a %-chance to activate Divine Purpose.
 
-!Empyrean Legacy! causes your Judgment critical strikes to activate the effect, instead of having a cooldown. 
+!Empyrean Legacy! causes your Judgment critical strikes to activate the effect, instead of having a cooldown.
 
-!Veneration! has been changed to make Judgment grant an absorb shield split evenly among affected allies, instead of being a heal from !Hammer of Wrath!. It's also only reset by !Flash of Light! and !Holy Light! critical strikes, with !Judgment! no longer resetting it. 
+!Veneration! has been changed to make Judgment grant an absorb shield split evenly among affected allies, instead of being a heal from !Hammer of Wrath!. It's also only reset by !Flash of Light! and !Holy Light! critical strikes, with !Judgment! no longer resetting it.
 
-!Avenging Crusader! now causes your auto attacks to deal 1000% increased damage, and replaces the spell with !Crusader Strike! while it is active. The cooldown reduction has been removed, and now !Judgment! and !Crusader Strike! only heals for 100% instead of 260% of the damage dealt. 
+!Avenging Crusader! now causes your auto attacks to deal 1000% increased damage, and replaces the spell with !Crusader Strike! while it is active. The cooldown reduction has been removed, and now !Judgment! and !Crusader Strike! only heals for 100% instead of 260% of the damage dealt.
 
-!Sanctified Wrath! increases the duration of !Avenging Wrath! and !Avenging Crusader! by 50% instead of reducing the cooldown of !Holy Shock! while active. 
+!Sanctified Wrath! increases the duration of !Avenging Wrath! and !Avenging Crusader! by 50% instead of reducing the cooldown of !Holy Shock! while active.
 
-!Awakening! has been changed to make your holy power spenders have a 10% chance to cause your next !Judgment! to deal 30% increased damage and critically strike. This is also activated when you use wings. 
+!Awakening! has been changed to make your holy power spenders have a 10% chance to cause your next !Judgment! to deal 30% increased damage and critically strike. This is also activated when you use wings.
 
-!Rising Sunlight! is no longer a burst after casting toll and wings, it is instead a scaling 10% healing increase based on the average health of your beacons, with it being stronger the lower health they are. 
+!Rising Sunlight! is no longer a burst after casting toll and wings, it is instead a scaling 10% healing increase based on the average health of your beacons, with it being stronger the lower health they are.
 
 ## Added
 
-We've seen several new additions to our talent tree. Some more interesting than others, but almost all with their own unique flavor. 
+We've seen several new additions to our talent tree. Some more interesting than others, but almost all with their own unique flavor.
 
-Most interestingly we have our new Apex Talent !Beacon of the Savior! which is a passive beacon that flies around from injured target to injured target, it also applies shields to its targets every 8 seconds or whenever it jumps to a new target. This shield is a 10% DR for 15 seconds and a large absorb. Extremely strong as it stands, but also completely passive and uninteractible. 
+Most interestingly we have our new Apex Talent !Beacon of the Savior! which is a passive beacon that flies around from injured target to injured target, it also applies shields to its targets every 8 seconds or whenever it jumps to a new target. This shield is a 10% DR for 15 seconds and a large absorb. Extremely strong as it stands, but also completely passive and uninteractible.
 
-!Infusion of Light! has been turned into a talent for god knows which reason. 
+!Infusion of Light! has been turned into a talent for god knows which reason.
 
-!Ringing of the Heavens! is a nice new addition, making Aura Mastery cast a free !Divine Toll!. 
+!Ringing of the Heavens! is a nice new addition, making Aura Mastery cast a free !Divine Toll!.
 
-!Divine Overload! turns !Holy Light! into an even bigger nuke of a heal, increasing its healing by 30% while increasing mana cost by 20%. 
+!Divine Overload! turns !Holy Light! into an even bigger nuke of a heal, increasing its healing by 30% while increasing mana cost by 20%.
 
-!Call of the Righteous! is a very interesting new talent, it makes !Avenging Wrath! have 7.5/15 second reduced cooldown, but 2.5/4 seconds reduced duration through 2 talent points. Definitely an interesting choice for more uptime on wings. 
+!Call of the Righteous! is a very interesting new talent, it makes !Avenging Wrath! have 7.5/15 second reduced cooldown, but 2.5/4 seconds reduced duration through 2 talent points. Definitely an interesting choice for more uptime on wings.
 
-!Seraphic Barrier! is one of the more underwhelming additions. On paper it is nice, making our spenders heal less up-front but do more of their healing as absorb shields which are always heavily favored. Unfortunately as it stands it's a large healing loss outside of massively overhealed situations. 
+!Seraphic Barrier! is one of the more underwhelming additions. On paper it is nice, making our spenders heal less up-front but do more of their healing as absorb shields which are always heavily favored. Unfortunately as it stands it's a large healing loss outside of massively overhealed situations.
 
 ## Moved
 
-!Holy Prism! has been moved to the class tree. 
+!Holy Prism! has been moved to the class tree.
 
-!Crusader's Might! has been moved up two rows to be a choice node with !Liberation! 
+!Crusader's Might! has been moved up two rows to be a choice node with !Liberation!
 
 !Tyr's Deliverance! has been turned into a capstone, making it a choice node with !Hand of Divinity! which has been moved down from a mid-tier talent to be a capstone.
 
-!Tirion's Devotion! and !Extrication! have been moved down two rows. 
+!Tirion's Devotion! and !Extrication! have been moved down two rows.
 
 ## Removed
 
