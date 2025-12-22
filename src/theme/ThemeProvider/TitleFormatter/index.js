@@ -7,10 +7,12 @@ const formatter = (params) => {
     "preservation": 'Evoker',
     "holy-paladin": 'Paladin',
     "holy-priest": 'Priest',
-    "general": 'General Healing'
+    "general": 'General Healing',
+    "default": 'Spiritbloom.Pro'
   };
-  var currentPluging = params.plugin.id !== 'default' ? pluginTitles[params.plugin.id] + ' | ': '';
+  var currentPluging = pluginTitles[params.plugin.id] + ' | ';
   var title = currentPluging + params.title;
+  console.log(title)
   return title;
 };
 export default function ThemeProviderTitleFormatter({children}) {
