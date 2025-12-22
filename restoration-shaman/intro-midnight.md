@@ -2,7 +2,6 @@
 sidebar_position: 2
 description: Listing of Midnight Changes
 title: Midnight Changes
-unlisted: true
 ---
 
 It is important to keep in mind that Midnight represents a big change in the design philosophy for healing, combat and class design. A lot of things are changing or going away and there is not a lot of new stuff added, but all of this is done in the context of a simpler and more straightforward game. There are a lot of things that were cool or nice to have but not really super important for moment to moment gameplay, and there where some effects that seemed interesting on the surface but ended up being chores during actual combat.

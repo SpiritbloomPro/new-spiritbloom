@@ -10,7 +10,7 @@ Restoration is a very welcoming spec, with a low barrier to entry and able to gi
 
 ## Pages
 
-<!-- - [Midnight Changes](/restoration-shaman/intro-midnight): Details on the most important changes going into Midnight. -->
+- [Midnight Changes](/restoration-shaman/intro-midnight): Details on the most important changes going into Midnight.
 - [Spell Interactions](/restoration-shaman/interactions): A list of all the inner workings of the spec's spells.
 - [Bug List](/restoration-shaman/bugs): Our list of known bugs.
 

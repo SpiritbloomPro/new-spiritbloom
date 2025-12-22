@@ -95,7 +95,9 @@
         "Selfless Healer": 469434,
         "Blessing of Dawn": 183416,
         "Lightbearer": 469416,
-        "Blessing of Dusk": 1241945
+        "Blessing of Dusk": 1241945,
+        "Armory of Light": 1277443
+
     },
     "spec-talents": {
         "Infusion of Light": 53576,
@@ -107,7 +109,7 @@
         "Awestruck": 417855,
         "Moment of Compassion": 387786,
         "Resplendent Light": 392902,
-        "Tirions Devotion": 414720,
+        "Tirion's Devotion": 414720,
         "Divine Favor": 460422,
         "Unwavering Spirit": 392911,
         "Protection of Tyr": 200430,
@@ -130,7 +132,6 @@
         "Veneration": 392938,
         "Reclamation": 415364,
         "Pillars of Light": 1232616,
-        "COMING SOON": 1010,
         "Sanctified Wrath": 53376,
         "Awakening": 414195,
         "Call of the Righteous": 1241511,
@@ -139,10 +140,12 @@
         "Rising Sunlight": 461250,
         "Glorious Dawn": 461246,
         "Seraphic Barrier": 1241714,
-        "Tyrs Deliverance": 1241275,
+        "Tyr's Deliverance": 1241275,
         "Hand of Divinity": 1242008,
         "Inflorescence of the Sunwell": 392907,
-        "Beacon of the Saviour": 1244878
+        "Divine Overload": 1271077,
+        "Crusader's Might": 196926,
+        "Beacon of the Savior": 1244878
     },
     "hero-talents": {
         "Dawnlight": 431377,
@@ -160,27 +163,41 @@
         "Aurora": 439760,
         "Walk Into Light": 1263782,
         "Second Sunrise": 431474,
-        "Born in Sunlight": 1263920,
-        "Suns Avatar": 431425,
+        "Born in the Sunlight": 1263920,
+        "Blessing of An'she": 445200,
+        "Sun's Avatar": 431425,
 
         "Holy Armaments": 432459,
+        "Holy Bulwark": 432459,
+        "Sacred Weapon": 432472,
         "Rite of Sanctification": 433568,
         "Rite of Adjuration": 433583,
         "Solidarity": 432802,
         "Divine Guidance": 433106,
         "Blessed Assurance": 433015,
-        "UNDER CONSTRUCTION ONE": 1010,
+        "Masterwork": 1271387,
         "Laying Down Arms": 432866,
         "Divine Inspiration": 432964,
         "Forewarning": 432804,
         "Authoritative Rebuke": 469886,
         "Tempered in Battle": 469701,
-        "UNDER CONSTRUCTION TWO": 1010,
+        "Reflection of Radiance": 1271466,
         "Shared Resolve": 432821,
         "Valiance": 432919,
         "Hammer and Anvil": 433718,
-        "UNDER CONSTRUCTION THREE": 1010,
+        "Resounding Strike": 1271553,
         "Blessing of the Forge": 433011
     },
-    "other": {}
+    "other": {
+        "Repentance": 20066,
+        "Seal of the Crusader": 416770,
+        "Judgment of Light": 183778,
+        "Of Dusk and Dawn": 409439,
+        "Consecration": 26573,
+        "Boundless Salvation": 392951,
+        "Merciful Auras": 183415,
+        "Blessing of Summer": 328620,
+        "Barrier of Faith": 148039,
+        "Tower of Radiance": 231642
+    }
 }
