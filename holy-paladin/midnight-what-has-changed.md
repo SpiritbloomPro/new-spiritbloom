@@ -11,11 +11,11 @@ Going into the pre-patch of midnight we're going to see a rather large overhaul 
 
 So from talents to spells, removals, reworks and additions we'll be doing a run-through of all of them!
 
-# Class Tree
+## Class Tree
 
 ![](/img/paladin/Entire%20tree.webp)
 
-## Removed
+### Removed
 
 ![](/img/paladin/Removed.webp)
 
@@ -25,7 +25,7 @@ The !Repentance! and !Blinding Light! choice node is now just !Blinding Light!.
 
 Our two passives !Seal of the Crusader! and !Judgment of Light! were both removed as part of the expansion shift in design philosophy that removed a large portion of passive/trickle healing.
 
-## Reworked
+### Reworked
 
 Hammer of Wrath:
 
@@ -41,7 +41,7 @@ Of Dusk and Dawn
 
 !Of Dusk and Dawn! has been turned into two passive talents, instead of one. The new !Blessing of Dawn! provides a minor Aura of Sacrifice-style aura, while the new !Blessing of Dusk! is a small passive damage reduction.
 
-## Moved
+### Moved
 
 ![](/img/paladin/Holy%20prism.webp)
 
@@ -51,7 +51,7 @@ Holy prism has been added to the class tree and moved away from the spec tree.
 
 Light's Revocation has been moved up two tiers to take the place of Judgment of the Light instead of being a capstone.
 
-## Added
+### Added
 
 ![](/img/paladin/Added.webp)
 
@@ -61,11 +61,11 @@ Worth noting is that a shield provides more passive damage reduction against phy
 
 The remaining two talents are both insultingly bad and you won't have to worry about them in any capacity.
 
-# Herald of the Sun
+## Herald of the Sun
 
 ![](/img/paladin/Herald%20of%20the%20Sun-1.webp)
 
-## Added
+### Added
 
 Three new talents have been added to Herald of the Sun.
 
@@ -77,7 +77,7 @@ and !Walk Into Light! which gives you 2 holy power every time you press !Avengin
 
 The playstyle changes by these three are near non-existent, but they are nice enough talents anyway.
 
-## Reworked
+### Reworked
 
 !Gleaming Rays! is now just a flat 3% healing increase to spenders.
 
@@ -93,13 +93,13 @@ Instead of having to worry about pooling !Dawnlight!s for burst windows, you can
 
 !Solar Grace! has been turned into a flat 5% haste, instead of the conditional 2% haste per !Dawnlight! you apply; the position of the talent has also changed to middle row, right column.
 
-# Lightsmith
+## Lightsmith
 
 ![](/img/paladin/Lightsmith-1.webp)
 
 One extremely large note here: Authoritative Rebuke still applies to Rebuke, but we had that talent removed several patches ago.
 
-## Added
+### Added
 
 Three new talents have been added here: !Masterwork!, !Reflection of Radiance! and !Resounding Strike!
 
@@ -109,19 +109,19 @@ Three new talents have been added here: !Masterwork!, !Reflection of Radiance! a
 
 !Resounding Strike! causes your holy armaments to proc !Hammer and Anvil!, making it much more consistent.
 
-## Moved
+### Moved
 
 !Hammer and Anvil! has been moved, to the right column and up one row.
 
-## Reworked
+### Reworked
 
 !Blessed Assurance! now causes the effect of your next !Holy Shock! to be increased by 200% because of the removal of !Crusader Strike!.
 
-# Spec tree
+## Spec tree
 
 ![](/img/paladin/Entire%20tree-1.webp)
 
-## Reworked
+### Reworked
 
 !Holy Shock! now replaces !Crusader Strike!.
 
@@ -147,7 +147,7 @@ Three new talents have been added here: !Masterwork!, !Reflection of Radiance! a
 
 !Rising Sunlight! is no longer a burst after casting toll and wings, it is instead a scaling 10% healing increase based on the average health of your beacons, with it being stronger the lower health they are.
 
-## Added
+### Added
 
 We've seen several new additions to our talent tree. Some more interesting than others, but almost all with their own unique flavor.
 
@@ -163,7 +163,7 @@ Most interestingly we have our new Apex Talent !Beacon of the Savior! which is a
 
 !Seraphic Barrier! is one of the more underwhelming additions. On paper it is nice, making our spenders heal less up-front but do more of their healing as absorb shields which are always heavily favored. Unfortunately as it stands it's a large healing loss outside of massively overhealed situations.
 
-## Moved
+### Moved
 
 !Holy Prism! has been moved to the class tree.
 
@@ -173,7 +173,7 @@ Most interestingly we have our new Apex Talent !Beacon of the Savior! which is a
 
 !Tirion's Devotion! and !Extrication! have been moved down two rows.
 
-## Removed
+### Removed
 
 A rather large list of abilities have been fully removed or turned baseline:
 !Power of the Silver Hand!, !Boundless Salvation!, !Merciful Auras!, !Blessing of Summer!, !Barrier of Faith! and !Tower of Radiance! are all no longer part of the spec tree.

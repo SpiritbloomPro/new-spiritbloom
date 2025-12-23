@@ -12,7 +12,6 @@ const formatter = (params) => {
   };
   var currentPluging = pluginTitles[params.plugin.id] + ' | ';
   var title = currentPluging + params.title;
-  console.log(title)
   return title;
 };
 export default function ThemeProviderTitleFormatter({children}) {
