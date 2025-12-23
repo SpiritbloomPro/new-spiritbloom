@@ -109,7 +109,7 @@ Three new talents have been added here: !Masterwork!, !Reflection of Radiance! a
 
 ### Reworked
 
-!Blessed Assurance! now causes the effect of your next !Holy Shock! to be increased by 200% because of the removal of !Crusader Strike!.
+!Blessed Assurance! now causes the effect of your next !Holy Shock! to be increased by 20% because of the removal of !Crusader Strike!.
 
 ## Spec tree
 
