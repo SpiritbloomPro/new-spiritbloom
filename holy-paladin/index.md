@@ -7,7 +7,7 @@ Holy paladin has always been one of the more straight-forward healers, and going
 
 We are still a healer strongly favoring reactive healing, strong instant casts on the move while weaving in a mix of casted heals and damaging abilities.
 
-The biggest change in Midnight is the introduction of apex talents - in our case !Beacon of the Saviour! - a strong automated beacon that functions indistinguishably from our other beacons - only this one jumps from low health target to low health target!
+The biggest change in Midnight is the introduction of apex talents - in our case !Beacon of the Savior! - a strong automated beacon that functions indistinguishably from our other beacons - only this one jumps from low health target to low health target!
 
 At the same time !Crusader Strike! has been removed, paving the way for us to no longer be glued to mobs in the same way. We are a melee healer, it's where we do our best work, but your healing won't suffer from taking more of a mid-range stance anymore.
 
