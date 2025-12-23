@@ -1,5 +1,5 @@
 import React from 'react';
-import {useLocation} from 'react-router-dom';
+import {useLocation} from '@docusaurus/router';
 
 const imageMap = {
     'preservation': {
@@ -35,8 +35,7 @@ const imageMap = {
 export default function ContentHero() {
   const {pathname} = useLocation();
   const pluginKey = pathname.split('/').filter(Boolean)[0]; // first path segment
-  if(typeof(pluginKey) !== 'undefined'){
-    console.log(pluginKey);
+  if(pluginKey && imageMap[pluginKey]){
     const image = '/img/' + imageMap[pluginKey]['image'];
     const title = imageMap[pluginKey]['title'];
     return (
@@ -44,5 +43,7 @@ export default function ContentHero() {
             <h1 className="content-hero-title">{title}</h1>
         </div>
     );
+  } else {
+    return null;
   }
 }

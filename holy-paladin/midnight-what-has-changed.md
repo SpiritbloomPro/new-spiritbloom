@@ -43,23 +43,17 @@ Of Dusk and Dawn
 
 ### Moved
 
-![](/img/paladin/Holy%20prism.webp)
+!Holy Prism! has been added to the class tree and moved away from the spec tree.
 
-Holy prism has been added to the class tree and moved away from the spec tree.
-
-![](/img/paladin/Lights%20revocation.webp)
-
-Light's Revocation has been moved up two tiers to take the place of Judgment of the Light instead of being a capstone.
+!Light's Revocation! has been moved up two tiers to take the place of Judgment of the Light instead of being a capstone.
 
 ### Added
-
-![](/img/paladin/Added.webp)
 
 !Guided Prayer! and !Armory of Light! are both noteworthy talents, giving us some more passive survivability in a small free, passive heal whenever we dip low and the ability to block all spell damage, including aoe.
 
 Worth noting is that a shield provides more passive damage reduction against physical damage than 15% parry chance, so this talent only locks us further in to wearing 1-hander plus shield.
 
-The remaining two talents are both insultingly bad and you won't have to worry about them in any capacity.
+!Brought to Light! and !Fear no Evil! are two confuddling talents that are both very bad and you won't have to worry about them in any capacity.
 
 ## Herald of the Sun
 
@@ -115,7 +109,7 @@ Three new talents have been added here: !Masterwork!, !Reflection of Radiance! a
 
 ### Reworked
 
-!Blessed Assurance! now causes the effect of your next !Holy Shock! to be increased by 200% because of the removal of !Crusader Strike!.
+!Blessed Assurance! now causes the effect of your next !Holy Shock! to be increased by 20% because of the removal of !Crusader Strike!.
 
 ## Spec tree
 
