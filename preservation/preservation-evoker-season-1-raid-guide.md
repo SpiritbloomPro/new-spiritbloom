@@ -42,8 +42,16 @@ Quick note, the 4 set cannot be !echoed!, only the initial target you casted !Ve
 
 # Gameplay
 
-Our gameplay is raid is pretty straight forward with a few things you can do to maximize your output. A large portion of what we will be doing is recognizing when damage is going to happen, and building as many !echoes! we can on the group through casts of !Echo! and !Temporal Anomaly!.  When the damage happens we can spend those !Echoes! on either !Merithra's Blessing!, !Verdant Embrace!, or !Reversion! if we dont have a !Merithra's Blessing! proc. 
+Our gameplay is raid is pretty straight forward with a few things you can do to maximize your output. A large portion of what we will be doing is recognizing when damage is going to happen, and building as many !echoes! we can on the group through casts of !Echo! and !Temporal Anomaly!.  When the damage happens we can spend those !Echoes! on either !Merithra's Blessing!, !Verdant Embrace!, or !Reversion! if we dont have a !Merithra's Blessing! proc.
 
+1. Use !Temporal Anomaly! on cooldown as much as possible. This puts out the most amount of our !Echo! buff and is center to all we do.  
+2. Use !Dream Breath! as much as possible without consuming our !echoes!. !Dream Breath! is still a very powerful heal for its mana cost and has a 100% chance to proc !Merithra's Blessing! which can be used to gaurentee our echo ramp is consumed with !Merithra's Blessing!. This will also help with !Essence Burst! generation due to !Afterimage! with an added bonus of some more healing!
+3. Use !Essence Bursts! on !Emerald Blossoms! and !Essence! on !Echo!. We use !Essence Bursts! on !Emerald Blossoms! to save on the large mana cost, but also to proc !Twin Echoes!. This makes it so we gain additional healing while we are ramping without losing out on !Echo! count. !Twin Echoes! casts will always prioritize the lowest HP target that does not have an !Echo! buff on them.
+4. Use !Firebreath! during your ramps, or on cooldown, at max rank. This not only does damage, but has a chance to proc !Essence Burst! from !Afterimage!. !Firebreath! is also casted at max rank for !Leaping Flames! which makes your next cast of !Chronoflame! to hit additional targets for free. These extra !Chronoflames! all have a chance to proc !Essence Burst! while doing extra damage and healing.
+5. Consume your !Echoes! with !Merithra's Blessing! whenever damage happens. This can be either be right as your proc a !Merithra's Blessing! or can be when a large raid mechanic hits, It really depends on the fight. If !Merithra's Blessing! is not up, you can choose to consume your !Echoes! with !Verdant Embrace!.
+6. Use !Verdant Embrace! as much as possible while prioritizing !Echoes! being consumed with !Merithra's Blessing!. We want to be using !Verdant Embrace! as much as possible for a few reasons. Firstly, it interacts with our tierset by dropping a free !Emerald Blossom! that procs !Twin Echoes! that we can use to start building our ramp. Secondly, it does a decent amount of healing and provides us with the buff !Primacy!. !Primacy! stacks to 3 for a total of 9% haste and a single cast can refresh 3 stacks.
+7. Cast !Chronoflame! at the boss. This will be your filler and your last resort, !Chronoflame! provides a small amount of damage, but is a source of !Essence Burst! which is very important to us.
 
+Cooldowns
 
 # Conclusion
