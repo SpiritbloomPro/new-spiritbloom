@@ -52,11 +52,22 @@ Our gameplay is raid is pretty straight forward with a few things you can do to 
 6. Use !Verdant Embrace! as much as possible while prioritizing !Echoes! being consumed with !Merithra's Blessing!. We want to be using !Verdant Embrace! as much as possible for a few reasons. Firstly, it interacts with our tierset by dropping a free !Emerald Blossom! that procs !Twin Echoes! that we can use to start building our ramp. Secondly, it does a decent amount of healing and provides us with the buff !Primacy!. !Primacy! stacks to 3 for a total of 9% haste and a single cast can refresh 3 stacks.
 7. Cast !Chronoflame! at the boss. This will be your filler and your last resort, !Chronoflame! provides a small amount of damage, but is a source of !Essence Burst! which is very important to us.
 
-### !Dream Flight! vs !Stasis!
+<Tabs>
+  <TabItem value="!Dream Flight!" label="!Dream Flight!" default>
+!Dreamflight! will be chosen if you need another large 2 minute CD and your group will be stacked at that time. !Dream Flight! gains a large amount of power from !Inner Flame! while also giving you a 100% HP shield to keep you safe during your flight. Do note that the shield fades when you land. !Dream Flight! is less flexible in its choices in how you use it, but it is one of the strongest cooldowns in the game.
+</TabItem>
+<TabItem value="!Stasis!" label="!Stasis!">
+!Stasis! is still a very powerful cooldown that has a lot of flexibility in how you use it. You can ramp during a !Stasis! build, and use that !Stasis! build to release into another immediate ramp. This helps keep you ahead of the damage with good planning and execution. You can also just use it for more immediate healing by storing and immediately releasing. That being said there will always be default spells that you will look to store into your !Stasis!, powerful spells like !Temporal Anomaly! and !Merithra's Blessing!.
 
-### 
+!Chronowarden! will default to a !Temporal Anomaly! > !Merithra's Blessing! > !Temporal Anomaly!. This !Stasis! for example allows you to both finish a ramp with a !Temporal Anomaly! into !Merithra's Blessing! while also following it up with another !Temporal Anomaly! to start your next ramp or allow you to immediately consume those extra !Echoes! with !Verdant Embrace! or even another !Merithra's Blessing! cast for even more healing.
 
-!Rewind!
+!Flameshaper! will default to a !Dream Breath! > !Temporal Anomaly! > !Merithra's Blessing! sequence. Unlike !Chronowarden! we are unable to realistically wait for that second cast of !Temporal Anomaly! as we don't have !Nozdormu's Adept! to help reduce the CD of !Temporal Anomaly!. Furthermore, our !Dream Breath! as !Flameshaper! is significantly stronger and pushes it up the list on powerful spells to throw into !Stasis!.
+
+Niche Raid wide !Echo!. Sometimes you need that raidwide !Echo! ramp as you can't use !Dream Flight! at this time. Specifically as !Chonowarden! you can !Stasis! !Temporal Anomaly! > !Echo! **OR** !Emerald Blossom! > !Temporal Anomaly!.  The !Echo! or !Emerald Blossom! cast is always 2nd and specifically is there to not consume the !Echoes! you had just spread onto the raid. You will build this !Stasis! and immediately release it to get 20 !Echoes! out onto the raid and ideally consume it with !Merithra's Blessing!. This is a hail mary kind of !Stasis! and we used it often with !lifebind! and !emerald communion! which both no longer function the same.
+</TabItem>
+</Tabs>
+
+## !Rewind!
 
 The iconic Preservation spell, the BEST throughput cooldown in a prog setting. You will look to use !Rewind! in the most damage heavy points in the fight as frequently as possible.
 
