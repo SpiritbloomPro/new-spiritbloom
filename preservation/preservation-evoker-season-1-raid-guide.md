@@ -13,7 +13,7 @@ Welcome to the Season 1 Midnight guide for Preservation Evoker. Preservation Evo
 
 Before we start talking about how we play, we first need to briefly talk about what was lost and what we gained coming into season one.
 
-To start with what was lost, !Spiritbloom! and !Engulf! have both been removed. !Lifebind! has been buffed, but it no longer can be !Echo'd!. !Emerald Communion! has been moved to a pvp talent, and Lastly !Stasis! and !Dream Flight! are on a choice node.
+To start with what was lost, !Spiritbloom! and !Engulf! have both been removed. !Lifebind! has been buffed, but it no longer can be !Echo'd!. !Emerald Communion! has been moved to a pvp talent, and lastly !Stasis! and !Dream Flight! are on a choice node.
 
 Noteable reworks are as follows: !Consume Flame! no longer is an AoE raidwide heal, but rather is a small heal triggered by !Verdant Embrace! and !Emerald Blossom! on those with !Dream Breath!. !Call of Ysera! has been decoupled from !Verdant Embrace! and is now completely passive with a small nerf. !Renewing Blaze! is now attached to your !Obsidian Scales!. Lastly, !Tempo Charged! is now a generic bronze spell buff.
 
@@ -31,7 +31,8 @@ Point 4 makes it so our !Dream Breath! has a 100% chance to grant !Merithra's Bl
 
 All of this to say that !Reversion! is back to be an extremely strong cast, and will be center to a lot of what we do.
 
-Tierset
+# Tierset
+
 Our tierset is very straight forward,
 
 2 set: !Verdant Embrace! now heals for 20% more and has its cooldown reduced by 2 seconds.
@@ -39,7 +40,10 @@ Our tierset is very straight forward,
 
 Quick note, the 4 set cannot be !echoed!, only the initial target you casted !Verdant Embrace! on will have an !Emerald Blossom! casted on them as well. This !Emerald Blossom! acts as a normal cast and procs talents like !Twin Echoes!, !Fluttering Seedlings!, and !Field of Dreams!.
 
-Gameplay
+# Gameplay
+
+Our gameplay is raid is pretty straight forward with a few things you can do to maximize your output. A large portion of what we will be doing is recognizing when damage is going to happen, and building as many !echoes! we can on the group through casts of !Echo! and !Temporal Anomaly!.  When the damage happens we can spend those !Echoes! on either !Merithra's Blessing!, !Verdant Embrace!, or !Reversion! if we dont have a !Merithra's Blessing! proc. 
 
 
-Conclusion
+
+# Conclusion
