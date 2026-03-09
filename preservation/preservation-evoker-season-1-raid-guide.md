@@ -23,7 +23,7 @@ For what was gained, all talents that affect !Spiritbloom! now affect !Dream Bre
 
 To really understand how we play, we have to talk about our apex !Merithra's Blessing! and all that it does.
 
-Point 1 gives us access to !Merithra's Blessing!, giving us a 20% chance on every cast of !Echo!, !Emerald Blossom!, or !Disintegrate! to override our reversion with !Merithra's Blessing!. !Merithra's Blessing! heals the ally, and then shoots 4 bolts from them to other nearby allies, along with acting like a normal reversion cast. This affect is completely Echoable!
+Point 1 gives us access to !Merithra's Blessing!, giving us a 20% chance on every cast of !Echo!, !Emerald Blossom!, or !Disintegrate! to override our reversion with !Merithra's Blessing!. !Merithra's Blessing! heals the ally, and then shoots 4 bolts from them to other nearby allies, along with acting like a normal reversion cast, proccing affects like !Golden Hour! and !Grace Period!. This affect is completely Echoable!
 
 Point 2 and 3 makes it so our reversion reduces that damage that the target takes if they have !Reversion! active on them AS WELL AS healing them for a % of damage taken. At 3/4 points into !Merithra's Blessing!, a target that gets hit for 100 damage will get 2 damage reduced, and healed for 2, for a 4% damage swing. This is DOUBLED if the target as both a !Reversion! and !Echoed!  !Reversion! on them for an almost 8% damage swing.
 
@@ -72,3 +72,5 @@ Niche Raid wide !Echo!. Sometimes you need that raidwide !Echo! ramp as you can'
 The iconic Preservation spell, the BEST throughput cooldown in a prog setting. You will look to use !Rewind! in the most damage heavy points in the fight as frequently as possible.
 
 # Conclusion
+
+Preservation Evoker is as strong as ever in raids. We have a unique niche of scaling directly with the damage taken with !Merithra's Blessing Reversion!, !Golden Hour!, and !Rewind! which makes exceptionally strong in a progression environment. Our Apex helped simplify our gameplay at face value while keeping Preservation evoker ramp and echo focused. Talents like !Twin Echoes! help integrate our entire kit into what we do and it makes Preservation a very satisfying, fulfilling, and rewarding spec to play!
