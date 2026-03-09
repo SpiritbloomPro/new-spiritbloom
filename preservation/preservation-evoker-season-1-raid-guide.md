@@ -30,3 +30,16 @@ Point 2 and 3 makes it so our reversion reduces that damage that the target take
 Point 4 makes it so our !Dream Breath! has a 100% chance to grant !Merithra's Blessing! along with increasing the instant healing of !Dream Breath!. Do note that the 125% increase to !Dreambreath! does not include upranked !Dream Breath!s.
 
 All of this to say that !Reversion! is back to be an extremely strong cast, and will be center to a lot of what we do.
+
+Tierset
+Our tierset is very straight forward,
+
+2 set: !Verdant Embrace! now heals for 20% more and has its cooldown reduced by 2 seconds.
+4 set: !Verdant Embrace! grows and !Emerald Blossom! on the target at 100% effectiveness.
+
+Quick note, the 4 set cannot be !echoed!, only the initial target you casted !Verdant Embrace! on will have an !Emerald Blossom! casted on them as well. This !Emerald Blossom! acts as a normal cast and procs talents like !Twin Echoes!, !Fluttering Seedlings!, and !Field of Dreams!.
+
+Gameplay
+
+
+Conclusion
