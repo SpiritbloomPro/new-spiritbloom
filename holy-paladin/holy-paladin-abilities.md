@@ -18,7 +18,7 @@ Beacons count as you for the purpose of this mastery if you choose to use the ta
 ### Healing abilities
 
 - !Holy Light! - your biggest spot heal, very mana expensive.
-- !Word of Glory! - your primary spender in mythic+ content, and spotheal spender in raid.
+- !Word of Glory! - your primary spender in mythic+ content, and spotheal spender in raid. Costs 3 holy power.
 - !Beacon of Light! - Attaches to a target and funnels a % of all your healing on other targets into them.
 - !Flash of Light! - quick single-target heal. Good spender of !Infusion of Light! charges.
 
