@@ -17,7 +17,7 @@ Beacons count as you for the purpose of this mastery if you choose to use the ta
 
 ### Apex Talent
 
-!Beacon of the Savior! - grants you an extra beacon that jumps from damaged target to damaged target. Every time the target hits full health it jumps to a new person. It also jumps if a nearby ally falls below 50% health. 
+!Beacon of the Savior! - grants you an extra beacon that jumps from damaged target to damaged target. Every time the target hits full health it jumps to a new person. It also jumps if a nearby ally falls below 50% health.
 
 Targets also receive 20% more healing from you, so having them as the target of your !Holy Light! and !Flash of Light! is very useful.
 
@@ -302,3 +302,113 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 !Lightbearer! - 10% of all healing done to you by sources other than yourself is replicated to up to 4 nearby allies
 
 !Blessing of Dusk! - you take up to 10% less damage the lower your health is
+
+## Specialization Talents
+
+- Row 1
+
+!Holy Shock! - your bread and butter and knife and plate and tablecloth and decorative candlestick holder. You press this button a lot for healing and damage. Also builds 1 holy power
+
+- Row 2
+
+!Infusion of Light! - Holy Shock has a 10% chance to empower your next spellcast causing Flash of Light to do 200% more healing and be instant cast or cause Greater Judgment to prevent 150% more damage and generate 1 extra holy power
+
+!Light of Dawn! - your go-to spender in raid. Heals up to 5 targets in a 40 yard radius around you. Costs 3 holy power
+
+- Row 3
+
+!Light's Conviction! - !Holy Shock! gains a 2nd charge, and refunds 50% mana when you use it for damage
+
+!Aura Mastery! - !Devotion Aura! is increased to 12% DR for 8 seconds, !Crusader Aura! is increased to 60% mount speed bonus and !Concentration Aura! makes all affected allies immune to interrupts and silence effects. Generally used for Devotion Aura as your big raid cooldown
+
+!Beacon of the Lightbringer! - all your beacons now count like you for the purpose of your mastery. Makes you want to place beacons on ranged players to have higher effectiveness
+
+- Row 4
+
+!Extrication! - !Word of Glory!/!Eternal Flame! and !Light of Dawn! gains up to 30% critical strike chance the lower health the target is
+
+!Ringing of the Heavens! - !Aura Mastery! also casts !Divine Toll!
+
+!Unending Light! - Light of Dawn gets 20% increased benefit from Mastery
+
+!Awestruck! - !Holy Shock!, !Holy Light! and !Flash of Light! critical healing is increased by 20%
+
+- Row 5
+
+!Moment of Compassion! and !Resplendent Light! choice node - Moment of Compassion increases Flash of Light healing by 50% when you heal a beacon target, Resplendent Light causes Holy Light to heal up to 5 targets within 12 yards of the target for 8% of its healing
+
+!Divine Favor! - Holy Light mana cost reduced by 10% and cast time reduced by 15% 
+
+!Unwavering Spirit! and !Protection of Tyr! choice node - Unwavering Spirit makes Aura Mastery 2.5 minute CD, Protection of Tyr makes all allies take 10% increased healing for the duration of Aura Mastery
+
+!Imbued Infusions! - consuming an infusion reduces cooldown of Holy Shock by 1 second
+
+!Light of the Martyr! - while you're above 80% hp, Holy Shock healing is increased by 35% but you also get a healing absorb on you for 30% of the amount healed. This effect turns off beacon on yourself, but you should never beacon yourself so this is a minor downside
+
+- Row 6
+
+!Righteous Judgment! - replaces consecration and instead passively causes your !Judgment! to cast !Consecration! at the target location
+
+!Saved by the Light! - when your beacon targets take damage they gain an absorb shield that increases in strength the lower HP they are
+
+!Light's Protection! - allies with beacon have a 5% DR
+
+!Overflowing Light! - 30% of Holy Shock's overhealing is converted into an absorb shield for up to 10% of your max health
+
+!Shining Righteousness! - Shield of the Righteous deals extra damage to the primary target, also has a 35% chance to give you a divine purpose proc if it is talented
+
+- Row 7
+
+!Liberation! and !Crusader's Might! choice node - Liberation causes your spenders healing to also deal damage, Crusader's Might makes holy shock reduce the cooldown of Judgment by 1.5 seconds and crusader strike reduces the cooldown of Judgment by 1.5 second
+
+!Tirion's Devotion! - Lay on Hands' cooldown is reduced by 30% and it restores 5% of your mana
+
+!Commanding Light! - Beacon of Light transfers 5% more healing
+
+!Glistening Radiance! - while at max health your beacon targets gain 1% max health shield every 3 seconds stacking up to 5% maximum health
+
+!Breaking Dawn! - increases !Light of Dawn! healing by 5%
+
+!Divine Revelations! - Infusion of Light causes Flash of Light to heal for 20% more and Judgment to refund 0.5% of your maximum mana
+
+!Divine Glimpse! - Holy Shock and Judgment have 8% increased critical strike chance
+
+!Bestow Light! - !Light of the Martyr! health threshold is reduced to 70% health and increases holy shock healing by 5% more for each second it is active stacking up to 15%. When below 70% health you gain a heal over time 
+
+- Row 8
+
+!Beacon of Faith! and !Beacon of Virtue! choice node - Beacon of Faith gives you a second !Beacon of Light!. !Beacon of Faith! replaces Beacon of Light and gives you a 15 second cooldown that applies beacon to 5 allies for 9 seconds
+
+!Empyrean Legacy! - judgment critical strikes causes your next Word of Glory to also cast Light of Dawn at 30% effectiveness 
+
+!Veneration! - judgment puts an absorb shield on 5 injured allies for 8% of the damage it did. Also causes Flash of Light and Holy light critical strikes to reset the cooldown of Judgment
+
+!Avenging Wrath! and !Avenging Crusader! choice node - your choice between regular wings cooldown and "melee wings". This is a bit of a misnomer now, as you don't cast crusader strike anymore, but still makes judgment do healing based on damage
+
+!Reclamation! - Holy Shock refunds up to 10% of its mana cost and deals up to 50% more healing or damage. Stronger the lower health your target is
+
+- Row 9
+
+!Pillars of Light! - if you chose !Beacon of Faith! your beacons get a permanent heal over time. If you chose !Beacon of Virtue! it also heals all targets when applied
+
+!Seek Deliverance! - While your wings aren't active you gain 5% mastery, while they are active you have 30% movement speed
+
+!Sanctified Wrath! and !Awakening! choice node - Sanctified Wrath increases duration of wings by 50%, awakening gives you a 10% chance on spender cast to cause your next !Judgment! to have 30% increased damage and always critically strike. Wings activates awakening
+
+!Call of the Righteous! - Reduces wings cooldown and reduces duration. Good for more often, shorter wings, leads to higher uptime.
+
+!Truth Prevails! - Judgment heals you and mana cost is reduced. 50% of all overhealing from !Judgment! is transferred to 2 allies within 40 yards
+
+!Divine Overload! - !Holy Light! healing increased by 30% and mana cost increased by 20% 
+
+- Row 10
+
+!Rising Sunlight! - healing is increased by up to 10% the lower the average health of your beacon targets
+
+!Glorious Dawn! - Holy shock has a 12% chance to refund a charge and its healing is increased by 10% 
+
+!Seraphic Barrier! - Word of Glory and Light of Dawn convert 15% of their healing into absorb shield - **this is not worth picking as it means 15% less beacon transfer**
+
+!Tyr's Deliverance! and !Hand of Divinity!  choice node - Tyr's Deliverance adds passive trickle healing to your wings and buffs people healed so your Holy Lights, Flash of Lights and Holy Shock spells heal 10% more. Hand of Divinity makes your wings cause your next 2 holy lights to be instant cast and cost 50% less mana
+
+!Inflorescence of the Sunwell! - infusion of light now has 1 additional charge
