@@ -5,7 +5,7 @@ unlisted: false
 sidebar_position: 2
 ---
 
-# Introduction
+# Raid Guide
 
 Holy paladin is a relatively simple, fast-paced healer where the majority of your skill expression comes down to snappy decision-making.
 
