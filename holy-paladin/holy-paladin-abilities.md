@@ -46,6 +46,9 @@ Beacons count as you for the purpose of this mastery if you choose to use the ta
 
 # Hero talents
 
+<Tabs className='header-tabs'>
+    <TabItem value='Herald of the Sun' default>
+
 #### Herald of the Sun talents
 
 #####
@@ -100,6 +103,9 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 !Sun's Avatar! - the capstone of our tree, causing you to link to all your Dawnlights with a beam that does damage to enemies and heals allies. If you Dawnlight yourself you will radiate healing in a small area around yourself.
 
+</Tabs>
+    </TabItem>
+
 # Class Talents
 
 - Row 1
@@ -118,6 +124,6 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 !Fist of Justice! - cooldown reduction for !Hammer of Justice!
 
-!Blinding Light! - Area of effect crowd control ability that causes targets to wander disoriented for 6 seconds. Cancels on damage, great for a small interrupt. 
+!Blinding Light! - Area of effect crowd control ability that causes targets to wander disoriented for 6 seconds. Cancels on damage, great for a small interrupt.
 
 !Turn Evil! - single target crowd control that causes any undead, aberration or demon to flee for up to 40 seconds.
