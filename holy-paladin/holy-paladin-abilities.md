@@ -5,7 +5,7 @@ unlisted: false
 sidebar_position: 3
 ---
 
-# Baseline abilities
+## Baseline abilities
 
 ### Mastery
 
@@ -44,10 +44,7 @@ Beacons count as you for the purpose of this mastery if you choose to use the ta
 
 - !Divine Protection! - reduces damage you take by 20% for 8 seconds. Can use it while stunned.
 
-# Hero talents
-
-<Tabs className='header-tabs'>
-    <TabItem value='Herald of the Sun' default>
+## Hero talents
 
 #### Herald of the Sun talents
 
@@ -103,10 +100,7 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 !Sun's Avatar! - the capstone of our tree, causing you to link to all your Dawnlights with a beam that does damage to enemies and heals allies. If you Dawnlight yourself you will radiate healing in a small area around yourself.
 
-</Tabs>
-    </TabItem>
-
-# Class Talents
+## Class Talents
 
 - Row 1
 
