@@ -43,6 +43,7 @@ Beacons count as you for the purpose of this mastery if you choose to use the ta
 ### Defensive cooldowns
 
 - !Divine Protection! - reduces damage you take by 20% for 8 seconds. Can use it while stunned.
+- !Divine Shield! - 8 second immunity on a 3.5 minute cooldown. Can't be used if you have !Forbearance!, also causes Forbearance. 
 
 ## Hero talents
 
@@ -183,3 +184,19 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 !Turn Evil! - single target crowd control that causes any undead, aberration or demon to flee for up to 40 seconds.
 
 - Row 3
+
+!A Just Reward! - a successful cleanse also heals your target
+
+!Afterimage! - every 20 holy power you spend causes your next !Word of Glory! to echo on another target at 30% effectiveness
+
+!Guided Prayer! - if you drop below 25% hp you cast a free instant !Word of Glory! on yourself at 60% effectiveness. 60 second CD. 
+
+!Divine Steed! - 100% movement speed for 5 seconds, 45 second recharge, 2 charges. 
+
+!Light's Countenance! - reduces CD of !Blinding Light! by 15 seconds
+
+!Greater Judgment! - !Judgment! now also puts an absorb on the target, causing their next instance of damage to be partially absorbed
+
+!Wrench Evil! - makes !Turn Evil! instant cast
+
+!Stand Against Evil! - !Turn Evil! affects 6 targets instead of 1
