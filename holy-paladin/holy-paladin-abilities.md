@@ -15,6 +15,14 @@ This is 100% effective within 10 yards of you and then scales linearly to 0% fro
 
 Beacons count as you for the purpose of this mastery if you choose to use the talent !Beacon of the Lightbringer! - this includes your apex talent !Beacon of the Savior!
 
+### Apex Talent
+
+!Beacon of the Savior! - grants you an extra beacon that jumps from damaged target to damaged target. Every time the target hits full health it jumps to a new person. It also jumps if a nearby ally falls below 50% health. 
+
+Targets also receive 20% more healing from you, so having them as the target of your !Holy Light! and !Flash of Light! is very useful.
+
+Every 8 seconds or whenever it jumps to a new target, the beacon grants the target an absorb shield and 10% damage reduction for 15 seconds.
+
 ### Healing abilities
 
 - !Holy Light! - your biggest spot heal, very mana expensive.
@@ -209,11 +217,11 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 
 !Holy Reprieve! - reduces !Forbearance! duration by 10 seconds
 
-!Cavalier! - Adds a 2nd charge to !Divine Steed! 
+!Cavalier! - Adds a 2nd charge to !Divine Steed!
 
-!Divine Spurs! - Divine Steed cooldown reduced by 20% but duration reduced by 40% 
+!Divine Spurs! - Divine Steed cooldown reduced by 20% but duration reduced by 40%
 
-!Steed of Liberty! - Divine Steed also casts !Blessing of Freedom! for 3 seconds on yourself, lose the ability to cast it on other people. 
+!Steed of Liberty! - Divine Steed also casts !Blessing of Freedom! for 3 seconds on yourself, lose the ability to cast it on other people.
 
 choice node with !Blessing of Freedom! - a 25 second cooldown ability that grants a target immunity to all movement impairing effects such as roots, slows or snares. Please don't ever pick Steed of Liberty, I beg of you.
 
@@ -223,9 +231,9 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Obduracy! - meaning to be stubbornly persistent, also gives you 2/4% movement speed and reduces damage taken from AoE abilities by 2/4%
 
-!Divine Toll! and !Holy Prism! choice node - !Divine Toll! casts holy shock on 5 targets, focuses allies if cast on an ally, enemies if cast on an enemy. Prism can either do big damage to a target and heal 5 allies for a smaller amount or a big heal to one target and damage 5 enemies for smaller amounts. For big healing you default to pressing this on an enemy. 
+!Divine Toll! and !Holy Prism! choice node - !Divine Toll! casts holy shock on 5 targets, focuses allies if cast on an ally, enemies if cast on an enemy. Prism can either do big damage to a target and heal 5 allies for a smaller amount or a big heal to one target and damage 5 enemies for smaller amounts. For big healing you default to pressing this on an enemy.
 
-!Echoing Blessings! and !Unbound Freedom! choice node - Echoing blessings makes !Blessing of Freedom! give the target 30% movement speed, !Blessing of Protection! and !Blessing of Sacrifice! give the target 15% damage reduction, these effects work for the duration of the blessing and 8 seconds after. !Unbound Freedom! makes Blessing of Freedom increase the movement speed of the target by 30% and you also gain the effect when you cast on an ally. 
+!Echoing Blessings! and !Unbound Freedom! choice node - Echoing blessings makes !Blessing of Freedom! give the target 30% movement speed, !Blessing of Protection! and !Blessing of Sacrifice! give the target 15% damage reduction, these effects work for the duration of the blessing and 8 seconds after. !Unbound Freedom! makes Blessing of Freedom increase the movement speed of the target by 30% and you also gain the effect when you cast on an ally.
 
 !Sanctified Plates! - increases armor by 6/12%, Stamina by 3/6% and reduces damage taken from area of effect abilities by 1/3%
 
@@ -235,7 +243,7 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Brought to Light! - killing an enemy that gives you experience or honor causes you to heal yourself and 5 nearby allies. You do not need to get the killing blow
 
-!Blessing of Sacrifice! - 2 minute cooldown, reduces the damage an ally takes by 30%, but you take the damage they would have taken. This lasts 12 seconds or until transferring damage to you would cause you to fall under 20% hp. 
+!Blessing of Sacrifice! - 2 minute cooldown, reduces the damage an ally takes by 30%, but you take the damage they would have taken. This lasts 12 seconds or until transferring damage to you would cause you to fall under 20% hp.
 
 !Divine Resonance! and !Quickened Invocation! choice node - Resonance makes you cast a holy shock every 5 seconds for 15 seconds after casting Prism/Armament/Divine Toll. Quickened Invocation reduces cooldown of Prism/Armament/Divine Toll by 15 seconds
 
@@ -243,7 +251,7 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Fear no Evil! - 20% fear duration reduction, 60% during wings
 
-!Consecrated Ground! - !Consecration! is larger and slows all enemies within it by 50% 
+!Consecrated Ground! - !Consecration! is larger and slows all enemies within it by 50%
 
 - Row 7
 
@@ -251,7 +259,7 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Sacrifice of the Just! and !Recompense! choice node - Sacrifice of the Just reduces cooldown of !Blessing of Sacrifice! by 15%. !Recompense! makes your Blessing of Sacrifice save up 50% of all damage it diverts to you, the diverted damage is added to your next !Judgment! as bonus damage or !Word of Glory! as bonus healing.
 
-!Sacred Strength! and !Divine Purpose! choice node - Sacred Strength increases the effectiveness of holy power spenders by 2%. Divine Purpose gives you a 15% chance to gain a free spender with 15% increased effectiveness every time you spend holy power. Sacred Strength is never worth picking. 
+!Sacred Strength! and !Divine Purpose! choice node - Sacred Strength increases the effectiveness of holy power spenders by 2%. Divine Purpose gives you a 15% chance to gain a free spender with 15% increased effectiveness every time you spend holy power. Sacred Strength is never worth picking.
 
 !Improved Blessing of Protection! - reduces cooldown of !Blessing of Protection! by 60 seconds
 
@@ -273,13 +281,13 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Light's Revocation! - Divine Shield heals you for 10% for each harmful effect it removes, up to 30%, you can also cast Divine Shield regardless of Forbearance
 
-- Row 9 
+- Row 9
 
 !Faith's Armor! - !Word of Glory! grants you 20% bonus armor for 4.5 seconds
 
-!Stoicism! - reduces the duration of stuns on you by 20% 
+!Stoicism! - reduces the duration of stuns on you by 20%
 
-!Seal of Might! - increases mastery and Intellect by 2/4% 
+!Seal of Might! - increases mastery and Intellect by 2/4%
 
 !Vengeful Wrath! - hammer of wrath deals more damage the lower health your target is
 
