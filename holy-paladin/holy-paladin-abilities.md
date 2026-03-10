@@ -43,7 +43,7 @@ Beacons count as you for the purpose of this mastery if you choose to use the ta
 ### Defensive cooldowns
 
 - !Divine Protection! - reduces damage you take by 20% for 8 seconds. Can use it while stunned.
-- !Divine Shield! - 8 second immunity on a 3.5 minute cooldown. Can't be used if you have !Forbearance!, also causes Forbearance. 
+- !Divine Shield! - 8 second immunity on a 3.5 minute cooldown. Can't be used if you have !Forbearance!, also causes Forbearance.
 
 ## Hero talents
 
@@ -98,6 +98,8 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 !Walk Into Light! - you gain 2 holy power when you cast Avenging Wrath or Avenging Crusader
 
 !Born in Sunlight! - 15% extra critical strike chance to Dawnlight during Avenging Wrath.
+
+##### Capstone talent
 
 !Sun's Avatar! - the capstone of our tree, causing you to link to all your Dawnlights with a beam that does damage to enemies and heals allies. If you Dawnlight yourself you will radiate healing in a small area around yourself.
 
@@ -159,6 +161,8 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 
 !Resounding Strike! - casting a !Holy Armaments! procs !Hammer and Anvil!
 
+##### Capstone talent
+
 !Blessing of the Forge! - !Avenging Wrath! gives you a !Sacred Weapon! and while wings are up, your Sacred Weapon casts spells on your target and replicates !Light of Dawn!, !Word of Glory! and !Shield of the Righteous!
 
 ## Class Talents
@@ -189,9 +193,9 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 
 !Afterimage! - every 20 holy power you spend causes your next !Word of Glory! to echo on another target at 30% effectiveness
 
-!Guided Prayer! - if you drop below 25% hp you cast a free instant !Word of Glory! on yourself at 60% effectiveness. 60 second CD. 
+!Guided Prayer! - if you drop below 25% hp you cast a free instant !Word of Glory! on yourself at 60% effectiveness. 60 second CD.
 
-!Divine Steed! - 100% movement speed for 5 seconds, 45 second recharge, 2 charges. 
+!Divine Steed! - 100% movement speed for 5 seconds, 45 second recharge, 2 charges.
 
 !Light's Countenance! - reduces CD of !Blinding Light! by 15 seconds
 
