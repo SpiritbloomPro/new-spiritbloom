@@ -37,11 +37,11 @@ Holy light is an incredibly strong spell, but it also eats your mana so hard you
 
 Try to cast as many as you can afford, but don't overdo it. Rather have mana at the end of the fight than spend 2-3 minutes without any.
 
-- \*\*Spend your !Infusion of Light! procs. \*\*
+- **Spend your !Infusion of Light! procs.**
 
 You will mostly be spending these on !Flash of Light!, though if no one needs healing you can spend them on !Judgment! instead.
 
-- \*\*Cast !Holy Shock! \*\*
+- **Cast !Holy Shock!**
 
 This is just a decent way of generating more Holy Power.
 
