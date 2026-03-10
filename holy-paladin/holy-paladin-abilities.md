@@ -195,7 +195,7 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 
 !Guided Prayer! - if you drop below 25% hp you cast a free instant !Word of Glory! on yourself at 60% effectiveness. 60 second CD.
 
-!Divine Steed! - 100% movement speed for 5 seconds, 45 second recharge, 2 charges.
+!Divine Steed! - 100% movement speed for 5 seconds, 45 second recharge
 
 !Light's Countenance! - reduces CD of !Blinding Light! by 15 seconds
 
@@ -204,3 +204,93 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 !Wrench Evil! - makes !Turn Evil! instant cast
 
 !Stand Against Evil! - !Turn Evil! affects 6 targets instead of 1
+
+- Row 4
+
+!Holy Reprieve! - reduces !Forbearance! duration by 10 seconds
+
+!Cavalier! - Adds a 2nd charge to !Divine Steed! 
+
+!Divine Spurs! - Divine Steed cooldown reduced by 20% but duration reduced by 40% 
+
+!Steed of Liberty! - Divine Steed also casts !Blessing of Freedom! for 3 seconds on yourself, lose the ability to cast it on other people. 
+
+choice node with !Blessing of Freedom! - a 25 second cooldown ability that grants a target immunity to all movement impairing effects such as roots, slows or snares. Please don't ever pick Steed of Liberty, I beg of you.
+
+!Armory of Light! - holding a shield gives you a 15% chance to block spells reducing their damage by 20%, if you do not wear a shield you gain 15% chance to parry melee attacks, reducing their damage by 20% small bonus if you're forced to wear a 2-hander or held in offhand item, but you will always want to wear a shield if you can.
+
+- Row 5
+
+!Obduracy! - meaning to be stubbornly persistent, also gives you 2/4% movement speed and reduces damage taken from AoE abilities by 2/4%
+
+!Divine Toll! and !Holy Prism! choice node - !Divine Toll! casts holy shock on 5 targets, focuses allies if cast on an ally, enemies if cast on an enemy. Prism can either do big damage to a target and heal 5 allies for a smaller amount or a big heal to one target and damage 5 enemies for smaller amounts. For big healing you default to pressing this on an enemy. 
+
+!Echoing Blessings! and !Unbound Freedom! choice node - Echoing blessings makes !Blessing of Freedom! give the target 30% movement speed, !Blessing of Protection! and !Blessing of Sacrifice! give the target 15% damage reduction, these effects work for the duration of the blessing and 8 seconds after. !Unbound Freedom! makes Blessing of Freedom increase the movement speed of the target by 30% and you also gain the effect when you cast on an ally. 
+
+!Sanctified Plates! - increases armor by 6/12%, Stamina by 3/6% and reduces damage taken from area of effect abilities by 1/3%
+
+- Row 6
+
+!Divine Reach! - your auras are now 60yds range instead of 40
+
+!Brought to Light! - killing an enemy that gives you experience or honor causes you to heal yourself and 5 nearby allies. You do not need to get the killing blow
+
+!Blessing of Sacrifice! - 2 minute cooldown, reduces the damage an ally takes by 30%, but you take the damage they would have taken. This lasts 12 seconds or until transferring damage to you would cause you to fall under 20% hp. 
+
+!Divine Resonance! and !Quickened Invocation! choice node - Resonance makes you cast a holy shock every 5 seconds for 15 seconds after casting Prism/Armament/Divine Toll. Quickened Invocation reduces cooldown of Prism/Armament/Divine Toll by 15 seconds
+
+!Blessing of Protection! - makes the target immune to physical damage and effects for 10 seconds, can't be used on targets with !Forbearance! and also causes Forbearance
+
+!Fear no Evil! - 20% fear duration reduction, 60% during wings
+
+!Consecrated Ground! - !Consecration! is larger and slows all enemies within it by 50% 
+
+- Row 7
+
+!Holy Aegis! - armor and critical strike increased by 4%
+
+!Sacrifice of the Just! and !Recompense! choice node - Sacrifice of the Just reduces cooldown of !Blessing of Sacrifice! by 15%. !Recompense! makes your Blessing of Sacrifice save up 50% of all damage it diverts to you, the diverted damage is added to your next !Judgment! as bonus damage or !Word of Glory! as bonus healing.
+
+!Sacred Strength! and !Divine Purpose! choice node - Sacred Strength increases the effectiveness of holy power spenders by 2%. Divine Purpose gives you a 15% chance to gain a free spender with 15% increased effectiveness every time you spend holy power. Sacred Strength is never worth picking. 
+
+!Improved Blessing of Protection! - reduces cooldown of !Blessing of Protection! by 60 seconds
+
+!Unbreakable Spirit! - reduces cooldown of !Divine Shield!, !Divine Protection! and !Lay on Hands! by 30%
+
+- Row 8
+
+!Lightforged Blessing! - !Shield of the Righteous! heals you and 2 nearby allies
+
+!Lead the Charge! - Divine Steed reduces the cooldown of 4 allies' major movement ability by 3 seconds, also a flat 3% movement speed increase to you
+
+!Worthy Sacrifice! and !Righteous Protection! choice node - Worthy Sacrifice makes you automatically cast !Blessing of Sacrifice! on a target when they go below 35% health. This causes Sacrifice to go on cooldown. Righteous Protection causes Sacrifice to remove and prevent all poison and disease effects for the duration
+
+!Holy Ritual! - allies are healed when you cast !Blessing of Protection! or !Blessing of Sacrifice! on them
+
+!Blessed Calling! - allies affected by Protection, Sacrifice or Freedom have 15% movement speed increase
+
+!Inspired Guard! - Divine Protection increases the healing you take by 15% for the duration
+
+!Light's Revocation! - Divine Shield heals you for 10% for each harmful effect it removes, up to 30%, you can also cast Divine Shield regardless of Forbearance
+
+- Row 9 
+
+!Faith's Armor! - !Word of Glory! grants you 20% bonus armor for 4.5 seconds
+
+!Stoicism! - reduces the duration of stuns on you by 20% 
+
+!Seal of Might! - increases mastery and Intellect by 2/4% 
+
+!Vengeful Wrath! - hammer of wrath deals more damage the lower health your target is
+
+!Eye for an Eye! - if you are attacked during !Divine Protection! or !Divine Shield! you deal damage back at your attacker
+
+!Golden Path! and !Selfless Healer! choice node - Golden path attaches a small healing over time to !Consecration!. Selfless Healer increases healing done by !Flash of Light! and !Holy Light! by 10% and 10% of all healing you do with them is replicated on you
+
+- Row 10
+
+!Blessing of Dawn! - when you are above 85% health, 5% of all the damage your allies within 20 yds take is redirected to you up to a cap every 5 seconds
+
+!Lightbearer! - 10% of all healing done to you by sources other than yourself is replicated to up to 4 nearby allies
+
+!Blessing of Dusk! - you take up to 10% less damage the lower your health is
