@@ -337,7 +337,7 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Moment of Compassion! and !Resplendent Light! choice node - Moment of Compassion increases Flash of Light healing by 50% when you heal a beacon target, Resplendent Light causes Holy Light to heal up to 5 targets within 12 yards of the target for 8% of its healing
 
-!Divine Favor! - Holy Light mana cost reduced by 10% and cast time reduced by 15% 
+!Divine Favor! - Holy Light mana cost reduced by 10% and cast time reduced by 15%
 
 !Unwavering Spirit! and !Protection of Tyr! choice node - Unwavering Spirit makes Aura Mastery 2.5 minute CD, Protection of Tyr makes all allies take 10% increased healing for the duration of Aura Mastery
 
@@ -373,13 +373,13 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Divine Glimpse! - Holy Shock and Judgment have 8% increased critical strike chance
 
-!Bestow Light! - !Light of the Martyr! health threshold is reduced to 70% health and increases holy shock healing by 5% more for each second it is active stacking up to 15%. When below 70% health you gain a heal over time 
+!Bestow Light! - !Light of the Martyr! health threshold is reduced to 70% health and increases holy shock healing by 5% more for each second it is active stacking up to 15%. When below 70% health you gain a heal over time
 
 - Row 8
 
 !Beacon of Faith! and !Beacon of Virtue! choice node - Beacon of Faith gives you a second !Beacon of Light!. !Beacon of Faith! replaces Beacon of Light and gives you a 15 second cooldown that applies beacon to 5 allies for 9 seconds
 
-!Empyrean Legacy! - judgment critical strikes causes your next Word of Glory to also cast Light of Dawn at 30% effectiveness 
+!Empyrean Legacy! - judgment critical strikes causes your next Word of Glory to also cast Light of Dawn at 30% effectiveness
 
 !Veneration! - judgment puts an absorb shield on 5 injured allies for 8% of the damage it did. Also causes Flash of Light and Holy light critical strikes to reset the cooldown of Judgment
 
@@ -399,13 +399,13 @@ choice node with !Blessing of Freedom! - a 25 second cooldown ability that grant
 
 !Truth Prevails! - Judgment heals you and mana cost is reduced. 50% of all overhealing from !Judgment! is transferred to 2 allies within 40 yards
 
-!Divine Overload! - !Holy Light! healing increased by 30% and mana cost increased by 20% 
+!Divine Overload! - !Holy Light! healing increased by 30% and mana cost increased by 20%
 
 - Row 10
 
 !Rising Sunlight! - healing is increased by up to 10% the lower the average health of your beacon targets
 
-!Glorious Dawn! - Holy shock has a 12% chance to refund a charge and its healing is increased by 10% 
+!Glorious Dawn! - Holy shock has a 12% chance to refund a charge and its healing is increased by 10%
 
 !Seraphic Barrier! - Word of Glory and Light of Dawn convert 15% of their healing into absorb shield - **this is not worth picking as it means 15% less beacon transfer**
 
