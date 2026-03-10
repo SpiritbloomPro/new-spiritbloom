@@ -104,61 +104,61 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 ##### Key talent
 
-!Holy Armaments! - this replaces !Divine Toll! or !Holy Prism! depending on which one you talented into. 
+!Holy Armaments! - this replaces !Divine Toll! or !Holy Prism! depending on which one you talented into.
 
-2 charges, 45 second recharge time. Cycles between casting a !Holy Bulwark! and a !Sacred Weapon!. 
+2 charges, 45 second recharge time. Cycles between casting a !Holy Bulwark! and a !Sacred Weapon!.
 
 Bulwark applies a stacking shield to the target for 15% of the target's max hp initially, growing by 2% every 2 seconds for 20 seconds to a total of 35%
 
-Weapon gives damaging abilities a chance to do extra damage and healing abilities a chance to do extra healing - note that the proc rate is shared so putting it on a healer that does dps like a discipline priest will lower the total healing. 
+Weapon gives damaging abilities a chance to do extra damage and healing abilities a chance to do extra healing - note that the proc rate is shared so putting it on a healer that does dps like a discipline priest will lower the total healing.
 
 ##### Choice Nodes
 
 - Choice node 1
 
-!Rite of Sanctification! - a weapon enchant that gives you base armor and primary stat. 
+!Rite of Sanctification! - a weapon enchant that gives you base armor and primary stat.
 
-!Rite of Adjuration! - a weapon enchant that gives you stamina and a chance to proc more healing on your healing abilities. 
+!Rite of Adjuration! - a weapon enchant that gives you stamina and a chance to proc more healing on your healing abilities.
 
 - Choice node 2
 
-!Divine Guidance! - casting spenders causes your next consecration to do healing and damage split between all targets within its radius, stacks with each successive spender. 
+!Divine Guidance! - casting spenders causes your next consecration to do healing and damage split between all targets within its radius, stacks with each successive spender.
 
 !Blessed Assurance! - holy power spenders increases the power of your next !Holy Shock! by 20%
 
 - Choice node 3
 
-!Divine Inspiration! - randomly proc !Holy Armaments! on nearby allies when you cast spells. 
+!Divine Inspiration! - randomly proc !Holy Armaments! on nearby allies when you cast spells.
 
-!Forewarning! - cooldown of holy armaments is reduced by 20% 
+!Forewarning! - cooldown of holy armaments is reduced by 20%
 
-Note: !Divine Inspiration! is going to be more than 60% of all your armaments and is miles ahead of !Forewarning! 
+Note: !Divine Inspiration! is going to be more than 60% of all your armaments and is miles ahead of !Forewarning!
 
 - Choice node 3
 
-!Authoritative Rebuke! - successfully dispelling reduces the cooldown of !Cleanse! by 1 second, 2 if you are wielding a !Holy Armaments! 
+!Authoritative Rebuke! - successfully dispelling reduces the cooldown of !Cleanse! by 1 second, 2 if you are wielding a !Holy Armaments!
 
-!Tempered in Battle! - !Sacred Weapon! will instantly redistribute health between you and a target with the other sword if either of you drop below 40% health, this continues for 4 seconds, but can only occur once per weapon. !Sacred Bulwark! causes 100% of all overhealing on a target wielding a bulwark to be transferred to the wielder of your other bulwark. 
+!Tempered in Battle! - !Sacred Weapon! will instantly redistribute health between you and a target with the other sword if either of you drop below 40% health, this continues for 4 seconds, but can only occur once per weapon. !Sacred Bulwark! causes 100% of all overhealing on a target wielding a bulwark to be transferred to the wielder of your other bulwark.
 
 ##### Passive abilities
 
-!Solidarity! - casting a !Holy Armaments! on yourself puts a copy on a random ally - bulwarks prefer tanks and weapons prefer fellow healers. Casting it on an ally puts a copy on you. 
+!Solidarity! - casting a !Holy Armaments! on yourself puts a copy on a random ally - bulwarks prefer tanks and weapons prefer fellow healers. Casting it on an ally puts a copy on you.
 
-!Masterwork! - casting !Holy Armaments! places a lesser copy on an ally after your next 3 spell casts. 
+!Masterwork! - casting !Holy Armaments! places a lesser copy on an ally after your next 3 spell casts.
 
-!Laying Down Arms! - when an armament fades from you, reduce the cooldown of !Lay on Hands! by 15 seconds and give yourself an !Infusion of Light! proc. 
+!Laying Down Arms! - when an armament fades from you, reduce the cooldown of !Lay on Hands! by 15 seconds and give yourself an !Infusion of Light! proc.
 
-!Hammer and Anvil! - !Judgment! critical strikes also does a shockwave of healing around your target, healing up to 5 allies. 
+!Hammer and Anvil! - !Judgment! critical strikes also does a shockwave of healing around your target, healing up to 5 allies.
 
-!Shared Resolve! - Increases the effect of your active aura by 33% on targets with an armament. Effectively this means your Devotion Aura is a 4% DR and !Aura Mastery! is a 16% DR on targets with Armament. 
+!Shared Resolve! - Increases the effect of your active aura by 33% on targets with an armament. Effectively this means your Devotion Aura is a 4% DR and !Aura Mastery! is a 16% DR on targets with Armament.
 
 !Valiance! - consuming !Infusion of Light! reduces the cooldown of !Holy Armaments! by 3 seconds
 
-!Reflection of Radiance! - you have a chance to gain !Awakening! when bulwarks absorb damage or weapons deal damage or healing. 
+!Reflection of Radiance! - you have a chance to gain !Awakening! when bulwarks absorb damage or weapons deal damage or healing.
 
 !Resounding Strike! - casting a !Holy Armaments! procs !Hammer and Anvil!
 
-!Blessing of the Forge! - !Avenging Wrath! gives you a !Sacred Weapon! and while wings are up, your Sacred Weapon casts spells on your target and replicates !Light of Dawn!, !Word of Glory! and !Shield of the Righteous! 
+!Blessing of the Forge! - !Avenging Wrath! gives you a !Sacred Weapon! and while wings are up, your Sacred Weapon casts spells on your target and replicates !Light of Dawn!, !Word of Glory! and !Shield of the Righteous!
 
 ## Class Talents
 
@@ -181,3 +181,5 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 !Blinding Light! - Area of effect crowd control ability that causes targets to wander disoriented for 6 seconds. Cancels on damage, great for a small interrupt.
 
 !Turn Evil! - single target crowd control that causes any undead, aberration or demon to flee for up to 40 seconds.
+
+- Row 3
