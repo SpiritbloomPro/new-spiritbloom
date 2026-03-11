@@ -57,6 +57,7 @@ Our gameplay is raid is pretty straightforward with a few things you can do to m
   <TabItem value="Dream Flight" default>
 !Dreamflight! will be chosen if you need another large 2 minute CD and your group will be stacked at that time. !Dream Flight! gains a large amount of power from !Inner Flame! while also giving you a 100% HP shield to keep you safe during your flight. Do note that the shield fades when you land. !Dream Flight! is less flexible in its choices in how you use it, but it is one of the strongest cooldowns in the game.
 </TabItem>
+</Tabs>
   <Tabs className='header-tabs'>
 <TabItem value="Stasis">
 !Stasis! is still a very powerful cooldown that has a lot of flexibility in how you use it. You can ramp during a !Stasis! build, and use that !Stasis! build to release into another immediate ramp. This helps keep you ahead of the damage with good planning and execution. You can also just use it for more immediate healing by storing and immediately releasing. That being said there will always be default spells that you will look to store into your !Stasis!, powerful spells like !Temporal Anomaly! and !Merithra's Blessing!.
