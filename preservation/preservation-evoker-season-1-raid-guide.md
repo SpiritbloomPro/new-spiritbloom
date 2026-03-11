@@ -37,9 +37,9 @@ Our tierset is very straightforward,
 
 2 set: !Verdant Embrace! now heals for 20% more and has its cooldown reduced by 2 seconds.
 
-4 set: !Verdant Embrace! grows and !Emerald Blossom! on the target at 100% effectiveness.
+4 set: !Verdant Embrace! grows an !Emerald Blossom! on the target at 100% effectiveness.
 
-Quick note, the 4 set cannot be !Echo'd!, only the initial target you casted !Verdant Embrace! on will have an !Emerald Blossom! casted on them as well. This !Emerald Blossom! acts as a normal cast and procs talents like !Twin Echoes!, !Fluttering Seedlings!, and !Field of Dreams!.
+Quick note, the 4 set cannot be !Echo'd!, only the initial target you casted !Verdant Embrace! on will have an !Emerald Blossom! casted on them. This !Emerald Blossom! acts as a normal cast and procs talents like !Twin Echoes!, !Fluttering Seedlings!, and !Field of Dreams!.
 
 # Gameplay
 
