@@ -25,5 +25,5 @@ Something to keep in mind is due to the cooldown heavy nature of Preservation an
 - Getting !Dream Breath! on cooldown is almost always the right choice, it is better to be sitting on a !Merithra’s Blessing! for when you need it than to have !Dream Breath! off cooldown.
 - !Stasis! can be used to dispel multiple effects. A !Naturalize! or !Cauterize! that fails to dispel anything refreshes its cooldown, and can be pressed multiple times in your !Stasis! window to prepare dispels you may need in the future.
 - Because of how !Time Dilation! works, it can end up killing your tank, make sure if you are using this on your tank that it is something they personally requested or as a last resort.
-- !Rescue! can remove the harmful debuffs from party members if there is a movement impairing effect involved, completely removing the damage with it.
+- !Rescue! can remove harmful debuffs from party members if there is a movement impairing effect involved, completely removing the damage with it.
 - The shield from !Temporal Anomaly! can stack up to three times if refreshed, leading to a nice health buffer for one-shots.
