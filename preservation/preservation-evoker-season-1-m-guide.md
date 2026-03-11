@@ -30,7 +30,7 @@ Something to keep in mind is due to the cooldown heavy nature of Preservation an
 - The shield from !Temporal Anomaly! can stack up to three times if refreshed, leading to a nice health buffer for one-shots.
 - The target of our !Verdant Embrace! receives much more healing than the rest of the party. Only the main target gets !Lifebind! and our tierset also drops an !Emerald Blossom! under their feet.
 
-## ##Gameplay
+## Gameplay
 
 [-Tabs-]
 
@@ -49,4 +49,6 @@ Something to keep in mind is due to the cooldown heavy nature of Preservation an
 
 1. Swap Hero Talents to Chronowarden
 
-[-End-]
+[-EndTabs-]
+
+## Stasis
