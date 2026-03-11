@@ -17,38 +17,39 @@ To start with what was lost, !Spiritbloom! and !Engulf! have both been removed. 
 
 Noteable reworks are as follows: !Consume Flame! no longer is an AoE raidwide heal, but rather is a small heal triggered by !Verdant Embrace! and !Emerald Blossom! on those with !Dream Breath!. !Call of Ysera! has been decoupled from !Verdant Embrace! and is now completely passive with a small nerf. !Renewing Blaze! is now attached to your !Obsidian Scales!. Lastly, !Tempo Charged! is now a generic bronze spell buff.
 
-For what was gained, all talents that affect !Spiritbloom! now affect !Dream Breath! instead. !Emerald Blossom! saw massive healing buffs along with removing the RNG element of !Field of Dreams!. !Emerald Blossom! also saw a new core mechanic added with !Twin Echoes!. !Verdant Embrace! had its healing increased and a new choice node to support it with !Wings of Liberty! vs !Dream Simulacrum!.  Our Tierset and our Apex talent !Merithra's Blessing! we will talk about next. We had many other changes as well, but most arent as impactful as the ones listed here!
+For what was gained, all talents that affect !Spiritbloom! now affect !Dream Breath! instead. !Emerald Blossom! saw massive healing buffs along with removing the RNG element of !Field of Dreams!. !Emerald Blossom! also saw a new core mechanic added with !Twin Echoes!. !Verdant Embrace! had its healing increased and a new choice node to support it with !Wings of Liberty! vs !Dream Simulacrum!.  Our Tierset and our Apex talent !Merithra's Blessing! will talk about just below. Preservation had many other changes as well, but most arent as impactful as the ones listed here!
 
 # Our Apex, !Merithra's Blessing!
 
-To really understand how we play, we have to talk about our apex !Merithra's Blessing! and all that it does.
+To really understand how Preservation plays, we have to talk about our apex !Merithra's Blessing! and all that it does.
 
 Point 1 gives us access to !Merithra's Blessing!, giving us a 20% chance on every cast of !Echo!, !Emerald Blossom!, or !Disintegrate! to override our reversion with !Merithra's Blessing!. !Merithra's Blessing! heals the ally, and then shoots 4 bolts from them to other nearby allies, along with acting like a normal reversion cast, proccing affects like !Golden Hour! and !Grace Period!. This affect is completely Echoable!
 
 Point 2 and 3 makes it so our reversion reduces that damage that the target takes if they have !Reversion! active on them AS WELL AS healing them for a % of damage taken. At 3/4 points into !Merithra's Blessing!, a target that gets hit for 100 damage will get 2 damage reduced, and healed for 2, for a 4% damage swing. This is DOUBLED if the target as both a !Reversion! and !Echo'd!  !Reversion! on them for an almost 8% damage swing.
 
-Point 4 makes it so our !Dream Breath! has a 100% chance to grant !Merithra's Blessing! along with increasing the instant healing of !Dream Breath!. Do note that the 125% increase to !Dreambreath! does not include upranked !Dream Breath!s.
+Point 4 makes it so our !Dream Breath! has a 100% chance to grant !Merithra's Blessing! along with increasing the instant healing of !Dream Breath!. Do note that the 125% increase to !Dream Breath! does not include upranked !Dream Breath!s.
 
 All of this to say that !Reversion! is back to be an extremely strong cast, and will be center to a lot of what we do.
 
 # Tierset
 
-Our tierset is very straight forward,
+Our tierset is very straightforward,
 
 2 set: !Verdant Embrace! now heals for 20% more and has its cooldown reduced by 2 seconds.
+
 4 set: !Verdant Embrace! grows and !Emerald Blossom! on the target at 100% effectiveness.
 
 Quick note, the 4 set cannot be !Echo'd!, only the initial target you casted !Verdant Embrace! on will have an !Emerald Blossom! casted on them as well. This !Emerald Blossom! acts as a normal cast and procs talents like !Twin Echoes!, !Fluttering Seedlings!, and !Field of Dreams!.
 
 # Gameplay
 
-Our gameplay is raid is pretty straight forward with a few things you can do to maximize your output. A large portion of what we will be doing is recognizing when damage is going to happen, and building as many !echoes! we can on the group through casts of !Echo! and !Temporal Anomaly!.  When the damage happens we can spend those !Echoes! on either !Merithra's Blessing!, !Verdant Embrace!, or !Reversion! if we dont have a !Merithra's Blessing! proc.
+Our gameplay is raid is pretty straightforward with a few things you can do to maximize your output. A large portion of what we will be doing is recognizing when damage is going to happen, and building as many !echoes! we can on the group through casts of !Echo! and !Temporal Anomaly!.  When the damage happens we can spend those !Echoes! on either !Merithra's Blessing!, !Verdant Embrace!, or !Reversion! if we dont have a !Merithra's Blessing! proc.
 
 1. Use !Temporal Anomaly! on cooldown as much as possible. This puts out the most amount of our !Echo! buff and is center to all we do.
-2. Use !Dream Breath! as much as possible without consuming our !Echoes!. !Dream Breath! is still a very powerful heal for its mana cost and has a 100% chance to proc !Merithra's Blessing! which can be used to gaurentee our Echo ramp is consumed with !Merithra's Blessing!. This will also help with !Essence Burst! generation due to !Afterimage! with an added bonus of some more healing!
+2. Use !Dream Breath! as much as possible without consuming our !Echoes!. !Dream Breath! is still a very powerful heal for its mana cost and has a 100% chance to proc !Merithra's Blessing! which can be used to guarantee our Echo ramp is consumed with !Merithra's Blessing!. This will also help with !Essence Burst! generation due to !Afterimage! with an added bonus of some more healing!
 3. Use !Essence Bursts! on !Emerald Blossoms! and !Essence! on !Echo!. We use !Essence Bursts! on !Emerald Blossoms! to save on the large mana cost, but also to proc !Twin Echoes!. This makes it so we gain additional healing while we are ramping without losing out on !Echo! count. !Twin Echoes! casts will always prioritize the lowest HP target that does not have an !Echo! buff on them.
 4. Use !Firebreath! during your ramps, or on cooldown, at max rank. This not only does damage, but has a chance to proc !Essence Burst! from !Afterimage!. !Firebreath! is also casted at max rank for !Leaping Flames! which makes your next cast of !Chronoflame! to hit additional targets for free. These extra !Chronoflames! all have a chance to proc !Essence Burst! while doing extra damage and healing.
-5. Consume your !Echoes! with !Merithra's Blessing! whenever damage happens. This can be either be right as your proc a !Merithra's Blessing! or can be when a large raid mechanic hits, It really depends on the fight. If !Merithra's Blessing! is not up, you can choose to consume your !Echoes! with !Verdant Embrace!.
+5. Consume your !Echoes! with !Merithra's Blessing! whenever damage happens. This can be either be right as you proc a !Merithra's Blessing! or can be when a large raid mechanic hits, It really depends on the fight. If !Merithra's Blessing! is not up, you can choose to consume your !Echoes! with !Verdant Embrace!.
 6. Use !Verdant Embrace! as much as possible while prioritizing !Echoes! being consumed with !Merithra's Blessing!. We want to be using !Verdant Embrace! as much as possible for a few reasons. Firstly, it interacts with our tierset by dropping a free !Emerald Blossom! that procs !Twin Echoes! that we can use to start building our ramp. Secondly, it does a decent amount of healing and provides us with the buff !Primacy!. !Primacy! stacks to 3 for a total of 9% haste and a single cast can refresh 3 stacks.
 7. Cast !Chronoflame! at the boss. This will be your filler and your last resort, !Chronoflame! provides a small amount of damage, but is a source of !Essence Burst! which is very important to us.
 
