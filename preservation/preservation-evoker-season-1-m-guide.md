@@ -11,7 +11,7 @@ Preservation is a healing spec that offers an array of useful tools in M+. Burst
 
 When it comes to how Preservation feels to play in M+, the spec revolves around layering multiple HoTs on the party in preparation for incoming damage. This is often followed by spreading !Echo! across party members and using a large healing ability such as !Verdant Embrace!, !Merithra’s Blessing!, or !Dream Breath! to quickly stabilize the group.
 
-# **Where Does Your Healing Come From**
+## **Where Does Your Healing Come From**
 
 A large portion of Preservation’s healing revolves around !Verdant Embrace! and !Merithra’s Blessing!. However, there are many steps involved to actually making these spells worthwhile. !Echo! is the foundation of most of our kit due to it acting as a setup tool that allows for our next spell to be duplicated, !Reversion! is our ongoing upkeep buff that we maintain for the multiple passive benefits that come with it, and !Dream Breath! is the most reliable way of getting !Merithra’s Blessing!. On their own none of these spells do much healing, but used in the right order give extremely bursty outcomes.
 
@@ -19,7 +19,7 @@ With our spells only doing most of their healing when used in combination with e
 
 Something to keep in mind is due to the cooldown heavy nature of Preservation and how limited we are on strong !Echoes!, is that we need to make good use of both at the same time. Applying !Echo! directly to our party and consuming them with the correct spell is vital to keeping our party alive during damage. Understand that if we are ever consuming our echoes with !Living Flame! it is almost always a last resort measure after using the rest of our toolkit first.
 
-# Important Things to Know
+## Important Things to Know
 
 - Maintaining !Reversion! on the party is extremely important. It is an incredible healing amplifier that stacks per !Reversion! and should always be active on as many people as possible
 - !Echo! lasts a long time, so it is good to have !Echoes! sitting on people early before damage goes out to be prepared the moment you have to heal.
@@ -30,9 +30,11 @@ Something to keep in mind is due to the cooldown heavy nature of Preservation an
 - The shield from !Temporal Anomaly! can stack up to three times if refreshed, leading to a nice health buffer for one-shots.
 - The target of our !Verdant Embrace! receives much more healing than the rest of the party. Only the main target gets !Lifebind! and our tierset also drops an !Emerald Blossom! under their feet.
 
-# Gameplay
+## ##Gameplay
 
-(Chronowarden tab goes here)
+[-Tabs-]
+
+[-Chronowarden-]
 
 1. Apply !Echo! to the party as often as possible. It is much better to have !Echoes! waiting to be used rather than need them when it's too late.
 2. Use !Reversion! often in order to maintain uptime on the entire party. It is normal to apply !Reversion! to your party with !Echoes! from !Temporal Anomaly! outside of combat between packs and also when everyone is already full health.
@@ -42,3 +44,9 @@ Something to keep in mind is due to the cooldown heavy nature of Preservation an
 6. Use !Fire Breath! to gain the powerful !Leaping Flames! buff. !Leaping Flames! is a decent heal that also can give us more !Essence Burst! for more !Echoes!. !Fire Breath! is also an extremely strong heal when used on multiple targets due to !Life-givers Flame!
 7. Cast !Chrono Flame! with a !Lifespark! proc if talented, if we are out of buttons to push, it is fine as a last resort to consume any !Echoes! we have with !Chrono Flame!.
 8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana, but keep in mind it will eat through your Essence very fast. If you don't need mana, cast !Chrono Flame!.
+
+[-Flameshaper-]
+
+1. Swap Hero Talents to Chronowarden
+
+[-End-]
