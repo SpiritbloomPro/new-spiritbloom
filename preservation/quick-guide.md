@@ -28,7 +28,7 @@ sidebar_position: 3
 
             </TabItem>
         </Tabs>
-        For more details on how to optimize your gameplay for raids, check the [raids page of the guide](/Preservation-evoker/raid.md).
+        For more details on how to optimize your gameplay for raids, check the (insert raid page here)
     </TabItem>
     <TabItem value='Mythic+'>
         <Tabs className='header-tabs'>
@@ -54,6 +54,6 @@ sidebar_position: 3
                 2. 2nd best or rest
             </TabItem>
         </Tabs>
-        For more details on how to optimize your gameplay in keys, check the [mythic+ page of the guide](/restoration-shaman/mythicplus.md).
+        For more details on how to optimize your gameplay in keys, check the (insert M+ page here)
     </TabItem>
 </Tabs>
