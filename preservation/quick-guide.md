@@ -28,7 +28,7 @@ sidebar_position: 3
 
             </TabItem>
         </Tabs>
-        For more details on how to optimize your gameplay for raids, check the (insert raid page here)
+        For more details on how to optimize your gameplay for raids, check the [full raid guide here!](https://ptr.spiritbloom.pro/preservation/preservation-evoker-season-1-raid-guide)
     </TabItem>
     <TabItem value='Mythic+'>
         <Tabs className='header-tabs'>
@@ -54,6 +54,6 @@ sidebar_position: 3
                 2. 2nd best or rest
             </TabItem>
         </Tabs>
-        For more details on how to optimize your gameplay in keys, check the (insert M+ page here)
+        For more details on how to optimize your gameplay in keys, check the [Full M+ guide here!](https://ptr.spiritbloom.pro/preservation/preservation-evoker-season-1-m-guide)
     </TabItem>
 </Tabs>
