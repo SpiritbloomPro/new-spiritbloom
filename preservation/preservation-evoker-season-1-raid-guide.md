@@ -11,7 +11,7 @@ Welcome to the Season 1 Midnight guide for Preservation Evoker. Preservation Evo
 
 # Brief summary of changes and what is new!
 
-Before we start talking about how we play, we first need to briefly talk about what was lost and what we gained coming into season one.
+Before we start talking about how preservation evoker plays,  first we need to briefly talk about what was lost and what was gained coming into season one.
 
 To start with what was lost, !Spiritbloom! and !Engulf! have both been removed. !Lifebind! has been buffed, but it no longer can be !Echo'd!. !Emerald Communion! has been moved to a pvp talent, and lastly !Stasis! and !Dream Flight! are on a choice node.
 
@@ -25,7 +25,7 @@ To really understand how we play, we have to talk about our apex !Merithra's Ble
 
 Point 1 gives us access to !Merithra's Blessing!, giving us a 20% chance on every cast of !Echo!, !Emerald Blossom!, or !Disintegrate! to override our reversion with !Merithra's Blessing!. !Merithra's Blessing! heals the ally, and then shoots 4 bolts from them to other nearby allies, along with acting like a normal reversion cast, proccing affects like !Golden Hour! and !Grace Period!. This affect is completely Echoable!
 
-Point 2 and 3 makes it so our reversion reduces that damage that the target takes if they have !Reversion! active on them AS WELL AS healing them for a % of damage taken. At 3/4 points into !Merithra's Blessing!, a target that gets hit for 100 damage will get 2 damage reduced, and healed for 2, for a 4% damage swing. This is DOUBLED if the target as both a !Reversion! and !Echoed!  !Reversion! on them for an almost 8% damage swing.
+Point 2 and 3 makes it so our reversion reduces that damage that the target takes if they have !Reversion! active on them AS WELL AS healing them for a % of damage taken. At 3/4 points into !Merithra's Blessing!, a target that gets hit for 100 damage will get 2 damage reduced, and healed for 2, for a 4% damage swing. This is DOUBLED if the target as both a !Reversion! and !Echo'd!  !Reversion! on them for an almost 8% damage swing.
 
 Point 4 makes it so our !Dream Breath! has a 100% chance to grant !Merithra's Blessing! along with increasing the instant healing of !Dream Breath!. Do note that the 125% increase to !Dreambreath! does not include upranked !Dream Breath!s.
 
@@ -38,14 +38,14 @@ Our tierset is very straight forward,
 2 set: !Verdant Embrace! now heals for 20% more and has its cooldown reduced by 2 seconds.
 4 set: !Verdant Embrace! grows and !Emerald Blossom! on the target at 100% effectiveness.
 
-Quick note, the 4 set cannot be !echoed!, only the initial target you casted !Verdant Embrace! on will have an !Emerald Blossom! casted on them as well. This !Emerald Blossom! acts as a normal cast and procs talents like !Twin Echoes!, !Fluttering Seedlings!, and !Field of Dreams!.
+Quick note, the 4 set cannot be !Echo'd!, only the initial target you casted !Verdant Embrace! on will have an !Emerald Blossom! casted on them as well. This !Emerald Blossom! acts as a normal cast and procs talents like !Twin Echoes!, !Fluttering Seedlings!, and !Field of Dreams!.
 
 # Gameplay
 
 Our gameplay is raid is pretty straight forward with a few things you can do to maximize your output. A large portion of what we will be doing is recognizing when damage is going to happen, and building as many !echoes! we can on the group through casts of !Echo! and !Temporal Anomaly!.  When the damage happens we can spend those !Echoes! on either !Merithra's Blessing!, !Verdant Embrace!, or !Reversion! if we dont have a !Merithra's Blessing! proc.
 
 1. Use !Temporal Anomaly! on cooldown as much as possible. This puts out the most amount of our !Echo! buff and is center to all we do.
-2. Use !Dream Breath! as much as possible without consuming our !echoes!. !Dream Breath! is still a very powerful heal for its mana cost and has a 100% chance to proc !Merithra's Blessing! which can be used to gaurentee our echo ramp is consumed with !Merithra's Blessing!. This will also help with !Essence Burst! generation due to !Afterimage! with an added bonus of some more healing!
+2. Use !Dream Breath! as much as possible without consuming our !Echoes!. !Dream Breath! is still a very powerful heal for its mana cost and has a 100% chance to proc !Merithra's Blessing! which can be used to gaurentee our Echo ramp is consumed with !Merithra's Blessing!. This will also help with !Essence Burst! generation due to !Afterimage! with an added bonus of some more healing!
 3. Use !Essence Bursts! on !Emerald Blossoms! and !Essence! on !Echo!. We use !Essence Bursts! on !Emerald Blossoms! to save on the large mana cost, but also to proc !Twin Echoes!. This makes it so we gain additional healing while we are ramping without losing out on !Echo! count. !Twin Echoes! casts will always prioritize the lowest HP target that does not have an !Echo! buff on them.
 4. Use !Firebreath! during your ramps, or on cooldown, at max rank. This not only does damage, but has a chance to proc !Essence Burst! from !Afterimage!. !Firebreath! is also casted at max rank for !Leaping Flames! which makes your next cast of !Chronoflame! to hit additional targets for free. These extra !Chronoflames! all have a chance to proc !Essence Burst! while doing extra damage and healing.
 5. Consume your !Echoes! with !Merithra's Blessing! whenever damage happens. This can be either be right as your proc a !Merithra's Blessing! or can be when a large raid mechanic hits, It really depends on the fight. If !Merithra's Blessing! is not up, you can choose to consume your !Echoes! with !Verdant Embrace!.
@@ -73,4 +73,4 @@ The iconic Preservation spell, the BEST throughput cooldown in a prog setting. Y
 
 # Conclusion
 
-Preservation Evoker is as strong as ever in raids. We have a unique niche of scaling directly with the damage taken with !Merithra's Blessing Reversion!, !Golden Hour!, and !Rewind! which makes exceptionally strong in a progression environment. Our Apex helped simplify our gameplay at face value while keeping Preservation evoker ramp and echo focused. Talents like !Twin Echoes! help integrate our entire kit into what we do and it makes Preservation a very satisfying, fulfilling, and rewarding spec to play!
+Preservation Evoker is as strong as ever in raids. We have a unique niche of scaling directly with the damage taken with !Merithra's Blessing Reversion!, !Golden Hour!, and !Rewind! which makes exceptionally strong in a progression environment. Our Apex helped simplify our gameplay at face value while keeping Preservation evoker ramp and Echo focused. Talents like !Twin Echoes! help integrate our entire kit into what we do and it makes Preservation a very satisfying, fulfilling, and rewarding spec to play!
