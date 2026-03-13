@@ -67,11 +67,12 @@ Our gameplay is raid is pretty straightforward with a few things you can do to m
 
 Niche Raid wide !Echo!. Sometimes you need that raidwide !Echo! ramp as you can't use !Dream Flight! at this time. Specifically as !Chonowarden! you can !Stasis! !Temporal Anomaly! > !Echo! **OR** !Emerald Blossom! > !Temporal Anomaly!.  The !Echo! or !Emerald Blossom! cast is always 2nd and specifically is there to not consume the !Echoes! you had just spread onto the raid. You will build this !Stasis! and immediately release it to get 20 !Echoes! out onto the raid and ideally consume it with !Merithra's Blessing!. This is a hail mary kind of !Stasis! and we used it often with !lifebind! and !emerald communion! which both no longer function the same.
 </TabItem>
+
+<TabItem value="Rewind">
+
+The iconic Preservation spell, the BEST throughput cooldown in a prog setting. You will look to use !Rewind! in the most damage heavy points in the fight as frequently as possible. Just note that you have to use !Rewind! AFTER the damage happens otherwise you will get no value from it.
+</TabItem>
 </Tabs>
-
-## !Rewind!
-
-The iconic Preservation spell, the BEST throughput cooldown in a prog setting. You will look to use !Rewind! in the most damage heavy points in the fight as frequently as possible.
 
 # Conclusion
 
