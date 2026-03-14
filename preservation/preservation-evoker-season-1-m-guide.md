@@ -95,4 +95,26 @@ With clever use of dispelling nothing ahead of time to refresh the cool down, Pr
 
 ## Talents
 
+bla bla bla test so i can see where the text goes in relation
+
+[-Tabs-]
+
+[-Chronowarden-]
+
+omg chrono warden!
+
+(Evoker/Chronowarden/EAQUUBlESYJEREVYEQVBQOVVRQVQJVQQSpENCUQFFVVVUBE)
+
+bla bla bla test under the talent tree to see how it goes
+
+[-Flameshaper-]
+
+wow flameshaper wow!!!
+
+(Evoker/Flameshaper/EAQUUBlESYJEREVYEQVBQOVVRQVQJVQQSpENCUQFFVVVUBU)
+
+bla bla flameshaper big poomper
+
+[-EndTabs-]
+
 ### Dream Simulacrum Vs Wings of Liberty
