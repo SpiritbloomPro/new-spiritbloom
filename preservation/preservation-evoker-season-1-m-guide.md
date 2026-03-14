@@ -118,3 +118,9 @@ bla bla flameshaper big poomper
 [-EndTabs-]
 
 ### Dream Simulacrum Vs Wings of Liberty
+
+The most meaningful decision you can make in your gameplay concerning talents is the choice node of !Dream Simulacrum! and !Wings of Liberty!. Both talents have benefits that they bring that the other doesn't. 
+
+!Dream Simulacrum! gives much more burst healing potential with the increase to it's healing especially when paired with Chronowarden's !Reverberations! hero talent. The main benefit however actually comes through with it's ranged aspect. By far the easiest way to die on Preservation is when you !Verdant Embrace! to a party member only to find yourself flying through a mechanic and dying. This is such a limiting factor in moment to moment gameplay that not having to think about it is a huge plus to taking this talent.
+
+!Wings of Liberty! is on the opposite end of the spectrum. It trades the increased healing and range for a second charge of !Verdant Embrace!. This lets us make better use out of out tierset as well as !Lifebind!.
