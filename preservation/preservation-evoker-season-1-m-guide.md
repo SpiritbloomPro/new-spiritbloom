@@ -119,8 +119,8 @@ bla bla flameshaper big poomper
 
 ### Dream Simulacrum Vs Wings of Liberty
 
-The most meaningful decision you can make in your gameplay concerning talents is the choice node of !Dream Simulacrum! and !Wings of Liberty!. Both talents have benefits that they bring that the other doesn't. 
+The most meaningful decision you can make in your gameplay concerning talents is the choice node of !Dream Simulacrum! and !Wings of Liberty!. Both talents have benefits that they bring that the other doesn't. Despite having different strengths, my recommendation is by far !Dream Simulacrum!. The ability to cast !Verdant Embrace! without thinking about your positioning is well worth any throughput differences.
 
 !Dream Simulacrum! gives much more burst healing potential with the increase to it's healing especially when paired with Chronowarden's !Reverberations! hero talent. The main benefit however actually comes through with it's ranged aspect. By far the easiest way to die on Preservation is when you !Verdant Embrace! to a party member only to find yourself flying through a mechanic and dying. This is such a limiting factor in moment to moment gameplay that not having to think about it is a huge plus to taking this talent.
 
-!Wings of Liberty! is on the opposite end of the spectrum. It trades the increased healing and range for a second charge of !Verdant Embrace!. This lets us make better use out of out tierset as well as !Lifebind!.
+!Wings of Liberty! is on the opposite end of the spectrum. It trades the increased healing and range for a second charge of !Verdant Embrace!. This lets us make better use out of our tierset as well as !Lifebind!. This lets have weaker !Verdant Embrace! ramps or instead use them to create wider !Lifebind! ramps letting us have multiple !Lifebinds! out at a time. Keep in mind when taking this talent that you will be forced to jump to your target when you cast !Verdant Embrace!, and doing twice in succession without being well aware of who and where you are jumping to will get you killed quite often.
