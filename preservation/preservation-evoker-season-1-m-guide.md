@@ -62,13 +62,13 @@ Something to keep in mind is due to the cooldown heavy nature of Preservation an
 
 !Stasis! is a unique healing cooldown that we will use as often as possible. It's ability to store three healing spells can lead to a lot of flexibility in how we use it. In general we want to plan around this spell throughout the entire key so we have the spells we want to use with it off cooldown when we are trying to build our stasis. Some !Stasis! combos that we will use often are:
 
-1. General AoE Stasis
+1. General AoE !Stasis!
 
 !Dream Breath! -> !Temporal Anomaly! -> !Merithra's Blessing!
 
 This !Stasis! gets as much value out of !Merithra's Blessing! as possible. Casting Dream Breath at the start of our !Stasis allows us to store a future !Merithra's Blessing!. Next, we spread echoes with our !Temporal Anomaly! and consuming those with the first !Merithra's! Blessing! we generated initially. Now our !Stasis has !Dream Breath!, !Temporal Anomaly!, and !Merithra's Blessing!. This is very valuable because when we release our Stasis, it will cast our three spells, and have an additional free !Merithra's Blessing! left over. This is because when !Merithra's Blessing! is released from !Stasis! it doesn't consume the proc. This allows us to do one extra !Echo! ramp with !Merithra's Blessing! for a little bit more burst at the end of our cooldown.
 
-2. Single Target Stasis
+2. Single Target !Stasis!
 
 !Verdant Embrace! -> !Dream Breath! -> !Merithra's Blessing!
 
@@ -76,7 +76,7 @@ This !Stasis! is more about having as much healing as possible on a single targe
 
 3. Mass Dispel !Stasis!
 
-This !Stasis! is a pseudo-mass dispel that works to dispel multiple people at a time. Naturalize and Cauterize both work as dispels in this context. It can be used as a group wide dispel or to dispel one person multiple times in quick succession. The two cast sequences go like this:
+This !Stasis! is a pseudo-mass dispel that works to dispel multiple people at a time. !Naturalize! and !Cauterize! both work as dispels in this context. It can be used as a group wide dispel or to dispel one person multiple times in quick succession. The two cast sequences go like this:
 
 !Stasis!-> Dispel Target 1 -> Dispel Target 2 -> Dispel Target 3 -> Release !Stasis!
 
@@ -87,11 +87,8 @@ Keep in mind that this must be done ahead of time to get the most benefit, in or
 This preloads three dispels on the target of your choice, and with clever use of the cool down refund you can preform a cast sequence like this in order to dispel three back to back debuffs on the target.
 
 1. Load your !Stasis! with three dispels before any dispellable effect is applied to the target.
-
 2. Use your dispel on the target the first time they receive a debuff.
-
 3. Release your !Stasis! to  dispel the second time they receive a debuff.
-
 4. Use your dispel again to finally remove the third instance a debuff.
 
 With clever use of dispelling nothing ahead of time to refresh the cool down, Preservation has the unique ability to get a few bonus dispels out on debuff heavy pulls.
