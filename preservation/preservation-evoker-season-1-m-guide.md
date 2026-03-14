@@ -5,7 +5,7 @@ unlisted: false
 sidebar_position: 3
 ---
 
-# Preservation M+ Guide
+#  Preservation M+ Guide
 
 Preservation is a healing spec that offers an array of useful tools in M+. Burst healing, mobility, and unique utility allow it to bring strengths that differ from most healing specializations. Its healing style blends proactive and reactive elements, giving Preservation the flexibility to handle a wide range of damage profiles.
 
