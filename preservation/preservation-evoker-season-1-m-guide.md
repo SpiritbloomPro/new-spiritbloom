@@ -74,6 +74,28 @@ This !Stasis! gets as much value out of !Merithra's Blessing! as possible. Casti
 
 This !Stasis! is more about having as much healing as possible on a single target. Due to !Stasis! recasting its spells on the initial target they were casted on, it is important that !Verdant Embrace! and !Merithra's Blessing! are cast on the party member who will be taking the most damage. Same as before putting !Dream Breath! and !Merithra's Blessing! in our !Stasis! allows for a bonus !Merithra's Blessing! that we can again cast on our injured party member.
 
+3. Mass Dispel !Stasis!
+
+This !Stasis! is a pseudo-mass dispel that works to dispel multiple people at a time. Naturalize and Cauterize both work as dispels in this context. It can be used as a group wide dispel or to dispel one person multiple times in quick succession. The two cast sequences go like this:
+
+!Stasis!-> Dispel Target 1 -> Dispel Target 2 -> Dispel Target 3 -> Release !Stasis!
+
+Keep in mind that this must be done ahead of time to get the most benefit, in order to dispel three times in a row like this, you can't actually dispel anything or else it will go on cool down. When the actual debuff is out, you can release your !Stasis! and watch as your three previously selected targets are dispelled in order. The more single target triple dispel approach goes like this:
+
+!Stasis! -> Dispel Target 1 -> Dispel Target 1 -> Any Spell -> Release !Stasis!
+
+This preloads three dispels on the target of your choice, and with clever use of the cool down refund you can preform a cast sequence like this in order to dispel three back to back debuffs on the target.
+
+1. Load your !Stasis! with three dispels before any dispellable effect is applied to the target.
+
+2. Use your dispel on the target the first time they receive a debuff.
+
+3. Release your !Stasis! to  dispel the second time they receive a debuff.
+
+4. Use your dispel again to finally remove the third instance a debuff.
+
+With clever use of dispelling nothing ahead of time to refresh the cool down, Preservation has the unique ability to get a few bonus dispels out on debuff heavy pulls.
+
 ## Talents
 
 ### Dream Simulacrum Vs Wings of Liberty
