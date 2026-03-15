@@ -13,22 +13,9 @@ When it comes to how Preservation feels to play in M+, the spec revolves around 
 
 ## **Where Does Your Healing Come From**
 
-A large portion of Preservation’s healing revolves around !Verdant Embrace! and !Merithra’s Blessing!. However, there are many steps involved to actually making these spells worthwhile. !Echo! is the foundation of most of our kit due to it acting as a setup tool that allows for our next spell to be duplicated, !Reversion! is our ongoing upkeep buff that we maintain for the multiple passive benefits that come with it, and !Dream Breath! is the most reliable way of getting !Merithra’s Blessing!. None of these spells do much healing on their own, but when used in the right order they give extremely bursty results.
+A large portion of Preservation’s healing revolves around !Verdant Embrace! and !Merithra’s Blessing!. There are, however, many steps involved to actually making these spells worthwhile. !Echo!, a setup spell that duplicates our next heal, is the foundation of our kit, !Reversion! is our ongoing upkeep hot that we maintain for the multiple passive benefits that come with it, and !Dream Breath! is the most reliable way of acquiring !Merithra’s Blessing!. None of these spells do much healing on their own, but when used in the right order deal high burst healing.
 
-With our spells only doing most of their healing when used in combination with each other comes the need for preparation. We are limited in how many !Echoes! we can apply at once due to Essence, which means how and when we spend it matters. We will spend most of our essence on applying !Echo!. There are two ways to apply !Echo! to the party: by casting !Echo! directly, or by using !Temporal Anomaly!. In general, we prioritize casting !Echo! directly for our strongest spells, while !Temporal Anomaly! echoes are better used on our weaker maintenance healing. This is because echoes applied from !Temporal Anomaly! replicate less healing by default due to the !Resonating Sphere! talent, making direct !Echo! casts more valuable.
-
-Because of the cooldown-heavy nature of Preservation and how limited we are on strong !Echoes!, we need to make good use of both at the same time. Applying !Echo! directly to our party and consuming them with the correct spell is vital to keeping our party alive during damage. Understand that if we are ever consuming our echoes with !Living Flame! it is almost always a last resort measure after using the rest of our toolkit first.
-
-## Important Things to Know
-
-- Maintaining !Reversion! on the party is extremely important. It is an incredible healing amplifier that stacks per !Reversion! and should always be active on as many people as possible
-- !Echo! lasts a long time, so it is good to have !Echoes! sitting on people early before damage goes out to be prepared the moment you have to heal.
-- Getting !Dream Breath! on cooldown is almost always the right choice, as it is better to be sitting on a !Merithra’s Blessing! for when you need it than to have !Dream Breath! off cooldown.
-- !Stasis! can be used to dispel multiple effects. A !Naturalize! or !Cauterize! that fails to dispel anything refreshes its cooldown, and can be pressed multiple times in your !Stasis! window to prepare dispels you may need in the future.
-- Because of how !Time Dilation! works, it can end up killing your tank, so make sure if you are using this on your tank that it is something they personally requested or as a last resort.
-- !Rescue! can remove harmful debuffs from party members if there is a movement impairing effect involved, completely removing the damage with it.
-- The shield from !Temporal Anomaly! can stack up to three times if refreshed, leading to a nice health buffer for one-shots.
-- The target of our !Verdant Embrace! receives much more healing than the rest of the party. Only the main target gets !Lifebind! and our tierset also drops an !Emerald Blossom! under their feet.
+Our best healing comes from combining our abilities, which means preparation is important. Essence limits how many Echoes we can apply at once, so when and how we spend it matters. We will spend most of our essence on applying !Echo!. There are two ways to apply !Echo! to the party: by casting !Echo! directly, or by using !Temporal Anomaly!. In general, we prioritize casting !Echo! directly for our strongest spells, while !Temporal Anomaly! echoes are better used on our weaker maintenance healing. This is because echoes applied from !Temporal Anomaly! replicate less healing by default due to the !Resonating Sphere! talent, making direct !Echo! casts more valuable. Due to the restrictive nature of Essence, understand that if we are ever consuming our !Echoes! with !Living Flame! it is almost always a last resort measure after using the rest of our toolkit first.
 
 ## Gameplay
 
@@ -58,12 +45,23 @@ Because of the cooldown-heavy nature of Preservation and how limited we are on s
 
 [-EndTabs-]
 
+## Important Things to Know
+
+- Maintaining !Reversion! on the party is extremely important. It is an incredible healing amplifier that stacks per !Reversion! and should always be active on as many people as possible
+- !Echo! lasts a long time, so it is good to have !Echoes! sitting on people early before damage goes out to be prepared the moment you have to heal.
+- Getting !Dream Breath! on cooldown is almost always the right choice, as it is better to be sitting on a !Merithra’s Blessing! for when you need it than to have !Dream Breath! off cooldown.
+- !Stasis! can be used to dispel multiple effects. A !Naturalize! or !Cauterize! that fails to dispel anything refreshes its cooldown, and can be pressed multiple times in your !Stasis! window to prepare dispels you may need in the future.
+- Because of how !Time Dilation! works, it can end up killing your tank, so make sure if you are using this on your tank that it is something they personally requested or as a last resort.
+- !Rescue! can remove harmful debuffs from party members if there is a movement impairing effect involved, completely removing the damage with it.
+- The shield from !Temporal Anomaly! can stack up to three times if refreshed, leading to a nice health buffer for one-shots.
+- The target of our !Verdant Embrace! receives much more healing than the rest of the party. Only the main target gets !Lifebind! and our tierset also drops an !Emerald Blossom! under their feet.
+
 ## Stasis
 
 !Stasis! is a unique healing cooldown that we will use as often as possible. Its ability to store three healing spells can lead to a lot of flexibility in how we use it. In general we want to plan around this spell throughout the entire key so we have the spells we want to use with it off cooldown when we are trying to build our stasis. Some !Stasis! combos that we will use often are:
 
 ### General AoE !Stasis!
- 
+
 !Dream Breath! -> !Temporal Anomaly! -> !Merithra's Blessing!
 
 This !Stasis! gets as much value out of !Merithra's Blessing! as possible. Casting Dream Breath at the start of our !Stasis allows us to store a future !Merithra's Blessing!. Next, we spread Echoes with our !Temporal Anomaly!, consuming those with the first !Merithra's! Blessing! we generated initially. Now our !Stasis has !Dream Breath!, !Temporal Anomaly!, and !Merithra's Blessing!. This is very valuable because when we release our Stasis, it will cast our three spells, and have an additional free !Merithra's Blessing! left over. This is because when !Merithra's Blessing! is released from !Stasis! it doesn't consume the proc. This allows us to do one extra !Echo! ramp with !Merithra's Blessing! for a little bit more burst at the end of our cooldown.
