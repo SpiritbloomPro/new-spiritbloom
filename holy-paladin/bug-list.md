@@ -1,60 +1,52 @@
 ---
 title: Bug list
-description: Bug list for holy paladin updated 1st. December 2025
+description: Bug list for holy paladin updated 15th March 2026
 unlisted: false
 sidebar_position: 20
 ---
 
-- !Divine Toll!
+Thank you to Hammer of Wrath and Clarius for keeping the sheet up to date, see more info [here](https://docs.google.com/spreadsheets/d/1MTbf-dYMsNF3wWUqE8HZokIm8drV1-hNogcQtV31Ues/edit?gid=1850733112#gid=1850733112)
 
-Built-in mouseover does not work, it will cast on the targeted enemy regardless of whether you're hovering someone else.
+#### Greater Judgment
 
-If you cast on yourself, it will fail to fire off all !Holy Shock!s
+Amount absorbed is increased by crit chance and damage bonus from !Awakening! procs. It can crit on top of the 130% increase.
 
-Occasionally pulls monsters you are not engaged with.
+Does not scale with Mastery
 
-- !Beacon of Light!
+#### Empyrean Legacy
 
-!Pillars of Light! healing does not scale with mastery when the talent !Beacon of Faith! is chosen.
+!Light of Dawn! cast by !Empyrean Legacy! can proc !Divine Purpose!
 
-Beacons can randomly stop working, why isn't entirely sure but it has rarely happened for over a decade.
+Tooltip still uses old values
 
-- !Hammer and Anvil!
+Does not proc until it hits the target, this can take a long time on large mobs.
 
-Does not scale with mastery
+#### Veneration
 
-- !Power of the Silver Hand!
+!Veneration! sometimes does not split absorb, applies full, unsplit absorb shield to all players in raid or party.
 
-Healing storage is calculated before mastery. A 150k heal with 50% mastery only stores as if you healed for 100k.
+#### Seraphic Barrier
 
-Effective healing to healing absorb shields does not count towards your next !Holy Shock!
+Healing that is absorbed by healing absorbs does not count towards the absorb shields provided by !Seraphic Barrier!
 
-- !Sun's Avatar!
+#### Beacons
 
-Beams and healing can sometimes continue after !Dawnlight! expires.
+Beacons occasionally stop working when the target is knocked out of range, won't start transferring again until it has been recast
 
-- !Rising Sunlight!
+!Pillars of Light! healing does not scale with secondary stats when specced into !Beacon of Faith!
 
-Can sometimes stop working. You get stacks from casting !Avenging Wrath! and !Divine Toll! but you can not consume them.
-Fixed by logging out and in again.
+#### Lightsmith
 
-- !Second Sunrise!
+!Holy Armaments! does not replace !Holy Prism! 
 
-The free !Light of Dawn! from !Second Sunrise! can sometimes immediately consume !Divine Purpose! procs from the initial !Light of Dawn!
+!Holy Bulwark! absorb shield does not absorb damage if you do not have !Reflection of Radiance! talented
 
-- !Breaking Dawn!
+!Divine Resonance! is not procced by casting !Sacred Weapon! despite the tooltip saying it should
 
-Having 1 point in !Breaking Dawn! causes the tooltip to state it has a 40yd range despite it only being 25yds.
+!Ringing of the Heavens! works with !Resounding Strike!, !Masterwork! and !Solidarity! despite not working with any !Divine Toll! talents as Herald of the Sun.
 
-- !Liberation!
+#### Herald of the Sun
 
-Also reduces the mana cost of !Flash of Light! despite the tooltip not stating this.
+!Second Sunrise! occasionally fails to trigger a second !Holy Shock! and !Light of Dawn! 
 
-- !Light of the Martyr!
-
-Does not create absorb shields if !Holy Shock! healing is absorbed.
-
-Not bugs, but noteworthy:
-
-- Debuff from the trinket Nexus-Kings command can be removed by !Divine Shield! and similar effects.
-- !Dawnlight! has a 900ms cooldown to application so with high haste and !Bloodlust! you can cast spenders faster than you can apply more !Dawnlight!s
+!Guided Prayer! can consume and apply !Dawnlight! to yourself
