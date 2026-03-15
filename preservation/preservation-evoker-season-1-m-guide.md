@@ -62,25 +62,27 @@ Something to keep in mind is due to the cooldown heavy nature of Preservation an
 
 !Stasis! is a unique healing cooldown that we will use as often as possible. It's ability to store three healing spells can lead to a lot of flexibility in how we use it. In general we want to plan around this spell throughout the entire key so we have the spells we want to use with it off cooldown when we are trying to build our stasis. Some !Stasis! combos that we will use often are:
 
-1. General AoE !Stasis!
+### General AoE !Stasis!
 
 !Dream Breath! -> !Temporal Anomaly! -> !Merithra's Blessing!
 
 This !Stasis! gets as much value out of !Merithra's Blessing! as possible. Casting Dream Breath at the start of our !Stasis allows us to store a future !Merithra's Blessing!. Next, we spread echoes with our !Temporal Anomaly! and consuming those with the first !Merithra's! Blessing! we generated initially. Now our !Stasis has !Dream Breath!, !Temporal Anomaly!, and !Merithra's Blessing!. This is very valuable because when we release our Stasis, it will cast our three spells, and have an additional free !Merithra's Blessing! left over. This is because when !Merithra's Blessing! is released from !Stasis! it doesn't consume the proc. This allows us to do one extra !Echo! ramp with !Merithra's Blessing! for a little bit more burst at the end of our cooldown.
 
-2. Single Target !Stasis!
+### Single Target !Stasis!
 
 !Verdant Embrace! -> !Dream Breath! -> !Merithra's Blessing!
 
 This !Stasis! is more about having as much healing as possible on a single target. Due to !Stasis! recasting its spells on the initial target they were casted on, it is important that !Verdant Embrace! and !Merithra's Blessing! are cast on the party member who will be taking the most damage. Same as before putting !Dream Breath! and !Merithra's Blessing! in our !Stasis! allows for a bonus !Merithra's Blessing! that we can again cast on our injured party member.
 
-3. Mass Dispel !Stasis!
+### Mass Dispel !Stasis!
 
-This !Stasis! is a pseudo-mass dispel that works to dispel multiple people at a time. !Naturalize! and !Cauterize! both work as dispels in this context. It can be used as a group wide dispel or to dispel one person multiple times in quick succession. The two cast sequences go like this:
+This !Stasis! is a pseudo-mass dispel that works to dispel multiple people at a time. !Naturalize! and !Cauterize! both work as dispels in this context. It can be used as a group wide dispel or to dispel one person multiple times in quick succession.
 
 !Stasis!-> Dispel Target 1 -> Dispel Target 2 -> Dispel Target 3 -> Release !Stasis!
 
-Keep in mind that this must be done ahead of time to get the most benefit, in order to dispel three times in a row like this, you can't actually dispel anything or else it will go on cool down. When the actual debuff is out, you can release your !Stasis! and watch as your three previously selected targets are dispelled in order. The more single target triple dispel approach goes like this:
+Keep in mind that this must be done ahead of time to get the most benefit, in order to dispel three times in a row like this, you can't actually dispel anything or else it will go on cool down. When the actual debuff is out, you can release your !Stasis! and watch as your three previously selected targets are dispelled in order.
+
+### Single Target Triple Dispel !Stasis!
 
 !Stasis! -> Dispel Target 1 -> Dispel Target 1 -> Any Spell -> Release !Stasis!
 
@@ -91,31 +93,25 @@ This preloads three dispels on the target of your choice, and with clever use of
 3. Release your !Stasis! to  dispel the second time they receive a debuff.
 4. Use your dispel again to finally remove the third instance a debuff.
 
-With clever use of dispelling nothing ahead of time to refresh the cool down, Preservation has the unique ability to get a few bonus dispels out on debuff heavy pulls.
+With clever use of dispelling ahead of time to refresh the cool down, Preservation has the unique ability to get a few bonus dispels out on debuff heavy pulls.
 
 ## Talents
 
-bla bla bla test so i can see where the text goes in relation
+The two Hero Talents play relatively the same, and in general you should pick the one you enjoy the most. The overall recommendation is Chronowarden due to it's ability to have more reliable healing tools with stronger !Verdant Embrace! and stronger !Echoes!
 
 [-Tabs-]
 
 [-Chronowarden-]
 
-omg chrono warden!
-
 (Evoker/Chronowarden/EAQUUBlESYJEREVYEQVBQOVVRQVQJVQQSpENCUQFFVVVUBE)
-
-bla bla bla test under the talent tree to see how it goes
 
 [-Flameshaper-]
 
-wow flameshaper wow!!!
-
 (Evoker/Flameshaper/EAQUUBlESYJEREVYEQVBQOVVRQVQJVQQSpENCUQFFVVVUBU)
 
-bla bla flameshaper big poomper
-
 [-EndTabs-]
+
+You can swap around many of the capstone talents, !Lifespark! and !Lifeforce Mender! can be swapped out to play around with 3 other capstone talents. !Twin Echoes!. !Titan's Gift!. and !Tempo Charged! are all viable options.
 
 ### Dream Simulacrum Vs Wings of Liberty
 
