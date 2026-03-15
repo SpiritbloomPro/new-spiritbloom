@@ -49,40 +49,40 @@ If none of the above are possible, you can freely choose to generate more holy p
 
 # Stat priority
 
-Generally all our stats are good, and very close to each other. My best suggestion is to use [Questionably Epic](https://questionablyepic.com/live/) to sim your character and find out what upgrades to wear. 
+Generally all our stats are good, and very close to each other. My best suggestion is to use [Questionably Epic](https://questionablyepic.com/live/) to sim your character and find out what upgrades to wear.
 
 Before giving a straight list, I think it's important to know what each stat does for you.
 
-**Intellect **Increases all healing and damage done.
+\*\*Intellect \*\*Increases all healing and damage done.
 
-**Haste **increases your spell-casting speed and lowers the cooldown of all hasted spells. 
+\*\*Haste \*\*increases your spell-casting speed and lowers the cooldown of all hasted spells.
 
-**Mastery **increases healing done the closer targets are to you - with !Beacon of the Lightbringer! your beacons also count as you
+\*\*Mastery \*\*increases healing done the closer targets are to you - with !Beacon of the Lightbringer! your beacons also count as you
 
-**Critical Strike **has a chance to make all your heals do 200% of normal effect
+\*\*Critical Strike \*\*has a chance to make all your heals do 200% of normal effect
 
-**Versatility **increases your healing and damage done, and reduces the damage you take
+\*\*Versatility \*\*increases your healing and damage done, and reduces the damage you take
 
-For both Lightsmith and Herald of the Sun, my general recommendation is: 
+For both Lightsmith and Herald of the Sun, my general recommendation is:
 
 **Intellect > Mastery > Haste = Crit > Versatility**
 
-Generally itemlevel will be king, and you only really worry about this when you're at a high level and looking at sidegrades. 
+Generally itemlevel will be king, and you only really worry about this when you're at a high level and looking at sidegrades.
 
 # Talent build
 
-The way the current trees are set up, is that I would recommend you get comfortable with your tree, read all your abilities and get a good feel for what you want to play with. 
+The way the current trees are set up, is that I would recommend you get comfortable with your tree, read all your abilities and get a good feel for what you want to play with.
 
 ![](/img/paladin/Raid%20setup.webp)
 
-[Green are my general setup](CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbmlZMzysNzMbNAAAALAwmBmxMAAgZGmxY0A), red I would strongly suggest avoiding in raid and blue comes with a caveat. 
+[Green are my general setup](https://www.wowhead.com/talent-calc/paladin/holy/lightsmith/EASARSUEEWWVUERERQgUQCQVQVVRVFBAElUFFBUXQCQEFFVVVUCEQ), red I would strongly suggest avoiding in raid and blue comes with a caveat.
 
-In the class tree, our first caveat is echoing blessings/unbound freedom. Most scenarios I would suggest !Echoing Blessings! because of the extra usefulness of cooldowns like !Blessing of Protection! turning it into a DR even if you don't have physical damage to reduce. 
+In the class tree, our first caveat is echoing blessings/unbound freedom. Most scenarios I would suggest !Echoing Blessings! because of the extra usefulness of cooldowns like !Blessing of Protection! turning it into a DR even if you don't have physical damage to reduce.
 
-However, if you have bosses like Queen Ansurek in season 1 of Dragonflight where you get high value of out your freedom hitting yourself and someone else, looking into !Unbound Freedom! is very useful. 
+However, if you have bosses like Queen Ansurek in season 1 of Dragonflight where you get high value of out your freedom hitting yourself and someone else, looking into !Unbound Freedom! is very useful.
 
-!Sacrifice of the Just! is a useful talent on occasions where you know ahead of time that you will be giving DRs to a single person very often. On the flipside, !Recompense! is not very useful, the increased damage or healing is low, accounting for less than 1% of your healing, and generally won't be very useful. 
+!Sacrifice of the Just! is a useful talent on occasions where you know ahead of time that you will be giving DRs to a single person very often. On the flipside, !Recompense! is not very useful, the increased damage or healing is low, accounting for less than 1% of your healing, and generally won't be very useful.
 
-!Divine Purpose! is an always-include talent, but you must avoid !Sacred Strength! as it's far far weaker than the counterpart. 
+!Divine Purpose! is an always-include talent, but you must avoid !Sacred Strength! as it's far far weaker than the counterpart.
 
 !Blessing of Dawn! and !Lightbearer! I consider to be interchangable. Both will do negligible amounts of throughput, but I consider the damage reduction from Blessing of Dawn to be marginally more useful.
