@@ -35,7 +35,7 @@ sidebar_position: 3
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay for raids, check the [raids page of the guide](/restoration-shaman/raid.md).
+For more details on how to optimize your gameplay for raids, check the 
 
 [-MythicPlus-]
 
@@ -65,6 +65,6 @@ For more details on how to optimize your gameplay for raids, check the [raids pa
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay in keys, check the [mythic+ page of the guide](/restoration-shaman/mythicplus.md).
+For more details on how to optimize your gameplay in keys, check the 
 
 [-EndTabs-]
