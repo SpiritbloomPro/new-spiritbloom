@@ -63,7 +63,7 @@ Because of the cooldown-heavy nature of Preservation and how limited we are on s
 !Stasis! is a unique healing cooldown that we will use as often as possible. Its ability to store three healing spells can lead to a lot of flexibility in how we use it. In general we want to plan around this spell throughout the entire key so we have the spells we want to use with it off cooldown when we are trying to build our stasis. Some !Stasis! combos that we will use often are:
 
 ### General AoE !Stasis!
-
+ 
 !Dream Breath! -> !Temporal Anomaly! -> !Merithra's Blessing!
 
 This !Stasis! gets as much value out of !Merithra's Blessing! as possible. Casting Dream Breath at the start of our !Stasis allows us to store a future !Merithra's Blessing!. Next, we spread Echoes with our !Temporal Anomaly!, consuming those with the first !Merithra's! Blessing! we generated initially. Now our !Stasis has !Dream Breath!, !Temporal Anomaly!, and !Merithra's Blessing!. This is very valuable because when we release our Stasis, it will cast our three spells, and have an additional free !Merithra's Blessing! left over. This is because when !Merithra's Blessing! is released from !Stasis! it doesn't consume the proc. This allows us to do one extra !Echo! ramp with !Merithra's Blessing! for a little bit more burst at the end of our cooldown.
