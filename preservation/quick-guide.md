@@ -69,7 +69,7 @@ Haste is our next best stat due to the way it interacts with our spells. It redu
 
 Versatility is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction.
 
-**Critical Strike** isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer, but is the weakest option.
+Critical Strike isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer, but is the weakest option.
 
 [-EndTabs-]
 
