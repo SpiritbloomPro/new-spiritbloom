@@ -9,11 +9,11 @@ sidebar_position: 3
 
 Preservation is a healing spec that offers an array of useful tools in M+. Burst healing, mobility, and unique utility allow it to bring strengths that differ from most healing specializations. Its healing style blends proactive and reactive elements, giving Preservation the flexibility to handle a wide range of damage profiles.
 
-When it comes to how Preservation feels to play in M+, the spec revolves around layering multiple HoTs on the party in preparation for incoming damage. This is often followed by spreading !Echo! across party members and using a large healing ability such as !Verdant Embrace!, !Merithra’s Blessing!, or !Dream Breath! to quickly stabilize the group.
+This playstyle revolves around layering multiple HoTs on the party in preparation for incoming damage. This is often followed by spreading !Echo! across party members and using a large healing ability such as !Verdant Embrace!, !Merithra’s Blessing!, or !Dream Breath! to quickly stabilize the group.
 
 ## **Where Does Your Healing Come From**
 
-A large portion of Preservation’s healing revolves around !Verdant Embrace! and !Merithra’s Blessing!. There are, however, many steps involved to actually making these spells worthwhile. !Echo!, a setup spell that duplicates our next heal, is the foundation of our kit, !Reversion! is our ongoing upkeep hot that we maintain for the multiple passive benefits that come with it, and !Dream Breath! is the most reliable way of acquiring !Merithra’s Blessing!. None of these spells do much healing on their own, but when used in the right order deal high burst healing.
+A large portion of Preservation’s healing revolves around !Verdant Embrace! and !Merithra’s Blessing!. There are, however, many steps involved to actually making these spells worthwhile. !Echo!, a setup spell that duplicates our next heal, is the foundation of our kit, !Reversion! is our ongoing upkeep HoT that we maintain for the multiple passive benefits that come with it, and !Dream Breath! is the most reliable way of acquiring !Merithra’s Blessing!. None of these spells do much healing on their own, but when used in the right order deal high burst healing.
 
 Our best healing comes from combining our abilities, which means preparation is important. Essence limits how many Echoes we can apply at once, so when and how we spend it matters. We will spend most of our essence on applying !Echo!. There are two ways to apply !Echo! to the party: by casting !Echo! directly, or by using !Temporal Anomaly!. In general, we prioritize casting !Echo! directly for our strongest spells, while !Temporal Anomaly! echoes are better used on our weaker maintenance healing. This is because echoes applied from !Temporal Anomaly! replicate less healing by default due to the !Resonating Sphere! talent, making direct !Echo! casts more valuable. Due to the restrictive nature of Essence, understand that if we are ever consuming our !Echoes! with !Living Flame! it is almost always a last resort measure after using the rest of our toolkit first.
 
@@ -108,7 +108,19 @@ The two Hero trees play relatively the same, and in general you should pick the 
 
 [-EndTabs-]
 
-!Lifespark! and !Lifeforce Mender! can be swapped out to play around with 3 other capstone talents. !Twin Echoes!, !Titan's Gift!, and !Tempo Charged! are all viable options.
+### Talent Swaps
+
+The majority of talent swaps involve the bottom section of the tree. The most flexible points are !Lifespark! and !Lifeforce Mender!. Reallocating these talent points to other capstones will result in less damage and spot healing, as well as make our healing from !Life-Giver's Flame! significantly lower. Some other valuable talents to take are:
+
+- !Titan's Gift! gives us more effective !Echoes! from our Essence Bursts, this gives us more power on the majority of our !Echo! ramps, giving a small boost to our burst.
+
+- !Twin Echoes! is a great way to get additional !Echoes! out. This synergizes well with our tierset and saves many globals throughout a key.
+
+- !Tempo Charged! can be taken to increase the healing from our !Reversion and the absorb shield granted by !Temporal Anomaly!. This is a passive choice for a bit more shielding that doesn't change gameplay in any way.
+
+- !Inner Flame! increases our HoT healing after we cast !Stasis! and is a great choice if you want stronger cooldown. 
+
+One smaller change that can be made in the middle of the tree is !Flow State!, it can we swapped out for !Essence Attunement! to make our !Echo! ramps a bit smoother at the cost of minimal power.
 
 ### Dream Simulacrum Vs Wings of Liberty
 
