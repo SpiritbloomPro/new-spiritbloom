@@ -129,14 +129,16 @@ The most meaningful decision concerning talents is the choice node of !Dream Sim
 
 ## Gear
 
+Gearing overall is a steady process and there is no true BIS list. In general, going for the highest item level choice will be the best bet.
+
 ### Stats
 
 For M+ we will be running Mastery > Haste > Versatility > Critical Strike
 
-**Mastery **is our best stat for healing throughput. This stat increases our healing done to allies by our mastery percentage while their health is lower than our own.
+\*\*Mastery \*\*is our best stat for healing throughput. This stat increases our healing done to allies by our mastery percentage while their health is lower than our own.
 
-**Haste** is our next best stat due to the way it interacts with our spells. It reduces the cooldown of !Verdant Embrace!, !Temporal Anomaly!, and !Reversion!, and reduces our Global Cooldown. The more haste you have the faster your !Echo! ramps become. This stat can be very feely-craft, meaning you can put on more haste until you feel comfortable.
+\*\*Haste\*\*is our next best stat due to the way it interacts with our spells. It reduces the cooldown of !Verdant Embrace!, !Temporal Anomaly!, and !Reversion!, and reduces our Global Cooldown. The more haste you have the faster your !Echo! ramps become. This stat can be very feely-craft, meaning you can put on more haste until you feel comfortable.
 
-**Versatility **is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction. It doesn’t have any special interactions besides simply making our numbers bigger.
+\*\*Versatility \*\*is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction. It doesn’t have any special interactions besides simply making our numbers bigger.
 
-**Critical Strike **isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer as well as !Dream Breath! and !Fire Breath! if we have !Double-Time! Talent, but is overall the weakest. The main reason critical strike falls behind the other three is due to it not affecting a decent amount of our healing. !Golden Hour!, !Temporal Anomaly!, and !Rewind! cannot crit, therefore get no value from the stat.
+\*\*Critical Strike\*\*isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer as well as !Dream Breath! and !Fire Breath! if we have !Double-Time! Talent, but is overall the weakest. The main reason critical strike falls behind the other three is due to it not affecting a decent amount of our healing. !Golden Hour!, !Temporal Anomaly!, and !Rewind! cannot crit, therefore get no value from the stat.
