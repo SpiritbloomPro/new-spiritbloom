@@ -126,3 +126,17 @@ The most meaningful decision concerning talents is the choice node of !Dream Sim
 !Dream Simulacrum! buffs !Verdant Embrace's! healing, which is then amplified by Chronowarden's !Reverberations! hero talent. The main benefit, however, comes from transforming !Verdant Embrace! into a ranged spell. By far the easiest way to die on Preservation is when you !Verdant Embrace! to a party member only to find yourself flying through a mechanic and dying. This is such a limiting factor in moment to moment gameplay that not having to think about it is a huge plus to taking this talent.
 
 !Wings of Liberty! is on the opposite end of the spectrum. It trades the increased healing and range for a second charge of !Verdant Embrace!. This lets you use !Verdant Embrace! twice in quick succession, allowing you to have a second !Lifebind! target (or more with the use of !Stasis!) during high damage. Keep in mind when taking this talent that you will be forced to jump to your target when you cast !Verdant Embrace!, and doing so twice in succession without being well aware of who and where you are jumping to will get you killed quite often.
+
+## Gear
+
+### Stats
+
+For M+ we will be running Mastery > Haste > Versatility > Critical Strike
+
+**Mastery **is our best stat for healing throughput. This stat increases our healing done to allies by our mastery percentage while their health is lower than our own.
+
+**Haste** is our next best stat due to the way it interacts with our spells. It reduces the cooldown of !Verdant Embrace!, !Temporal Anomaly!, and !Reversion!, and reduces our Global Cooldown. The more haste you have the faster your !Echo! ramps become. This stat can be very feely-craft, meaning you can put on more haste until you feel comfortable.
+
+**Versatility **is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction. It doesn’t have any special interactions besides simply making our numbers bigger.
+
+**Critical Strike **isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer as well as !Dream Breath! and !Fire Breath! if we have !Double-Time! Talent, but is overall the weakest. The main reason critical strike falls behind the other three is due to it not affecting a decent amount of our healing. !Golden Hour!, !Temporal Anomaly!, and !Rewind! cannot crit, therefore get no value from the stat.
