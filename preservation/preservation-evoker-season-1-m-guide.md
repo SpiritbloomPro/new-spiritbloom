@@ -9,7 +9,7 @@ sidebar_position: 3
 
 Preservation is a healing spec that offers an array of useful tools in M+. Burst healing, mobility, and unique utility allow it to bring strengths that differ from most healing specializations. Its healing style blends proactive and reactive elements, giving Preservation the flexibility to handle a wide range of damage profiles.
 
-This playstyle revolves around layering multiple HoTs on the party in preparation for incoming damage. This is often followed by spreading !Echo! across party members and using a large healing ability such as !Verdant Embrace!, !Merithra’s Blessing!, or !Dream Breath! to quickly stabilize the group.
+This playstyle revolves around layering multiple HoTs on the party in preparation for incoming damage. This is often followed by spreading !Echo! across party members and using a large healing ability such as !Verdant Embrace!, !Merithra's Blessing!, or !Dream Breath! to quickly stabilize the group.
 
 ## **Where Does Your Healing Come From**
 
