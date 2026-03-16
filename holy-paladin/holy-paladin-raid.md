@@ -53,15 +53,15 @@ Generally all our stats are good, and very close to each other. My best suggesti
 
 Before giving a straight list, I think it's important to know what each stat does for you.
 
-\*\*Intellect \*\*Increases all healing and damage done.
+**Intellect** Increases all healing and damage done.
 
-\*\*Haste \*\*increases your spell-casting speed and lowers the cooldown of all hasted spells.
+**Haste** increases your spell-casting speed and lowers the cooldown of all hasted spells.
 
-\*\*Mastery \*\*increases healing done the closer targets are to you - with !Beacon of the Lightbringer! your beacons also count as you
+**Mastery** increases healing done the closer targets are to you - with !Beacon of the Lightbringer! your beacons also count as you
 
-\*\*Critical Strike \*\*has a chance to make all your heals do 200% of normal effect
+**Critical Strike** has a chance to make all your heals do 200% of normal effect
 
-\*\*Versatility \*\*increases your healing and damage done, and reduces the damage you take
+**Versatility** increases your healing and damage done, and reduces the damage you take
 
 For both Lightsmith and Herald of the Sun, my general recommendation is:
 
