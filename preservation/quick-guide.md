@@ -61,7 +61,7 @@ For more details on how to optimize your gameplay for raids, check the
 
 [-Stats-]
 
-Mastery > Haste > Versatility > Critical Strike
+### Mastery > Haste > Versatility > Critical Strike
 
 Mastery is our best stat for healing throughput. This stat increases our healing done to allies by our mastery percentage while their health is lower than our own.
 
