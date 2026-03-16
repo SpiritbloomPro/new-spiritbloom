@@ -113,12 +113,9 @@ The two Hero trees play relatively the same, and in general you should pick the 
 The majority of talent swaps involve the bottom section of the tree. The most flexible points are !Lifespark! and !Lifeforce Mender!. Reallocating these talent points to other capstones will result in less damage and spot healing, as well as make our healing from !Life-Giver's Flame! significantly lower. Some other valuable talents to take are:
 
 - !Titan's Gift! gives us more effective !Echoes! from our Essence Bursts, this gives us more power on the majority of our !Echo! ramps, giving a small boost to our burst.
-
 - !Twin Echoes! is a great way to get additional !Echoes! out. This synergizes well with our tierset and saves many globals throughout a key.
-
 - !Tempo Charged! can be taken to increase the healing from our !Reversion and the absorb shield granted by !Temporal Anomaly!. This is a passive choice for a bit more shielding that doesn't change gameplay in any way.
-
-- !Inner Flame! increases our HoT healing after we cast !Stasis! and is a great choice if you want stronger cooldown. 
+- !Inner Flame! increases our HoT healing after we cast !Stasis! and is a great choice if you want stronger cooldown.
 
 One smaller change that can be made in the middle of the tree is !Flow State!, it can we swapped out for !Essence Attunement! to make our !Echo! ramps a bit smoother at the cost of minimal power.
 
