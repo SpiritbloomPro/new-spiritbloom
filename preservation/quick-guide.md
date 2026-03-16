@@ -63,13 +63,13 @@ For more details on how to optimize your gameplay for raids, check the
 
 ### Mastery > Haste > Versatility > Critical Strike
 
-Mastery is our best stat for healing throughput. This stat increases our healing done to allies by our mastery percentage while their health is lower than our own.
+**Mastery **is our best stat for healing throughput. This stat increases our healing done to allies by our mastery percentage while their health is lower than our own.
 
-Haste is our next best stat due to the way it interacts with our spells. It reduces the cooldown of many of our spells, as well as reduces our GCD.
+**Haste **is our next best stat due to the way it interacts with our spells. It reduces the cooldown of many of our spells, as well as reduces our GCD.
 
-Versatility is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction.
+**Versatility **is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction.
 
-Critical Strike isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer, but is the weakest option.
+**Critical Strike** isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer, but is the weakest option.
 
 [-EndTabs-]
 
