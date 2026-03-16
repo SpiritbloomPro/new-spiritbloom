@@ -75,20 +75,20 @@ This !Stasis! is more about having as much healing as possible on a single targe
 
 This !Stasis! is a pseudo-mass dispel that works to dispel multiple people at a time. !Naturalize! and !Cauterize! both work as dispels in this context. It can be used as a group wide dispel or to dispel one person multiple times in quick succession.
 
-!Stasis!-> Dispel Target 1 -> Dispel Target 2 -> Dispel Target 3 -> Release !Stasis!
+!Stasis!-> !Naturalize!/!Cauterize! Target 1 -> !Naturalize!/!Cauterize! Target 2 -> !Naturalize!/!Cauterize! Target 3 -> Release !Stasis!
 
 Keep in mind that this must be done ahead of time to get the most benefit, in order to dispel three times in a row like this, you can't actually dispel anything or else it will go on cool down. When the actual debuff is out, you can release your !Stasis! and watch as your three previously selected targets are dispelled in order.
 
 ### Single Target Triple Dispel !Stasis!
 
-!Stasis! -> Dispel Target 1 -> Dispel Target 1 -> Any Spell -> Release !Stasis!
+!Stasis! -> !Naturalize!/!Cauterize! Target 1 -> !Naturalize!/!Cauterize! Target 1 -> Any Spell -> Release !Stasis!
 
 This preloads three dispels on the target of your choice, and with clever use of the cool down refund you can perform a cast sequence like this in order to dispel three back to back debuffs on the target.
 
 1. Load your !Stasis! with three dispels before any dispellable effect is applied to the target.
-2. Use your dispel on the target the first time they receive a debuff.
+2. Use your !Naturalize!/!Cauterize! on the target the first time they receive a debuff.
 3. Release your !Stasis! to  dispel the second time they receive a debuff.
-4. Use your dispel again to finally remove the third instance of a debuff.
+4. Use your !Naturalize!/!Cauterize! again to finally remove the third instance of a debuff.
 
 With clever use of dispelling ahead of time to refresh the cool down, Preservation has the unique ability to get a few bonus dispels out on debuff heavy pulls.
 
