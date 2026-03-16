@@ -30,7 +30,7 @@ Our best healing comes from combining our abilities, which means preparation is 
 5. Consume your !Echoes! with !Merithra's Blessing! when !Verdant Embrace! is on cooldown. !Merithra's Blessing! is our second best burst heal and it is slightly rng based, so we want to make good use of the procs when we get them.
 6. Use !Fire Breath! to gain the powerful !Leaping Flames! buff. !Leaping Flames! is a decent heal that also can give us !Essence Burst! for more !Echoes!. !Fire Breath! is also an extremely strong heal when used on multiple targets due to !Life-givers Flame!
 7. Cast !Chrono Flame! with a !Lifespark! proc if talented, if we are out of buttons to push, it is fine as a last resort to consume any !Echoes! we have with !Chrono Flame!.
-8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana, but keep in mind it costs a significant amount of essence (or a burst). If mana isn't a concern, cast !Chrono Flame! as it does more damage than !Disintegrate!.
+8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana via !Energy Loop!, but keep in mind it costs a significant amount of essence (or a burst). If mana isn't a concern, cast !Chrono Flame! as it does more damage than !Disintegrate!.
 
 [-Flameshaper-]
 
@@ -94,7 +94,7 @@ With clever use of dispelling ahead of time to refresh the cool down, Preservati
 
 ## Talents
 
-The two Hero trees play relatively the same, and in general you should pick the one you enjoy the most. The overall recommendation is Chronowarden due to its ability to have more reliable healing tools with stronger !Verdant Embrace! and stronger !Echoes!.
+The two Hero trees play relatively the same, and in general you should pick the one you enjoy the most. The overall recommendation is Chronowarden due to its ability to have more reliable healing tools with stronger !Verdant Embrace! and stronger !Echoes!. Flameshaper can still be a viable choice if you prefer to have more externals through !Lifecinders! and more damage from !Fire Breath!.
 
 [-Tabs-]
 
