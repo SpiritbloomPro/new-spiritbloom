@@ -95,7 +95,7 @@
     "Field of Dreams": 370062,
     "Temporal Artificer": 381922,
     "Lifeforce Mender": 376179,
-    "Life-giver's Flame": 371426,
+    "Life-Giver's Flame": 371426,
     "Dreamwalker": 377082,
     "Flow State": 385696,
     "Rush of Vitality": 377086,
@@ -118,7 +118,8 @@
     "Font of Power": 375783,
     "Merithras Blessing Reversion": 1256682,
     "Merithras Blessing Dream Breath": 1256689,
-    "Merithra's Blessing": "1256577"
+    "Merithra's Blessing": "1256577",
+    "Essence Attunement": "375722"
   },
   "hero-talents": {
     "Chrono Flame": 431442,
