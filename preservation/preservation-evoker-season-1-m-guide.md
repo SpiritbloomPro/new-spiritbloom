@@ -141,7 +141,7 @@ Haste is our next best stat due to the way it interacts with our spells. It redu
 
 Versatility is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction. It doesn’t have any special interactions besides simply making our numbers bigger.
 
-Critical Strike isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer as well as !Dream Breath! and !Fire Breath! if we have !Double-Time! Talent, but is overall the weakest. The main reason critical strike falls behind the other three is due to it not affecting a decent amount of our healing. !Golden Hour!, !Temporal Anomaly!, and !Rewind! cannot crit, therefore get no value from the stat.
+Critical Strike isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer as well as !Dream Breath! and !Fire Breath! if we have !Double-time! Talent, but is overall the weakest. The main reason critical strike falls behind the other three is due to it not affecting a decent amount of our healing. !Golden Hour!, !Temporal Anomaly!, and !Rewind! cannot crit, therefore get no value from the stat.
 
 ### Embellishments and Crafted Gear
 
