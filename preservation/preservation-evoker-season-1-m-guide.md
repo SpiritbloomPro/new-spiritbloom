@@ -162,4 +162,4 @@ Trinkets provide powerful effects and there a few notably strong options:
 These items are all something look out for as they are strong in unique ways. Each trinket can be valuable in different situations. There are also a few special pieces of gear with bonus properties to look out for:
 
 1. [Eye of Midnight](https://www.wowhead.com/item=249920/) is a ring from L'ura that gives a small passive shield proc
-2. [Oblivion Guide](https://www.wowhead.com/item=249914/) is a helmet from L'ura that is guaranteed to have leech on it.
+2. [Oblivion Guise](https://www.wowhead.com/item=249914/) is a helmet from L'ura that is guaranteed to have leech on it.
