@@ -4,7 +4,7 @@ description: How to Play Restoration Shaman in Raids
 title: Raids
 ---
 
-In raids your best hero tree is Farseer. Mana management is an important part of your gameplay and pacing your !Chain Heal!s properly so you can keep healing for the whole duration of the fight is something you should actively think about. Raids let you prioritize efficiency more and you can plan your gameplay around what things will do the most overall healing across the whole encounter.
+Mana management is an important part of your gameplay and pacing your !Chain Heal!s properly so you can keep healing for the whole duration of the fight is something you should actively think about. Raids let you prioritize efficiency more and you can plan your gameplay around what things will do the most overall healing across the whole encounter.
 
 ## Where Does Your Healing Come From
 
@@ -19,11 +19,11 @@ Restoration Shaman doesn't ramp nor does it have long sequences of preparation b
 - The vast majority of your !Stormstream Totem!s will come from pressing !Ancestral Swiftness!. The random procs from !Riptide! are good but overall rng does not play a significant factor on Stormstream healing.
 - !Healing Rain! is good, both from the healing it does and from having more targets that benefit form !Deluge!. Aim to keep it active as much as possible in a clump of players that you know won't move out of it.
 - !Healing Stream Totem! is not amazing but its still good enough to justify casting it. Aim to use it when you have to move or a bit before damage comes in so it helps you heal during it but doesn't take away globals during dangerous moments.
-- Both !Healing Wave! and !Chain Heal! are good but serve different purposes. Don't stick too hard to either one and use the correct tool for the situation. This is different during !Ascendance! however as !Healing Wave! is simply a much better spell for the duration of it.
+- Both !Healing Wave! and !Chain Heal! are good but serve different purposes. !Chain Heal! is your primary and main source of healing but costs more mana while !Healing Wave! is better for one or two target healing and is very cheap. Pick the correct tool for the situation and manage your mana.
 
 ## Gameplay
 
-Your gameplay will consist of using all your short cooldowns on cooldown as much as possible and then filling in the extra time with one of !Healing Wave! or !Chain Heal!. Your main goal is to minimize downtime and simply cast your spells every time they are available. The only proc you need to react to is !Deeply Rooted Elements! and that just means you really want to cast a lot of !Healing Wave! for the next 6 seconds, besides that you can smoothly plan your casts ahead of time but seeing what will come off cooldown first
+Your gameplay will consist of using all your short cooldowns on cooldown as much as possible and then filling in the extra time with one of !Healing Wave! or !Chain Heal!. Your main goal is to minimize downtime and simply cast your spells every time they are available. The only proc you need to react to is !Deeply Rooted Elements! and during it your filler casts become much more valuable and you can focus on just casting them for the duration.
 
 1. Use all your !Stormstream Totem!s, most of them will come from !Ancestral Swiftness! but you can also get one every time you press !Riptide!. The buff lasts for a decently long time so you are not in a huge rush to use them and can bank up to two of them but you also don't want to hold it for too long. If there is damage to heal and you have a Stormstream you should use it.
 2. Cast !Riptide! as much as possible and on different targets. Spreading !Riptide! gives you more stacks of !Undercurrent! and more targets for !Deluge!. It can also proc !Deeply Rooted Elements! and !Stormstream Totem! so there is a lot of very good things attached to !Riptide!.
@@ -31,18 +31,18 @@ Your gameplay will consist of using all your short cooldowns on cooldown as much
 4. Use !Unleash Life!, the healing by itself is very decent and the follow up buff to other spells is very good. Your tier set improves the spell a lot and the bonus plus the ancestor it spawns makes it important to use the spell every time its available.
 5. Keep !Healing Rain! active, on some fights you will want to drop it on the melee near the boss and others the ranged stack is a better place, it heavily depends on how the boss fight plays out. The healing it does is good and having !Deluge! active on many more players is very very good.
 6. Use !Healing Stream Totem! as a bit of an instant filler spell when you have to move or you know damage is about to come in in the near future. The spell isn't amazing but its still good enough to be worth casting but ideally you want to use it so it is active during heavy damage periods but it doesn't take away important global cooldowns during them. It can be fine to drop both charges at the same time when you are a few seconds away from a big wave of damage hitting.
-7. The rest of the time heal people with either !Healing Wave! or !Chain Heal!. !Chain Heal! does a little bit more overall healing but costs more mana and it requires that your chain jumps properly on all the targets with only a 20yd jump range, if the ideal conditions are present then this is your highest hps choice but a lot of the time you will prefer !Healing Wave! because you would rather save the mana, because the damage is focused on a single or two targets rather than spread across the group, or because you think the group is too spread apart and are worried !Chain Heal! might miss jumps.
+7. The rest of the time heal people with either !Healing Wave! or !Chain Heal!. !Chain Heal! does more overall healing but costs more mana and it is your highest hps choice. If the damage is focused on a single or two targets or you want to conserve mana you would instead opt to !Healing Wave!.
 
-**During !Ascendance!** both !Healing Wave! and !Chain Heal! improve massively, however !Healing Wave! gets very far ahead because on top of doing a very high amount of healing it also **restores you more mana than what it costs to cast** due to both the main hit and the half-effectiveness cleave both proccing !Resurgence! every time as they are guaranteed critical strikes. Simply pressing !Healing Wave! as much as possible during !Ascendance! results in high throughput for zero mana cost which is incredibly strong. To maximize your healing going into !Ascendance! you want to follow a bit of a sequence to buff yourself:
+**During !Ascendance!** both !Healing Wave! and !Chain Heal! improve massively. The normal distinction of !Healing Wave! being better for one or two targets healing and !Chain Heal! doing much more overall healing still applies. Usually in a raid you will use all the time inside of !Ascendance! to cast as many !Chain Heal!s as possible. You want to do a little bit of set up before going into the cooldown to make sure you get the most out of it:
 
 1. Use all your charges of !Riptide! to get stacks of !Tidal Waves! and to not waste the cooldown.
 2. Press !Unleash Life! to spawn an ancestor and get the healing buff from it.
 3. Use !Ascendance!.
-4. Cast one !Healing Wave!, this cast will consume your !Unleash Life! buff to do more healing and cast faster
+4. Cast two !Chain Heal!s or !Healing Wave!s to consume the buffs from !Unleash Life!
 5. Use !Ancestral Swiftness!. If we use it before we would waste the cast time reduction from !Unleash Life! as both buffs would be consumed at the same time, by using Swiftness only after Unleash is gone we maximize the cast time reductions.
-6. Cast !Healing Wave! repeatedly until !Ascendance! is over.
+6. Cast your chosen spell repeatedly until !Ascendance! is over.
 
-During !Deeply Rooted Elements! simply try to cast as many !Healing Wave!s as possible. **Do note that you are not casting !Healing Wave! during !Ascendance! "just to restore mana", the spell does more healing than anything else you could be casting during it and the mana is just an extra bonus on top**.
+During !Deeply Rooted Elements! simply try to cast as many !Chain Heal!s or !Healing Wave!s as possible.
 
 ## Conclusions
 

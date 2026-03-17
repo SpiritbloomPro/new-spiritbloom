@@ -12,13 +12,19 @@ Using just the right amount of resources to respond to any given situation witho
 
 ## Pages
 
+- [Quick Guide](/preservation/quick-guide): A quick summary of talents, gameplay and statistics.
+- [The Basics](/preservation/basics): Covering the most relevant parts of the spec in all content.
+- [Raid](/preservation/preservation-evoker-season-1-raid-guide): An in-depth view of how to play Preservation during raids.
+- [Mythic+](/preservation/preservation-evoker-season-1-m-guide): Explanations on how Preservation plays in Mythic+.
 - [Spell Interactions](/preservation/interactions): A detailed description of the way our spells work and interact with each other.
 - [Bug List](/preservation/bugs): Our list of known and reproducible bugs.
 
 ## The Authors
 
-The guide is primarily maintained by [Harrek](/blog/authors/harrek), a long time Preservation player and writer. Playing the spec since it released in Dragonflight and part of the staff of the [Evoker Discord](https://discord.com/invite/evoker). Developer and writer of the original SpiritbloomPro Preservation guide.
+The guide is written by [Harrek](/blog/authors/harrek), [YouTee](/blog/authors/youtee), and [Kig](/blog/authors/kig).
 
-Part of the guide is written by [YouTee](/blog/authors/youtee), a Hall of Fame raider for multiple expansions and multiple specs known for breaking the limits of innovating Preservation gameplay in raids. Also part of [Wyrmrest Temple's](https://discord.com/invite/evoker) Preservation Staff.
+[Harrek](/blog/authors/harrek) is a long time Preservation player and writer. Playing the spec since it released in Dragonflight and part of the staff of the [Evoker Discord](https://discord.com/invite/evoker). Developer and writer of the original SpiritbloomPro Preservation guide.
+
+The raid sections of the guide are written by [YouTee](/blog/authors/youtee), a Hall of Fame raider for multiple expansions and multiple specs known for breaking the limits of innovating Preservation gameplay in raids. Also part of [Wyrmrest Temple's](https://discord.com/invite/evoker) Preservation Staff.
 
 All the Mythic+ content of the guide is written or reviewed by [Kig](/blog/authors/kig). A prominent high key Preservation player, Kig brings in the extra knowledge needed to succeed as Preservation during m+ title level gameplay.

@@ -1,5 +1,5 @@
 ---
-title: Holy paladin abilities
+title: Abilities
 description: Here we will go through all the talents and abilities of the holy paladin in-depth.
 unlisted: false
 sidebar_position: 3
@@ -55,11 +55,11 @@ Every 8 seconds or whenever it jumps to a new target, the beacon grants the targ
 
 ## Hero talents
 
-#### Herald of the Sun talents
+[-Tabs-]
 
-#####
+[-Herald of the Sun talents-]
 
-##### Key Talent
+### Key Talent
 
 !Dawnlight! - after you cast your !Holy Prism! or !Divine Toll! ability, your next 2 spenders will put a heal over time on friendly targets or a damage over time on enemies.
 
@@ -67,7 +67,7 @@ If you use !Word of Glory! this goes on the target you use it on, if you use !Li
 
 This radiates and does small area damage. Does not transfer to !Beacon of Light!
 
-##### Choice Nodes
+### Choice Nodes
 
 - Choice node 1
 
@@ -89,7 +89,7 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 !Lingering Radiance! - !Dawnlight! puts the !Eternal Flame! heal over time effect on allies for 6 seconds and the !Greater Judgment! damage absorb on enemies when you either extend the effect or let it expire.
 
-##### Passive abilities
+### Passive abilities
 
 !Eternal Flame! - Replaces your !Word of Glory! with Eternal Flame, causing it to leave a heal over time effect on your target.
 
@@ -107,13 +107,13 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 !Born in Sunlight! - 15% extra critical strike chance to Dawnlight during Avenging Wrath.
 
-##### Capstone talent
+### Capstone talent
 
 !Sun's Avatar! - the capstone of our tree, causing you to link to all your Dawnlights with a beam that does damage to enemies and heals allies. If you Dawnlight yourself you will radiate healing in a small area around yourself.
 
-#### Lightsmith talents
+[-Lightsmith Talents-]
 
-##### Key talent
+### Key Talent
 
 !Holy Armaments! - this replaces !Divine Toll! or !Holy Prism! depending on which one you talented into.
 
@@ -123,7 +123,7 @@ Bulwark applies a stacking shield to the target for 15% of the target's max hp i
 
 Weapon gives damaging abilities a chance to do extra damage and healing abilities a chance to do extra healing - note that the proc rate is shared so putting it on a healer that does dps like a discipline priest will lower the total healing.
 
-##### Choice Nodes
+### Choice Nodes
 
 - Choice node 1
 
@@ -149,9 +149,9 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 
 !Authoritative Rebuke! - successfully dispelling reduces the cooldown of !Cleanse! by 1 second, 2 if you are wielding a !Holy Armaments!
 
-!Tempered in Battle! - !Sacred Weapon! will instantly redistribute health between you and a target with the other sword if either of you drop below 40% health, this continues for 4 seconds, but can only occur once per weapon. !Sacred Bulwark! causes 100% of all overhealing on a target wielding a bulwark to be transferred to the wielder of your other bulwark.
+!Tempered in Battle! - !Sacred Weapon! will instantly redistribute health between you and a target with the other sword if either of you drop below 40% health, this continues for 4 seconds, but can only occur once per weapon. !Holy Bulwark! causes 100% of all overhealing on a target wielding a bulwark to be transferred to the wielder of your other bulwark.
 
-##### Passive abilities
+### Passive abilities
 
 !Solidarity! - casting a !Holy Armaments! on yourself puts a copy on a random ally - bulwarks prefer tanks and weapons prefer fellow healers. Casting it on an ally puts a copy on you.
 
@@ -169,9 +169,11 @@ Note: !Divine Inspiration! is going to be more than 60% of all your armaments an
 
 !Resounding Strike! - casting a !Holy Armaments! procs !Hammer and Anvil!
 
-##### Capstone talent
+### Capstone talent
 
 !Blessing of the Forge! - !Avenging Wrath! gives you a !Sacred Weapon! and while wings are up, your Sacred Weapon casts spells on your target and replicates !Light of Dawn!, !Word of Glory! and !Shield of the Righteous!
+
+[-EndTabs-]
 
 ## Class Talents
 

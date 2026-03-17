@@ -1,5 +1,5 @@
 ---
-title: Holy paladin raid guide
+title: Raid
 description: A general guide for playing holy paladin in raids.
 unlisted: false
 sidebar_position: 2

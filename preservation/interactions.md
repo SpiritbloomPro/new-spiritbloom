@@ -81,8 +81,6 @@ Our apex talent, it makes it so that every time you use either !Echo! or !Emeral
 
 - !Merithras Blessing! !Echoes! fully, meaning every !Echo! you consume with it will do the initial heal and all the five extra bounces.
 
-- Despite being a replacement for !Reversion!, it still applies a normal !Reversion! on the target of the cast and on any !Echoes! it consumes. Notably, !Echoing! !Merithras Blessing! will apply the baseline version of !Reversion!, not the !Echo! one.
-
 ### Lifebind
 
 Every time you use !Verdant Embrace! on someone that isn't yourself that target will have !Lifebind! applied on them. While !Lifebind! is active 60% of the healing you do on either target will transfer to the other. **!Lifebind! does not apply to !Echoed! !Verdant Embrace!**.

@@ -66,7 +66,7 @@ Three new talents have been added to Herald of the Sun.
 
 We have !Endless Gleam! which increases the duration of !Dawnlight! by 0.5 seconds every time it heals a new ally.
 
-!Born in the Sunlight! which increases the critical strike chance of !Dawnlight! by 15% during wings
+!Born in Sunlight! which increases the critical strike chance of !Dawnlight! by 15% during wings
 
 and !Walk Into Light! which gives you 2 holy power every time you press !Avenging Wrath!.
 

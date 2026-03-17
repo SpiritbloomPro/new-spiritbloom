@@ -2,7 +2,8 @@
 title: Quick Guide
 description: Quick at a glance summary
 unlisted: false
-sidebar_position: 3
+sidebar_position: 2
+toc_max_heading_level: 2
 ---
 
 [-Tabs-]
@@ -13,7 +14,7 @@ sidebar_position: 3
 
 [-Talents-]
 
-(evoker/preservation/chronowarden/EAQEEJFASYZFVFAZEVFBQOVVVQRQJVRFCJBdCQAFFVVVUBA)
+(Evoker/Chronowarden/EAQEEJFASYZFVFAZEVFBQOVVVQRQJVRFCJBdCQAFFVVVUBA)
 
 ### Class Tree
 
@@ -35,7 +36,7 @@ sidebar_position: 3
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay for raids, check the
+For more details on how to optimize your gameplay for raids, check the [raid](/preservation/preservation-evoker-season-1-raid-guide) page.
 
 [-MythicPlus-]
 
@@ -73,6 +74,6 @@ Critical Strike isn’t a terrible stat, it has some good upsides such as helpin
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay in keys, check the M+ Page.
+For more details on how to optimize your gameplay in keys, check the [Mythic+](/preservation/preservation-evoker-season-1-m-guide) page.
 
 [-EndTabs-]

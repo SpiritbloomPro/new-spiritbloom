@@ -2,6 +2,7 @@
   "active-spells": {
     "Fire Breath": 357208,
     "Merithra's Blessing": 1256581,
+    "Merithras Blessing": 1256581,
     "Dream Breath": 355936,
     "Echo": 364343,
     "Echoed": 364343,
@@ -97,6 +98,7 @@
     "Temporal Artificer": 381922,
     "Lifeforce Mender": 376179,
     "Life-Giver's Flame": 371426,
+    "Life-Givers Flame": 371426,
     "Dreamwalker": 377082,
     "Flow State": 385696,
     "Rush of Vitality": 377086,
@@ -118,6 +120,7 @@
     "Power Nexus": 369908,
     "Font of Power": 375783,
     "Merithras Blessing Reversion": 1256682,
+    "Merithra's Blessing Reversion": 1256682,
     "Merithras Blessing Dream Breath": 1256689,
     "Merithra's Blessing": "1256577",
     "Essence Attunement": "375722"
@@ -155,6 +158,7 @@
     "Chronoboon": 1260484,
     "Energy Cycles": 1260568,
     "Overclock": 1260647,
+    "Nozdormu's Adept": 431715,
     "Legacy of the Lifebinder": 1264269,
     "Ashes in Motion": 1264365,
     "Deep Exhalation": 1264321,
