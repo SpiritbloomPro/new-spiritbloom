@@ -27,7 +27,7 @@ Our best healing comes from combining our abilities, which means preparation is 
 2. Use !Reversion! often in order to maintain uptime on the entire party. It is normal to apply !Reversion! to your party with !Echoes! from !Temporal Anomaly! outside of combat between packs and also when everyone is already full health.
 3. Use !Dream Breath! before incoming damage to have the healing rolling and store a !Merithra's Blessing! for later. Casting Rank 1 !Dream Breath! is better in most cases, but if you really need more burst healing to top people in a pinch, max ranking it is fine.
 4. Consume your !Echoes! with !Verdant Embrace! as often as possible during high damage. !Verdant Embrace! is our strongest, most reliable heal and will be our first choice in almost every scenario. We want to prioritize consuming directly casted !Echoes! with !Verdant Embrace! rather than !Temporal Anomaly! for the increased healing.
-5. Consume your !Echoes! with !Merithra's Blessing! when !Verdant Embrace! is on cooldown. !Merithra's Blessing! is our second best burst heal and it is slightly rng based, so we want to make good use of the procs when we get them.
+5. Consume your !Echoes! with !Merithra's Blessing! when !Verdant Embrace! is on cooldown. !Merithra's Blessing! is our second best burst heal and it is slightly RNG based, so we want to make good use of the procs when we get them.
 6. Use !Fire Breath! to gain the powerful !Leaping Flames! buff. !Leaping Flames! is a decent heal that also can give us !Essence Burst! for more !Echoes!. !Fire Breath! is also an extremely strong heal when used on multiple targets due to !Life-Givers Flame!
 7. Cast !Chrono Flame! with a !Lifespark! proc if talented, if we are out of buttons to push, it is fine as a last resort to consume any !Echoes! we have with !Chrono Flame!.
 8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana via !Energy Loop!, but keep in mind it costs a significant amount of essence (or a burst). If mana isn't a concern, cast !Chrono Flame! as it does more damage than !Disintegrate!.
@@ -38,7 +38,7 @@ Our best healing comes from combining our abilities, which means preparation is 
 2. Use !Reversion! often in order to maintain uptime on the entire party. It is normal to apply !Reversion! to your party with !Echoes! from !Temporal Anomaly! outside of combat between packs and also when everyone is already full health.
 3. Use !Dream Breath! before incoming damage to have the healing rolling and store a !Merithra's Blessing! for later. Casting Rank 1 !Dream Breath! is better in most cases, but if you really need more burst healing to top people in a pinch, max ranking it is fine.
 4. Consume your !Echoes! with !Verdant Embrace! while Dream Breath is rolling to !Consume Flame!. !Verdant Embrace! is our strongest, most reliable heal and will be our first choice in almost every scenario. We want to prioritize consuming directly casted !Echoes! with !Verdant Embrace! rather than !Temporal Anomaly! for the increased healing.
-5. Consume your !Echoes! with !Merithra's Blessing! when !Verdant Embrace! is on cooldown. !Merithra's Blessing! is our second best burst heal and it is slightly rng based, so we want to make good use of the procs when we get them.
+5. Consume your !Echoes! with !Merithra's Blessing! when !Verdant Embrace! is on cooldown. !Merithra's Blessing! is our second best burst heal and it is slightly RNG based, so we want to make good use of the procs when we get them.
 6. Use !Fire Breath! to gain the powerful !Leaping Flames! buff. !Leaping Flames! is a decent heal that also can give us !Essence Burst! for more !Echoes!. !Fire Breath! is also an extremely strong heal when used on multiple targets due to !Life-Givers Flame!
 7. Cast !Living Flame! with a !Lifespark! proc if talented, if we are out of buttons to push, it is fine as a last resort to consume any !Echoes! we have with !Living Flame!.
 8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana via !Energy Loop! and also consumes !Fire Breath! for bonus damage, but keep in mind it costs a significant amount of Essence (or a burst). If you want to save Essence for upcoming mechanics, and mana isn't a concern, !Living Flame! is a slight damage loss but doesn't cost Essence.
@@ -53,7 +53,7 @@ Our best healing comes from combining our abilities, which means preparation is 
 - Because of how !Time Dilation! works, it can end up killing your tank, so make sure if you are using this on your tank that it is something they personally requested or as a last resort.
 - !Rescue! can remove harmful debuffs from party members if there is a movement impairing effect involved, completely removing the damage with it.
 - The shield from !Temporal Anomaly! can stack up to three times if refreshed, leading to a nice health buffer for one-shots.
-- The target of our !Verdant Embrace! receives much more healing than the rest of the party. Only the main target gets !Lifebind! and our tierset also drops an !Emerald Blossom! under their feet.
+- The target of our !Verdant Embrace! receives much more healing than the rest of the party. Only the main target gets !Lifebind! and our tier set also drops an !Emerald Blossom! under their feet.
 
 ## Stasis
 
@@ -142,3 +142,29 @@ For M+ we will be running Mastery > Haste > Versatility > Critical Strike
 \*\*Versatility \*\*is our third best stat purely for the fact that it is an increase to healing, damage, and damage reduction. It doesn’t have any special interactions besides simply making our numbers bigger.
 
 \*\*Critical Strike\*\*isn’t a terrible stat, it has some good upsides such as helping our !Reversions! last longer as well as !Dream Breath! and !Fire Breath! if we have !Double-Time! Talent, but is overall the weakest. The main reason critical strike falls behind the other three is due to it not affecting a decent amount of our healing. !Golden Hour!, !Temporal Anomaly!, and !Rewind! cannot crit, therefore get no value from the stat.
+
+### Embellishments and Crafted Gear
+
+The largest upgrade you can have is your weapon, if you do not have a myth track weapon it should be the first piece of gear you look to obtain. Crafting is a great way to do this as it is reasonable to obtain early on in the season. If you decide to craft a weapon it can be made with !Darkmoon Sigil: Hunt! and pair it in the slot of your choice with !Arcanoweave Lining! as your second embellishment. 
+
+If you wish to play the long game, and aren't interested in immediate upgrades, then instead of crafting the !Arcanoweave Lining! craft the Root Warden's Regalia set instead, choosing the !World Tenders Barkclasp! and World Tender's Rootslippers, as they are your true endgame BIS embellishments.
+
+### Trinkets and Special Items
+
+Trinkets provide powerful effects and there a few notably strong options:
+
+1. !Gaze of the Alnseer! is a strong stat stick that gives us the most boost to the healing of all the choices.
+
+2. !Litany of Lightblind Wrath! is an on use trinket that allows us to provide a small shield effect on our team.
+
+3. !Emerald Coach's Whistle! is a stat stick that is easily grindable that also has a support aspect to it.
+
+3. !Heart of Wind! another easily grindable stat stick that  will be a very good early pick up.
+
+4. !Refueling Orb! is a lack lustert trinket but does allow for our DPS to do a tiny bit more damage.
+
+These items are all something look out for as they are strong in unique ways. Each trinket can be valuable in different situations. There are also a few special pieces of gear with bonus properties to look out for:
+
+1. !Eye of Midnight! is a ring from L'ura that gives a small passive shield proc
+
+2. !Oblivion Guide! is a helmet from L'ura that is guaranteed to have Leech on it.
