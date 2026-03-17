@@ -145,7 +145,7 @@ For M+ we will be running Mastery > Haste > Versatility > Critical Strike
 
 ### Embellishments and Crafted Gear
 
-The largest upgrade you can have is your weapon, if you do not have a myth track weapon it should be the first piece of gear you look to obtain. Crafting is a great way to do this as it is reasonable to obtain early on in the season. If you decide to craft a weapon it can be made with !Darkmoon Sigil: Hunt! and pair it in the slot of your choice with !Arcanoweave Lining! as your second embellishment. 
+The largest upgrade you can have is your weapon, if you do not have a myth track weapon it should be the first piece of gear you look to obtain. Crafting is a great way to do this as it is reasonable to obtain early on in the season. If you decide to craft a weapon it can be made with !Darkmoon Sigil: Hunt! and pair it in the slot of your choice with !Arcanoweave Lining! as your second embellishment.
 
 If you wish to play the long game, and aren't interested in immediate upgrades, then instead of crafting the !Arcanoweave Lining! craft the Root Warden's Regalia set instead, choosing the !World Tenders Barkclasp! and World Tender's Rootslippers, as they are your true endgame BIS embellishments.
 
@@ -154,17 +154,12 @@ If you wish to play the long game, and aren't interested in immediate upgrades, 
 Trinkets provide powerful effects and there a few notably strong options:
 
 1. !Gaze of the Alnseer! is a strong stat stick that gives us the most boost to the healing of all the choices.
-
 2. !Litany of Lightblind Wrath! is an on use trinket that allows us to provide a small shield effect on our team.
-
 3. !Emerald Coach's Whistle! is a stat stick that is easily grindable that also has a support aspect to it.
-
-3. !Heart of Wind! another easily grindable stat stick that  will be a very good early pick up.
-
-4. !Refueling Orb! is a lack lustert trinket but does allow for our DPS to do a tiny bit more damage.
+4. !Heart of Wind! another easily grindable stat stick that  will be a very good early pick up.
+5. !Refueling Orb! is a lack lustert trinket but does allow for our DPS to do a tiny bit more damage.
 
 These items are all something look out for as they are strong in unique ways. Each trinket can be valuable in different situations. There are also a few special pieces of gear with bonus properties to look out for:
 
 1. !Eye of Midnight! is a ring from L'ura that gives a small passive shield proc
-
 2. !Oblivion Guide! is a helmet from L'ura that is guaranteed to have Leech on it.
