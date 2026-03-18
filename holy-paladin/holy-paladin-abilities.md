@@ -57,7 +57,7 @@ Every 8 seconds or whenever it jumps to a new target, the beacon grants the targ
 
 [-Tabs-]
 
-[-Herald of the Sun talents-]
+[-Herald of the Sun Talents-]
 
 ### Key Talent
 
