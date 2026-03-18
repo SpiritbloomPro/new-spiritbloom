@@ -96,10 +96,14 @@
         "Blessing of Dawn": 183416,
         "Lightbearer": 469416,
         "Blessing of Dusk": 1241945,
-        "Armory of Light": 1277443
-
+        "Armory of Light": 1277443,
+        "Faith's Armor": 406101
     },
     "spec-talents": {
+        "Seek Deliverance": 1271016,
+        "Glistening Radiance": 1241805,
+        "Light's Protection": 461243,
+        "Light's Conviction": 414073,
         "Infusion of Light": 53576,
         "Lights Conviction": 414073,
         "Beacon of the Lightbringer": 197446,
@@ -163,7 +167,7 @@
         "Aurora": 439760,
         "Walk Into Light": 1263782,
         "Second Sunrise": 431474,
-        "Born in the Sunlight": 1263920,
+        "Born in Sunlight": 1263920,
         "Blessing of An'she": 445200,
         "Sun's Avatar": 431425,
 
@@ -186,7 +190,10 @@
         "Valiance": 432919,
         "Hammer and Anvil": 433718,
         "Resounding Strike": 1271553,
-        "Blessing of the Forge": 433011
+        "Blessing of the Forge": 433011,
+        "Auras of the Resolute": 385633,
+        "Light's Countenance": 469325,
+        "Fear no Evil": 1265541
     },
     "other": {
         "Repentance": 20066,
@@ -198,6 +205,8 @@
         "Merciful Auras": 183415,
         "Blessing of Summer": 328620,
         "Barrier of Faith": 148039,
-        "Tower of Radiance": 231642
+        "Tower of Radiance": 231642,
+        "Forbearance": 25771,
+        "Mastery: Lightbringer": 183997
     }
 }

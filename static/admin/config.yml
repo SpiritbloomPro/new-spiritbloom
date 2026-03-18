@@ -3,9 +3,9 @@ backend:
   branch: dev
   repo: SpiritbloomPro/new-spiritbloom
 
-site_url: https://new.spiritbloom.pro
+site_url: https://spiritbloom.pro
 logo :
-  src: https://new.spiritbloom.pro/img/Spiritbloom.png
+  src: https://spiritbloom.pro/img/Spiritbloom.png
   show_in_header: true
 
 # These lines should *not* be indented

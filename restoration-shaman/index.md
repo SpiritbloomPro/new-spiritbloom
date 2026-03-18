@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: The Introduction
+description: Guide Introduction and Index
 title: Introduction
 ---
 
@@ -10,6 +10,10 @@ Restoration is a very welcoming spec, with a low barrier to entry and able to gi
 
 ## Pages
 
+- [Quick Guide](/restoration-shaman/quick-guide.md): A quick summary of everything needed to start playing.
+- [The Basics](/restoration-shaman/basics.md): Introduction to the most important parts of the spec.
+- [Raids](/restoration-shaman/raid.md): Explanation on how to play during raids.
+- [Mythic+](/restoration-shaman/mythicplus.md): Explanation on how to play during keys.
 - [Midnight Changes](/restoration-shaman/intro-midnight): Details on the most important changes going into Midnight.
 - [Spell Interactions](/restoration-shaman/interactions): A list of all the inner workings of the spec's spells.
 - [Bug List](/restoration-shaman/bugs): Our list of known bugs.

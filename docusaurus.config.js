@@ -7,6 +7,13 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import path from 'path';
 
+// Plugins that run on all parts of the site
+const sharedPlugins = [
+  require('./src/plugins/replace-wowhead-links.js'),
+  require('./src/plugins/wowhead-talent-calc.js'),
+  require('./src/plugins/easier-tabs.js')
+];
+
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -56,10 +63,7 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-          remarkPlugins: [
-            require('./src/plugins/replace-wowhead-links.js'),
-            require('./src/plugins/wowhead-talent-calc.js')
-          ]
+          remarkPlugins: sharedPlugins
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -76,10 +80,7 @@ const config = {
         path: 'general',
         routeBasePath: 'general',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [
-          require('./src/plugins/replace-wowhead-links.js'),
-          require('./src/plugins/wowhead-talent-calc.js')
-        ]
+        remarkPlugins: sharedPlugins
       }
     ],
     [
@@ -89,10 +90,7 @@ const config = {
         path: 'preservation',
         routeBasePath: 'preservation',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [
-          require('./src/plugins/replace-wowhead-links.js'),
-          require('./src/plugins/wowhead-talent-calc.js')
-        ]
+        remarkPlugins: sharedPlugins
       }
     ],
     [
@@ -102,10 +100,7 @@ const config = {
         path: 'restoration-shaman',
         routeBasePath: 'restoration-shaman',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [
-          require('./src/plugins/replace-wowhead-links.js'),
-          require('./src/plugins/wowhead-talent-calc.js')
-        ]
+        remarkPlugins: sharedPlugins
       }
     ],
     [
@@ -115,10 +110,7 @@ const config = {
         path: 'holy-paladin',
         routeBasePath: 'holy-paladin',
         sidebarPath: './sidebars.js',
-        remarkPlugins: [
-          require('./src/plugins/replace-wowhead-links.js'),
-          require('./src/plugins/wowhead-talent-calc.js')
-        ]
+        remarkPlugins: sharedPlugins
       }
     ]
   ],

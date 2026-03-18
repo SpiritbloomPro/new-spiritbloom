@@ -1,5 +1,6 @@
 ---
 title: Spell Interactions
+description: List of all the functionality and mechanics of Preservation spells
 sidebar_position: 7
 ---
 
@@ -79,8 +80,6 @@ Our apex talent, it makes it so that every time you use either !Echo! or !Emeral
 - !Merithras Blessing! is an instant-cast spell that will instantly heal the target and then proceed to jump up to five times to other injured players healing them for the same amount. If there are no more injured players nearby it can do all of its jumps on the same target healing them multiple times
 
 - !Merithras Blessing! !Echoes! fully, meaning every !Echo! you consume with it will do the initial heal and all the five extra bounces.
-
-- Despite being a replacement for !Reversion!, it still applies a normal !Reversion! on the target of the cast and on any !Echoes! it consumes. Notably, !Echoing! !Merithras Blessing! will apply the baseline version of !Reversion!, not the !Echo! one.
 
 ### Lifebind
 

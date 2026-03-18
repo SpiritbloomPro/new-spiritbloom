@@ -1,5 +1,6 @@
 ---
 title: Spell Interactions
+description: List of all the functionality and mechanics of Restoration Shaman spells
 sidebar_position: 7
 ---
 

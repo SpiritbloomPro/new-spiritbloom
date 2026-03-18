@@ -28,13 +28,24 @@
         "Spirit Walk": 58875,
         "Gust of Wind": 192063,
         "Spiritwalkers Grace": 79206,
-        "Bloodlust": 2825
+        "Bloodlust": 2825,
+        "Wind Shear": 57994
     },
     "class-talents": {
         "Elemental Resistance": 462368,
         "Therazanes Resilience": 1217622,
         "Reactive Warding": 462454,
-        "Instinctive Imbuements": 1270350
+        "Instinctive Imbuements": 1270350,
+        "Earthgrab Totem": 51485,
+        "Improved Purify Spirit": 383016,
+        "Winds of Alakir": 382215,
+        "Earth Elemental": 198103,
+        "Primordial Bond": 1279819,
+        "Spirit Wolf": 260878,
+        "Thunderous Paws": 378075,
+        "Poison Cleansing Totem": 383013,
+        "Tremor Totem": 8143,
+        "Purge": 370
     },
     "spec-talents": {
         "Water Totem Mastery": 382030,
@@ -57,11 +68,16 @@
         "Earthen Accord": 1271104,
         "Overflowing Shores": 383222,
         "Crashing Waves": 1253090,
+        "Resurgence": 16196,
         "Coalescing Water": 470076,
         "Water Expulsion": 1253014,
         "Double Dip": 1252882,
+        "Ancestral Awakening": 382309,
         "Calm Waters": 1252841,
         "Undercurrent": 382194,
+        "Earthweaver": 1254210,
+        "Preeminence": 462443,
+        "Earthen Harmony": 382020,
         "Stormstream Totem Proc": 1267016,
         "Stormstream Totem Healing Increase": 1267093,
         "Stormstream Totem Swiftness": 1267120

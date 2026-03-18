@@ -2,8 +2,9 @@
 title: Midnight, what has changed?
 description: A detailed run-down of what has changed for holy paladin between retail and pre-patch.
 unlisted: false
-sidebar_position: 2
+sidebar_position: 19
 ---
+
 Going into the pre-patch of midnight we're going to see a rather large overhaul of holy paladin; Blizzard's new philosophy can be broken down into 2 important parts:
 
 - Remove button bloat
@@ -65,7 +66,7 @@ Three new talents have been added to Herald of the Sun.
 
 We have !Endless Gleam! which increases the duration of !Dawnlight! by 0.5 seconds every time it heals a new ally.
 
-!Born in the Sunlight! which increases the critical strike chance of !Dawnlight! by 15% during wings
+!Born in Sunlight! which increases the critical strike chance of !Dawnlight! by 15% during wings
 
 and !Walk Into Light! which gives you 2 holy power every time you press !Avenging Wrath!.
 

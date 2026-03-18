@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 description: Listing of Midnight Changes
 title: Midnight Changes
 ---
@@ -34,7 +34,7 @@ With that out of the way, this is a list of the spells being removed in Midnight
 And these are some of the existing things receiving significant changes:
 
 - !Chain Heal! and !Healing Wave! have been rebalanced, they now have a 2 seconds cast time and their power has been adjusted so both spells heal for a similar total amount. !Chain Heal! is still very expensive mana wise and !Healing Wave! is still very cheap.
-- !Ascendance! has been significantly reworked. Instead of replicating a percentage of your healing on allies around you, it now increases all your healing done by 30%, causes !Riptide! casts to make your next !Chain Heal! or !Healing Wave! instant, and makes !Chain Heal! and !Healing Wave! apply !Riptide! on their primary target. !Ascendance! still heals nearby allies on cast.
+- !Ascendance! has been significantly reworked. Instead of replicating a percentage of your healing on allies around you it now makes !Healing Wave! always crit and heal a second target at 50% strength, !Chain Heal! bounce three additional times and only reduce 10% after each jump rather than 30%, and both spells cost 25% less mana during it.
 - !Ascendance! and !Healing Tide Totem! are now on a choice node.
 - !Healing Rain! base duration and cooldown have been increased to 18 seconds up from 10. !Surging Totem! lasts for 25 seconds with a 25 second cooldown.
 - !Unleash Life! now only works on !Riptide!, !Healing Wave! or !Chain Heal! and it is always just a flat healing increase and cast time reduction. It can no longer be used with !Healing Rain! or !Downpour!.
@@ -58,14 +58,10 @@ Most of the new talents that fill out the spec tree are passive and not super hi
 
 ## What does it mean?
 
-While the highlight definitely goes to the removal of Cloudburst Totem, all of these combined do represent a decent shift into how shaman is meant to be played. With !Healing Wave! and !Chain Heal! directly competing for your time and mana and having no temporary buffs to either of them, it is most likely that you simply invest your talent points and resources into whichever one of the two is stronger and never even look at the other. As of the time of this writing the base healing of both spells isn't very far apart, but !Healing Wave! has much better talent support and costs half the mana, which makes it a clear winner and results in you never casting !Chain Heal!.
+While the highlight definitely goes to the removal of Cloudburst Totem, all of these combined do represent a decent shift into how shaman is meant to be played. With most of the temporary buffs from talents gone or affecting both fillers equally your pick between !Healing Wave! and !Chain Heal! is not based around what you have active at the moment but only about what type of healing do you need to do at any given time and how much mana do you have. !Healing Wave! is very cheap and much better at single target healing while !Chain Heal! does more overall healing spread across more targets but is considerably more expensive. Properly managing between the two is a big focus for the gameplay moving forward.
 
 Most of the short cooldowns have been changed to reduce the impact of timing them properly and instead simply focus their power on using them frequently. !Healing Stream Totem! doesn't care as much about the specific second you drop it at and does better when you just send it as often as possible, similarly the new !Unleash Life! doesn't give you as many options as to what spell to improve so you just let your normal casts use it up.
 
 The end result, as expected, is that as long as there is healing to be done you just want to press your short cooldowns as much as possible and fill all the rest of the time casting whatever filler spell is stronger at the moment without even thinking about the other. A very simply and straight forward "just heal" reactive spec.
-
-There are still some more involved points where you can invest time if you are interesting in min maxing however. For Farseer the current playstyle heavily revolves around maximizing !Riptide! spread by abusing your !Healing Wave! casts during !Ascendance! with proper targeting, with the goal of getting as much value out of !Undercurrent! and !Whispering Waves! as possible. This heavily rewards you for good target and spell selection and drops in value fast if you aren't able to minimize downtime.
-
-Totemic has historically been the easier tree and that remains the same, but with the heavier focus and reduced cooldowns on totems it is still possible to play into timings by fishing for procs and alining your cooldowns so that you can drop two !Stormstream Totems! and two !Healing Stream Totems! all together and maximize your !Earthsurge! value abusing !Primal Catalyst!.
 
 Restoration remains a spec with a very simple core that doesn't take a lot of time to learn. It does have some finer details that improve its performance as your skill level increases but the truth is that most of your output does come from the very basics of healing, rather than some deep intricacies exclusive to the spec or convoluted design and interactions.
