@@ -1,7 +1,7 @@
 ---
 title: Quick Guide
 description: Quick at a glance summary
-unlisted: false
+unlisted: true
 sidebar_position: 2
 toc_max_heading_level: 2
 ---

@@ -12,8 +12,6 @@ Using just the right amount of resources to respond to any given situation witho
 
 ## Pages
 
-- [Quick Guide](/preservation/quick-guide): A quick summary of talents, gameplay and statistics.
-- [The Basics](/preservation/basics): Covering the most relevant parts of the spec in all content.
 - [Raid](/preservation/preservation-evoker-season-1-raid-guide): An in-depth view of how to play Preservation during raids.
 - [Mythic+](/preservation/preservation-evoker-season-1-m-guide): Explanations on how Preservation plays in Mythic+.
 - [Spell Interactions](/preservation/interactions): A detailed description of the way our spells work and interact with each other.
