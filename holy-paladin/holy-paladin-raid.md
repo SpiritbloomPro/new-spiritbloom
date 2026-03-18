@@ -75,7 +75,7 @@ The way the current trees are set up, is that I would recommend you get comforta
 
 ![](/img/paladin/Raid%20setup.webp)
 
-[Green are my general setup](https://www.wowhead.com/talent-calc/paladin/holy/lightsmith/EASARSUEEWWVUERERQgUQCQVQVVRVFBAElUFFBUXQCQEFFVVVUCEQ), red I would strongly suggest avoiding in raid and blue comes with a caveat.
+[Green are my general setup](https://www.wowhead.com/talent-calc/paladin/holy/herald-of-the-sun/EASARSUEEWWVUERERQgUQCQVQVVRVFBAElUFFBUXQCQEFFVVVUBU), red I would strongly suggest avoiding in raid and blue comes with a caveat.
 
 In the class tree, our first caveat is echoing blessings/unbound freedom. Most scenarios I would suggest !Echoing Blessings! because of the extra usefulness of cooldowns like !Blessing of Protection! turning it into a DR even if you don't have physical damage to reduce.
 
@@ -89,21 +89,21 @@ However, if you have bosses like Queen Ansurek in season 1 of Dragonflight where
 
 # Crafting
 
-In Midnight crafting is just as efficient as upgrading items, this means there's no loss to choosing to craft mythic items early in the season. 
+In Midnight crafting is just as efficient as upgrading items, this means there's no loss to choosing to craft mythic items early in the season.
 
-Initially you will want to craft a one-handed weapon such as the [Magister's Mana Sword](https://www.wowhead.com/item=237843/magisters-mana-sword) with the embellishment [Darkmoon Sigil: Hunt](https://www.wowhead.com/item=245876/darkmoon-sigil-hunt) as this will be your biggest upgrade early on. 
+Initially you will want to craft a one-handed weapon such as the [Magister's Mana Sword](https://www.wowhead.com/item=237843/magisters-mana-sword) with the embellishment [Darkmoon Sigil: Hunt](https://www.wowhead.com/item=245876/darkmoon-sigil-hunt) as this will be your biggest upgrade early on.
 
 Secondarily getting a shield [Spellbreaker's Rebuke](https://www.wowhead.com/item=237831/spellbreakers-rebuke) with [Arcanoweave Lining](https://www.wowhead.com/item=240167/arcanoweave-lining)
 
-After that you can replace any low item level piece. 
+After that you can replace any low item level piece.
 
-In the long run you will want to replace your crafted sword with a regular myth track one, which is when you can put the arcanoweave lining on one of your off-pieces. 
+In the long run you will want to replace your crafted sword with a regular myth track one, which is when you can put the arcanoweave lining on one of your off-pieces.
 
 # Trinkets
 
 As with regular gear, I would suggest using QELive to decide which trinket to wear, you can also see a general list of all trinkets on the [QE Live Trinket List](https://questionablyepic.com/live/trinkets).
 
-With current tuning our top 3 are: 
+With current tuning our top 3 are:
 
 1. [Gaze of the Alnseer](https://www.wowhead.com/item=249343/gaze-of-the-alnseer)
 2. [Vaelgor's Final Stare](https://www.wowhead.com/item=249346/vaelgors-final-stare)
