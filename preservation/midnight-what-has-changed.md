@@ -2,7 +2,7 @@
 title: Midnight, What Has Changed?
 description: This will be a detailed list of all the Preservation Evoker talent changes going into Midnight.
 unlisted: false
-sidebar_position: 6
+sidebar_position: 7
 ---
 Going into Midnight, Preservation Evoker sees a significant shift in gameplay. With the loss of !Spiritbloom! and !Engulf! and the addition of !Twin Echoes! and our Apex talent !Merithras Blessing!, we’re seeing talents integrate more of our full kit into our playstyle. Expect fewer huge ramp windows to instantly top the group via !Lifebind! or !Engulf!’s !Consume Flame!, and a greater focus on moment-to-moment gameplay.
 
