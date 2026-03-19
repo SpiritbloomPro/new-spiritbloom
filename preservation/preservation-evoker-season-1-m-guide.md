@@ -17,35 +17,18 @@ Our best healing comes from combining our abilities, which means preparation is 
 
 ## Gameplay
 
-[-Tabs-]
-
-[-Chronowarden-]
-
 1. Apply !Echo! to the party as often as possible. It is much better to have !Echoes! waiting to be used rather than need them when it's too late.
 2. Cast !Reversion! often in order to maintain uptime on the entire party. It is normal to apply !Reversion! to your party with !Echoes! from !Temporal Anomaly! outside of combat between packs and also when everyone is already full health.
-3. Cast !Dream Breath! before incoming damage to have the healing rolling and store a !Merithra's Blessing! for later. Casting rank 1 !Dream Breath! is better in most cases, but if you really need more burst healing to top people in a pinch, max ranking it is fine.
-4. Consume your !Echoes! with !Verdant Embrace! as often as possible during high damage. !Verdant Embrace! is our strongest, most reliable heal and will be our first choice in almost every scenario. We want to prioritize consuming directly casted !Echoes! with !Verdant Embrace! rather than !Temporal Anomaly! for the increased healing.
+3. Heal with !Dream Breath!, this will generate a !Merithra's Blessing! that you can use later. Casting rank 1 !Dream Breath! is better in most cases, but if you really need more burst healing to top people in a pinch, max ranking it is fine.
+4. Consume your !Echoes! with !Verdant Embrace! as often as possible during high damage. !Verdant Embrace! is our strongest, most reliable heal and will be our first choice in almost every scenario. The !Echoes! you apply via manually casting the spell are much stronger than the ones from !Temporal Anomaly! so it is better to use those for the increased healing.
 5. Consume your !Echoes! with !Merithra's Blessing! when !Verdant Embrace! is on cooldown. !Merithra's Blessing! is our second best burst heal and it is slightly RNG based, so we want to make good use of the procs when we get them.
-6. Cast !Fire Breath! at max rank to gain the powerful !Leaping Flames! buff. !Leaping Flames! is a decent heal that also can give us !Essence Burst! for more !Echoes!. !Fire Breath! is also an extremely strong heal when used on multiple targets due to !Life-Givers Flame!
-7. Cast !Chrono Flame! with a !Lifespark! proc if talented. If we are out of buttons to push, it is fine as a last resort to consume any !Echoes! we have with !Chrono Flame!.
-8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana via !Energy Loop!, but keep in mind it costs a significant amount of essence (or a burst). If mana isn't a concern, cast !Chrono Flame! as it does more damage than !Disintegrate!.
-
-[-Flameshaper-]
-
-1. Apply !Echo! to the party as often as possible. It is much better to have !Echoes! waiting to be used rather than need them when it's too late.
-2. Cast !Reversion! often in order to maintain uptime on the entire party. It is normal to apply !Reversion! to your party with !Echoes! from !Temporal Anomaly! outside of combat between packs and also when everyone is already full health.
-3. Cast !Dream Breath! before incoming damage to have the healing rolling and store a !Merithra's Blessing! for later. Casting rank 1 !Dream Breath! is better in most cases, but if you really need more burst healing to top people in a pinch, max ranking it is fine.
-4. Consume your !Echoes! with !Verdant Embrace! while Dream Breath is rolling to !Consume Flame!. !Verdant Embrace! is our strongest, most reliable heal and will be our first choice in almost every scenario. We want to prioritize consuming directly casted !Echoes! with !Verdant Embrace! rather than !Temporal Anomaly! for the increased healing.
-5. Consume your !Echoes! with !Merithra's Blessing! when !Verdant Embrace! is on cooldown. !Merithra's Blessing! is our second best burst heal and it is slightly RNG based, so we want to make good use of the procs when we get them.
-6. Cast !Fire Breath! at max rank to gain the powerful !Leaping Flames! buff. !Leaping Flames! is a decent heal that also can give us !Essence Burst! for more !Echoes!. !Fire Breath! is also an extremely strong heal when used on multiple targets due to !Life-Givers Flame!
-7. Cast !Living Flame! with a !Lifespark! proc if talented. If we are out of buttons to push, it is fine as a last resort to consume any !Echoes! we have with !Living Flame!.
-8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana via !Energy Loop! and also consumes !Fire Breath! for bonus damage, but keep in mind it costs a significant amount of Essence (or a burst). If you want to save Essence for upcoming mechanics, and mana isn't a concern, !Living Flame! is a slight damage loss but doesn't cost Essence.
-
-[-EndTabs-]
+6. Cast !Fire Breath! to heal via !Life-Giver's Flame! in multi-target scenarios and to generate !Leaping Flames!. Most of the times !Leaping Flames! will be spent on damage but it can also be used as an extra aoe healing tool if the situation requires it.
+7. !Chrono Flame! is not the best healing tool we have but in dangerous situations you can still directly heal people with it if there are no other options. If we are out of buttons to push, it is fine as a last resort to consume any !Echoes! we have with !Chrono Flame!.
+8. Cast !Disintegrate! at the boss if there is no incoming damage. Casting !Disintegrate! is a good way to stay healthy on mana via !Energy Loop!, but keep in mind it costs a significant amount of essence (or an !Essence Burst!). If mana isn't a concern, cast !Chrono Flame! as it does more damage than !Disintegrate!.
 
 ## Important Things to Know
 
-- Maintaining !Reversion! on the party is extremely important. It is an incredible healing amplifier due to !Grace Period! that stacks per !Reversion! and should always be active on as many people as possible.
+- Maintaining !Reversion! on the party is extremely important. It increases the healing people take from you with !Grace Period! and also makes them take less damage with !Merithras Blessing Reversion!. Having two !Reversion!s on the same target by !Echo!ing it doubles the effect of these talents as well.
 - !Echo! lasts a long time due to !Timeless Magic!, so there will be ample time to consume them when applied early.
 - Getting !Dream Breath! on cooldown is almost always the right choice, as it is better to be sitting on a !Merithra's Blessing! for when you need it than to have !Dream Breath! off cooldown.
 - !Time Dilation! is different from other external defensives. It doesn't prevent damage, but instead delays it. This means that it can be a useful tool to prevent lethal damage in the moment but you still need to heal that damage afterwards.
@@ -90,37 +73,4 @@ This preloads three dispels on the target of your choice, and with clever use of
 
 With clever use of dispelling ahead of time to refresh the cool down, Preservation has the unique ability to get a few bonus dispels out on debuff heavy pulls.
 
-## Talents
-
 The two Hero trees play relatively the same, and in general you should pick the one you enjoy the most. The overall recommendation is Chronowarden due to its ability to have more reliable healing tools with stronger !Verdant Embrace! and stronger !Echoes!. Flameshaper can still be a viable choice if you prefer to have more externals through !Lifecinders! and more damage from !Fire Breath!.
-
-[-Tabs-]
-
-[-Chronowarden-]
-
-(Evoker/Chronowarden/EAQUUBlESYJEREVYEQVBQOVVRQVQJVQQSpENCUQFFVVVUBE)
-
-[-Flameshaper-]
-
-(Evoker/Flameshaper/EAQUUBlESYJEREVYEQVBQOVVRQVQJVQQSpENCUQFFVVVUBU)
-
-[-EndTabs-]
-
-### Talent Swaps
-
-The majority of talent swaps involve the bottom section of the tree. The most flexible points are !Lifespark! and !Lifeforce Mender!. Reallocating these talent points to other capstones will result in less damage and spot healing, as well as make our healing from !Life-Giver's Flame! significantly lower. Some other valuable talents to take are:
-
-- !Titan's Gift! gives us more effective !Echoes! from our Essence Bursts, this gives us more power on the majority of our !Echo! ramps, giving a small boost to our burst.
-- !Twin Echoes! is a great way to get additional !Echoes! out. This synergizes well with our tierset and saves many globals throughout a key.
-- !Tempo Charged! can be taken to increase the healing from our !Reversion! and the absorb shield granted by !Temporal Anomaly!. This is a passive choice for a bit more shielding that doesn't change gameplay in any way.
-- !Inner Flame! increases our HoT healing after we cast !Stasis! and is a great choice if you want stronger cooldown.
-
-One smaller change that can be made in the middle of the tree is !Flow State!. It can we swapped out for !Essence Attunement! to make our !Echo! ramps a bit smoother at the cost of minimal power.
-
-### Dream Simulacrum Vs Wings of Liberty
-
-The most meaningful decision concerning talents is the choice node of !Dream Simulacrum! and !Wings of Liberty!. Both talents change how our main heal functions and greatly alter how we approach healing. Despite having different strengths, I strongly recommend !Dream Simulacrum!.
-
-!Dream Simulacrum! buffs !Verdant Embrace's! healing, which is then amplified by Chronowarden's !Reverberations! hero talent. The main benefit, however, comes from transforming !Verdant Embrace! into a ranged spell. By far the easiest way to die on Preservation is when you !Verdant Embrace! to a party member only to find yourself flying through a mechanic and dying. This is such a limiting factor in moment to moment gameplay that not having to think about it is a huge plus to taking this talent.
-
-!Wings of Liberty! is on the opposite end of the spectrum. It trades the increased healing and range for a second charge of !Verdant Embrace!. This lets you use !Verdant Embrace! twice in quick succession, allowing you to have a second !Lifebind! target (or more with the use of !Stasis!) during high damage. Keep in mind when taking this talent that you will be forced to jump to your target when you cast !Verdant Embrace!, and doing so twice in succession without being well aware of who and where you are jumping to will get you killed quite often.

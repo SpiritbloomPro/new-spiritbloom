@@ -1,7 +1,7 @@
 ---
 title: Spell Interactions
 description: List of all the functionality and mechanics of Preservation spells
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Spell Interactions
