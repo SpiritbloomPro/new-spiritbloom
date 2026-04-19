@@ -13,7 +13,6 @@ sidebar_position: 2
 - Light of Dawn healing increased by 20%. 
 - Greater Judgment absorb increased by 250%.
 - Beacon of the Savior (Rank 3) now causes Flash of Light and Holy Light to move Beacon of the Savior to their target once per 5 seconds.
-
 - **Herald of the Sun**
     - Walk Into Light has been redesigned – Now increases the chance for Infusion of Light to occur by 100% during Avenging Wrath.
 - **Lightsmith**
@@ -31,9 +30,15 @@ Overall these changes are very positive, and along with the nerfs to MW and Disc
 
 ## Nebulous Voidcore
 
+in 12.0.5 we get the Nebulous Voidcore which is a bonus roll for raids and mythic plus. 
+
+Raid encounters take 2 voidcores and m+ dungeons require a single. Once you've acquired an item through this system, it is completely locked out until you get all items on the loot table, so no duplicates. 
+
 To find out where to use your Nebulous Voidcore, run a [QE Live upgrade finder](https://questionablyepic.com/live/upgradefinder) and look for your biggest upgrade. 
 
 I would strongly suggest aiming for rare items, with strong competition that can be hard to farm. This can mean Alleria for Ribbon, Vaelgor and Ezzorak for Final Stare or Midnight Falls for the Eye of Midnight. 
+
+The nebulous voidforge also comes with the Nilhammer system, which is our good old mid-season ilvl increase, allowing you to give your items extra upgrade tracks. 
 
 # Raid Guide
 
