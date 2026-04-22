@@ -5,6 +5,41 @@ unlisted: false
 sidebar_position: 2
 ---
 
+# 12.0.5 changes
+
+- Holy Shock healing increased by 10%. 
+- Word of Glory healing increased by 20%. 
+- Eternal Flame healing increased by 20%. 
+- Light of Dawn healing increased by 20%. 
+- Greater Judgment absorb increased by 250%.
+- Beacon of the Savior (Rank 3) now causes Flash of Light and Holy Light to move Beacon of the Savior to their target once per 5 seconds.
+- **Herald of the Sun**
+    - Walk Into Light has been redesigned – Now increases the chance for Infusion of Light to occur by 100% during Avenging Wrath.
+- **Lightsmith**
+    - Holy Armaments now generate 3 Holy Power.
+
+The change to !Beacon of The Savior! is largely negative, as it moving will not apply the healing increase to your cast, but also won't transfer healing on the cast that moves it. 
+
+More control with where the beacon moves is nice, but not in this way. 
+
+!Greater Judgment! change enables !Judgment! related builds, though with them not scaling with mastery, it likely ends up being a preference thing. 
+
+!Holy Armaments! granting 3 holy power is something the paladin community at large has been asking for for a while now, it's just a nice change. It'll finally feel like pressing the button does something. 
+
+Overall these changes are very positive, and along with the nerfs to MW and Disc means we'll likely end up somewhere in the bottom-middle of the pack. 
+
+## Nebulous Voidcore
+
+in 12.0.5 we get the Nebulous Voidcore which is a bonus roll for raids and mythic plus. 
+
+Raid encounters take 2 voidcores and m+ dungeons require a single. Once you've acquired an item through this system, it is completely locked out until you get all items on the loot table, so no duplicates. 
+
+To find out where to use your Nebulous Voidcore, run a [QE Live upgrade finder](https://questionablyepic.com/live/upgradefinder) and look for your biggest upgrade. 
+
+I would strongly suggest aiming for rare items, with strong competition that can be hard to farm. This can mean Alleria for Ribbon, Vaelgor and Ezzorak for Final Stare or Midnight Falls for the Eye of Midnight. 
+
+The nebulous voidforge also comes with the Nilhammer system, which is our good old mid-season ilvl increase, allowing you to give your items extra upgrade tracks. 
+
 # Raid Guide
 
 Holy paladin is a relatively simple, fast-paced healer where the majority of your skill expression comes down to snappy decision-making.
@@ -76,6 +111,8 @@ The way the current trees are set up, is that I would recommend you get comforta
 ![](/img/paladin/Raid%20setup.webp)
 
 [Green are my general setup](https://www.wowhead.com/talent-calc/paladin/holy/herald-of-the-sun/EASARSUEEWWVUERERQgUQCQVQVVRVFBAElUFFBUXQCQEFFVVVUBU), red I would strongly suggest avoiding in raid and blue comes with a caveat.
+
+[**For 12.0.5 this is an option**](https://www.wowhead.com/talent-calc/paladin/holy/herald-of-the-sun/EASBRSUEEWWVUERERAgUQCQVQVVRVFBAElVFFEEXQCQEFFVVVUBU) **-** the big difference is you spend your infusions on !Judgment! instead of !Flash of Light! 
 
 In the class tree, our first caveat is echoing blessings/unbound freedom. Most scenarios I would suggest !Echoing Blessings! because of the extra usefulness of cooldowns like !Blessing of Protection! turning it into a DR even if you don't have physical damage to reduce.
 
