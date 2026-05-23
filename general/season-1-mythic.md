@@ -101,7 +101,7 @@ Welcome to our guide to Algeth'ar Academy, here you will find all the informatio
 <summary><a href="#echo-of-doragosa">Echo of Doragosa</a></summary>
 <ul>
 <li><a href="#unleash-energy">Unleash Energy</a></li>
-<li><a href="#arcane-rifts">Arcane Rifts</a></li>
+<li><a href="#arcane-rift">Arcane Rift</a></li>
 <li><a href="#overwhelming-power">Overwhelming Power</a></li>
 <li><a href="#energy-bomb">Energy Bomb</a></li>
 <li><a href="#power-vacuum">Power Vacuum</a></li>
@@ -294,6 +294,8 @@ Tank targeted frontal, be prepared to cast !Time Dilation!
 
 ##### !Arcane Smash!
 
+Party-wide AoE that deals significant damage. Line of Sight or use !Zephyr! to mitigate this cast where possible.
+
 ##### !Astral Whirlwind!
 
 Spawns a non-targetable mob that does a moving AoE, avoid.
@@ -302,18 +304,38 @@ Spawns a non-targetable mob that does a moving AoE, avoid.
 
 ##### !Mystic Brand!
 
+Debuffs a random player increasing arcane damage taken, priority interrupt or CC. 
+
 ##### !Arcane Bolt!
+
+Bolt targeting a random player. 
 
 # Echo of Doragosa
 
 ##### !Unleash Energy!
 
-##### !Arcane Rifts!
+This is cast on pull dealing party-wide AoE damage and spawning 2 !Arcane Rift!. !Zephyr! can be used to mitigate this if the party is low on pull. 
+
+##### !Arcane Rift!
+
+2 of these are spawned on fight start and then subsequent Rifts are spawned whenever any player reaches 3 stacks of !Overwhelming Power!. Each rift periodically shoots out 4 orbs of !Uncontrolled Energy!, which can be seen by lines pointing out from the rifts. 
 
 ##### !Overwhelming Power!
 
+Getting hit by any ability grants a stack of !Overwhelming Power!, leaving a DoT on the players and granting a 5% stacking haste buff. At 3 stacks the debuff disappears leaving an !Arcane Rift!. Be mindful of your stacks and place the rift in a sensible location. 
+
 ##### !Energy Bomb!
+
+Targets a random player with a small AoE circle dealing damage upon expiration or dispelling. Loose spread to avoid cleaving teammates.
+
+!Zephyr! can be used to mitigate the expiration damage. 
 
 ##### !Power Vacuum!
 
+Pulls all players towards the boss before doing a large circle AoE. Be mindful of !Arcane Rift! locations so you don't get pulled through one and be ready to run out. !Time Spiral! is good here to provide your teammates with an extra use of their movement abilities (or an extra use of !Hover! for yourself if you don't have one).
+
+This will give everyone a stack of !Power Overwhelming!, if you are already at 2 stacks be mindful of your positioning for the !Arcane Rift! placement. 
+
 ##### !Astral Blast!
+
+Tank buster, !Time Dilation! is good here to help your tank out, don't overlap with big tank defensives.
