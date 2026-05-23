@@ -121,29 +121,31 @@ There are 5 buffs you can get in the starting area:
 - Haste (Bronze)
 - Increased Healing Taken (Green)
 
-The Mastery buff is the best option here for healing. 
+The Mastery buff is the best option here for healing if you don't have much or are still relatively early on in the gearing process. Critical Strike and Haste are both viable options if you feel you have enough Mastery.
 
 # Overgrown Ancient Trash
 
-The most common pull here is to pull everything in this area with bloodlust which includes 3 Vile Lashers, 3 Aggravated Skitterflys and plenty of small mobs. You can be very liberal with cooldowns here as the upcoming boss does very little damage to the group outside of a couple of abilities. 
+The most common pull here is to pull everything in this area with bloodlust which includes 3 Vile Lashers, 3 Aggravated Skitterflys and plenty of small mobs. You can be very liberal with cooldowns here as the upcoming boss does very little damage to the group outside of a couple of abilities.
 
 #### Vile Lasher
 
-!Vile Bite! puts a bleed dot on the tank, this stacks up overtime and becomes very deadly if left unchecked. Once one of the lashers dies this becomes manageable for the tank on their own as it will never get higher than 2 stacks but during the initial stages of the pull be sure to use !Cauterizing Flame! on your tank whenever he hits 4-5 stacks or if you feel they are in danger of dying. 
+!Vile Bite! puts a bleed dot on the tank, this stacks up overtime and becomes very deadly if left unchecked. Once one of the lashers dies this becomes manageable for the tank on their own as it will never get higher than 2 stacks but during the initial stages of the pull be sure to use !Cauterizing Flame! on your tank whenever they hit 4-5 stacks or if you feel they are in danger of dying. 
 
-!Seed Detonation! is a dodge swirly, nothing much to mention here other than dont stand in it. 
+Advanced Tip: Store a !Cauterizing Flame! targeted on the tank inside !Stasis! and you can dispel two iterations of the bleed debuff, especially useful if your tank doesn't have a way of dealing with it themselves.
+
+!Seed Detonation! is a dodge swirly, nothing much to mention here other than don't stand in it. 
 
 #### Aggravated Skitterfly
 
 These mobs gain a stacking !Agitation! buff, you can remove one stack of this buff with !Oppressing Roar! when talented into !Overawe!, the longer the pull goes on the more dangerous these mobs become. 
 
-Do your best to play this fight in melee, !Darting Sting! targets a random player so the closer to melee you are the more likely it is these mobs can be efficiently cleaved down. 
+Do your best to play this fight in melee, !Darting Sting! targets a random player so the closer to melee you are the more efficiently these mobs can be cleaved down.
 
 # Overgrown Ancient
 
 ##### !Germinate!
 
-The boss creates swirlies underneath the players feet that spawn Hungry Lashers, move as a collective to keep the spawns as close together as possible. 
+The boss creates swirlies underneath the players feet that spawn Hungry Lashers, move as a collective to keep the spawns as close together as possible. The most common way of handling this mechanic is to stack on the tank and move left as a group in a half circle.
 
 The first !Germinate! set of the fight these lashers remain dormant, on the second set the boss casts !Burst Forth! afterwards which causes the lashers to become active. 
 
@@ -157,7 +159,7 @@ Once the Ancient Branch dies it creates an !Abundance! Circle, everyone should s
 
 At 100 energy the boss casts !Burst Forth! to activate any dormant Hungry Lashers. This cast does party-wide AoE damage which can be reduced with !Zephyr!.
 
-Active Hungry Lashers put stacks of !Lasher Toxin! on players which can be removed with !Expunge!. 
+Active Hungry Lashers put stacks of !Lasher Toxin! on players which can be removed with !Expunge!. Good practise here is to dispel the tank on cooldown.
 
 ##### !Barkbreaker!
 
@@ -169,7 +171,7 @@ Standard tank buster, use !Time Dilation! to help your tank out, try not to over
 
 ##### !Storm Slash!
 
-Tank buster, use !Time Dilation! as needed to help and dont overlap with tanks big defensives. 
+Tank buster, use !Time Dilation! as needed to help and dont overlap with the tanks big defensives. 
 
 ##### !Deadly Winds!
 
@@ -221,7 +223,7 @@ This cast denotes a phase change, orbs must be thrown into the Fire or the Air g
 
 Our recommendation for the first set of orbs to stop the !Ruinous Winds! cast. This triggers !Gale Force! spawning patrolling tornadoes around the platform and winds that push you back. 
 
-This also creates Motes that players can grab for a large haste buff. 
+This also creates 1 mote for each player in the group that provides a one time, 20 second haste buff. 
 
 ##### !Goal of the Searing Blaze!
 
@@ -263,7 +265,7 @@ Targets a random player and leaps to them, stay in melee so these can be cleaved
 
 ##### !Monotonous Lecture!
 
-Channels on a random player stunning them. Try and save CC for when the channel has started assuming you aren't targeted as this puts the ability on cooldown for longer. 
+Long cast on a player and once completed does a long channel that sleeps the targeted player. This can be dispelled with a magic dispel (!Cauterizing Flame!) to remove the CC. These can also be CC'd to stop the cast and if you're feeling adventurous you can CC the channel instead of the cast to put the cast on cooldown for a longer period of time, the affected player would be briefly interrupted though.
 
 # Vexamus
 
@@ -275,7 +277,7 @@ Try and take these orbs early making it easier to deal with subsequent orb sets.
 
 ##### !Mana Bombs!
 
-Targets 3 random players with a DoT that, upon expiration, deals heavy damage and leaves permanent area denial. 
+Targets 3 random players with a DoT that, upon expiration, deals heavy damage and leaves temporary area denial. 
 
 Move to the edge of the arena to place your area denial and be prepared with defensives and healing to help out your team. 
 
@@ -287,7 +289,7 @@ This always overlaps with the expiration of !Mana Bombs! on the even numbered se
 
 ##### !Arcane Expulsion!
 
-Tank targeted frontal, be prepared to cast !Time Dilation! 
+Tank targeted frontal, be prepared to cast !Time Dilation!.
 
 # Echo of Doragosa Trash
 
@@ -331,11 +333,15 @@ Targets a random player with a small AoE circle dealing damage upon expiration o
 
 !Zephyr! can be used to mitigate the expiration damage. 
 
+##### !Arcane Missiles!
+
+Targets a random player dealing damage and giving them a stack of !Power Overwhelming!. Be mindful of your stacks when targeted by this ability, making sure you don't place an !Arcane Rift! in a bad location. 
+
+!Arcane Missiles! and !Energy Bomb! will often overlap, be careful not to dispel a player too close to the bolt cast as this could one shot them or create a rift in a bad location.
+
 ##### !Power Vacuum!
 
 Pulls all players towards the boss before doing a large circle AoE. Be mindful of !Arcane Rift! locations so you don't get pulled through one and be ready to run out. !Time Spiral! is good here to provide your teammates with an extra use of their movement abilities (or an extra use of !Hover! for yourself if you don't have one).
-
-This will give everyone a stack of !Power Overwhelming!, if you are already at 2 stacks be mindful of your positioning for the !Arcane Rift! placement. 
 
 ##### !Astral Blast!
 
