@@ -50,4 +50,11 @@ The boss spawns an Ancient Branch and puts a bleed debuff on the party. You can 
 Once the Ancient Branch dies it creates an !Abundance! Circle, everyone should stand in it to remove the debuff. 
 
 ##### !Burst Forth!
+
 At 100 energy the boss casts !Burst Forth! to activate any dormant Hungry Lashers. This cast does party-wide AoE damage which can be reduced with !Zephyr!.
+
+Active Hungry Lashers put stacks of !Lasher Toxin! on players which can be removed with !Expunge!. 
+
+##### !Barkbreaker!
+
+Standard tank buster, use !Time Dilation! to help your tank out, try not to overlap with the tanks big defensives.
