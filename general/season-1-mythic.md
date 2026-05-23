@@ -1,7 +1,7 @@
 ---
 title: Algeth'ar Academy
 description: A guide to Algeth'ar Academy
-unlisted: true
+unlisted: false
 sidebar_position: 5
 ---
 
