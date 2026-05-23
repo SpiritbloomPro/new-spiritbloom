@@ -1,7 +1,7 @@
 ---
 title: Algeth'ar Academy
 description: A guide to Algeth'ar Academy
-unlisted: false
+unlisted: true
 sidebar_position: 5
 ---
 
@@ -99,9 +99,16 @@ Welcome to our guide to Algeth'ar Academy, here you will find all the informatio
 <li>
 <details>
 <summary><a href="#echo-of-doragosa">Echo of Doragosa</a></summary>
+<ul>
+<li><a href="#unleash-energy">Unleash Energy</a></li>
+<li><a href="#arcane-rifts">Arcane Rifts</a></li>
+<li><a href="#overwhelming-power">Overwhelming Power</a></li>
+<li><a href="#energy-bomb">Energy Bomb</a></li>
+<li><a href="#power-vacuum">Power Vacuum</a></li>
+<li><a href="#astral-blast">Astral Blast</a></li>
+</ul>
 </details>
 </li>
-</ul>
 
 # Starting Buffs
 
@@ -285,6 +292,28 @@ Tank targeted frontal, be prepared to cast !Time Dilation!
 
 #### Algeth'ar Echoknight
 
+##### !Arcane Smash!
+
+##### !Astral Whirlwind!
+
+Spawns a non-targetable mob that does a moving AoE, avoid.
+
 #### Spectral Invoker
 
+##### !Mystic Brand!
+
+##### !Arcane Bolt!
+
 # Echo of Doragosa
+
+##### !Unleash Energy!
+
+##### !Arcane Rifts!
+
+##### !Overwhelming Power!
+
+##### !Energy Bomb!
+
+##### !Power Vacuum!
+
+##### !Astral Blast!
