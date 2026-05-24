@@ -103,6 +103,8 @@ At 75% and 45% the boss will spawn orbs around the arena that need to be thrown 
 
 Tank buster that applies a bleed, alternate !Cauterizing Flame! with your tanks defensives, using !Time Dilation! to mitigate the hit if needs be. 
 
+Advanced Tip: you can put !Cauterizing Flame! inside !Stasis! on this fight to clear the first 3 applications of the bleed.
+
 ##### !Overpowering Gust!
 
 Frontal aimed at a random player, avoid.
