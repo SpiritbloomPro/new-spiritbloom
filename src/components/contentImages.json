@@ -1,0 +1,91 @@
+{
+  "dungeons": [
+    {
+      "filename": "algethar-academy.png",
+      "link": "/general/Dungeons/algethar-academy",
+      "exists": true
+    },
+    {
+      "filename": "magisters-terrace.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "maisara-caverns.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "nexus-point-xenas.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "pit-of-saron.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "seat-of-the-triumvirate.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "skyreach.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "windrunner-spire.png",
+      "link": null,
+      "exists": false
+    }
+  ],
+  "raids": [
+    {
+      "filename": "1-averzian.png",
+      "link": "/general/Raids/averzian",
+      "exists": true
+    },
+    {
+      "filename": "2-vorasius.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "3-salhadaar.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "4-vaelgor-ezzorak.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "5-lightblinded-vanguard.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "6-crown.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "7-chimaerus.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "8-beloren.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "9-midnight-falls.png",
+      "link": null,
+      "exists": false
+    }
+  ]
+}

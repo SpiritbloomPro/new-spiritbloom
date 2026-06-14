@@ -6,6 +6,8 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 import path from 'path';
+import generateContentImagesPlugin from './src/components/ContentImagesParser.js';
+
 
 // Plugins that run on all parts of the site
 const sharedPlugins = [
@@ -72,6 +74,7 @@ const config = {
     ],
   ],
   plugins: [
+    generateContentImagesPlugin,
     path.resolve(__dirname, './src/plugins/docusaurus-wowhead-tooltips'),
     [
       '@docusaurus/plugin-content-docs',

@@ -18,6 +18,10 @@ Restoration is a very welcoming spec, with a low barrier to entry and able to gi
 - [Spell Interactions](/restoration-shaman/interactions): A list of all the inner workings of the spec's spells.
 - [Bug List](/restoration-shaman/bugs): Our list of known bugs.
 
+## Content
+
+<ContentGrid />
+
 ## The Author
 
 This guide is maintained by [Harrek](/blog/authors/harrek). A healer main for around 15 years, current writer of the Wowhead Restoration Shaman guide, Cutting Edge and occasionally Hall of Fame raider, having played all the different healer specs over the years with an extra focus on Shaman starting around Battle for Azeroth and Shadowlands.
