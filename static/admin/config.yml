@@ -97,6 +97,23 @@ collections:
     - { name: unlisted, label: Unlisted, widget: boolean, required: false }
     - { name: body, label: Content, widget: markdown }
     - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
+- name: template
+  label: "Guide Template"
+  folder: template
+  media_folder: /static/img/general
+  public_folder: /img/general
+  icon: check_box_outline_blank
+  identifier_field: title
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: title, label: Title, widget: string }
+    - { name: description, label: Description, widget: string}
+    - { name: unlisted, label: Unlisted, widget: boolean, required: false }
+    - { name: body, label: Content, widget: markdown }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, min: 1, max: 20}
 - name: blog
   label: "Blog"
   folder: blog

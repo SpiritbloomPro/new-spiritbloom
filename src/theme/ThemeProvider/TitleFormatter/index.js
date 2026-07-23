@@ -7,6 +7,7 @@ const formatter = (params) => {
     "preservation": 'Evoker',
     "holy-paladin": 'Paladin',
     "general": 'General Healing',
+    "template": 'Template',
     "default": 'Spiritbloom.Pro'
   };
   var currentPluging = pluginTitles[params.plugin.id] + ' | ';

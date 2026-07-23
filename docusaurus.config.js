@@ -115,6 +115,16 @@ const config = {
         sidebarPath: './sidebars.js',
         remarkPlugins: sharedPlugins
       }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'template',
+        path: 'template',
+        routeBasePath: 'template',
+        sidebarPath: './sidebars.js',
+        remarkPlugins: sharedPlugins
+      }
     ]
   ],
 
