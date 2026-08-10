@@ -40,7 +40,7 @@ Mastery is our best stat for healing and stacking more of it will always lead to
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay for raids, check the [raid](/preservation/preservation-evoker-season-1-raid-guide) page.
+For more details on how to optimize your gameplay for raids, check the [raid](/preservation/raid) page.
 
 [-MythicPlus-]
 
@@ -77,6 +77,6 @@ In M+ your stats are closer to each other in value: There is a small preference 
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay in keys, check the [Mythic+](/preservation/preservation-evoker-season-1-m-guide) page.
+For more details on how to optimize your gameplay in keys, check the [Mythic+](/preservation/mythicplus) page.
 
 [-EndTabs-]
