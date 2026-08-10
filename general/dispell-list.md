@@ -1,6 +1,7 @@
 ---
 title: Season 1 M+ Utility List
 sidebar_position: 3
+unlisted: true
 ---
 
 # Midnight S1 M+ Utility for Preservation Evoker

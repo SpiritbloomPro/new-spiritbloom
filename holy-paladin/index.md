@@ -3,6 +3,13 @@ title: Introduction
 description: The Introduction
 sidebar_position: 1
 ---
+
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
+
 Holy paladin has always been one of the more straight-forward healers, and going forward in Midnight this isn't changing.
 
 We are still a healer strongly favoring reactive healing, strong instant casts on the move while weaving in a mix of casted heals and damaging abilities.

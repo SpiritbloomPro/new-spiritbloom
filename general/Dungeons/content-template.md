@@ -1,5 +1,7 @@
 ---
-title: Content Guide Template
+title: Content Template Page
+description: Healing dungeon tips and tricks for Content Template
+unlisted: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis est risus, id efficitur diam scelerisque eu. Nulla tempus hendrerit interdum. Maecenas in justo ac purus dapibus volutpat. Aliquam erat volutpat. Nulla facilisis arcu vel urna elementum, in bibendum elit lacinia. Maecenas laoreet, arcu vitae rhoncus interdum, est ex sodales lorem, et bibendum mauris mauris vel lectus. Vestibulum imperdiet velit id lectus eleifend vulputate. Etiam fringilla bibendum libero, eget lobortis dui sollicitudin sed. Praesent interdum risus auctor, tristique diam a, finibus nunc. Ut convallis mi leo, vitae posuere dolor porttitor vel. Duis id enim et arcu sollicitudin porta nec egestas nibh. 
@@ -36,6 +38,7 @@ Morbi tristique convallis sem non commodo. Sed arcu elit, fermentum vitae felis 
 
 <Tabs queryString='spec' className='class-guide-tabs'>
     <TabItem value='preservation' label='Preservation'>
+        ## Preservation Evoker Tips
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis est risus, id efficitur diam scelerisque eu. Nulla tempus hendrerit interdum. Maecenas in justo ac purus dapibus volutpat. Aliquam erat volutpat. Nulla facilisis arcu vel urna elementum, in bibendum elit lacinia. Maecenas laoreet, arcu vitae rhoncus interdum, est ex sodales lorem, et bibendum mauris mauris vel lectus. Vestibulum imperdiet velit id lectus eleifend vulputate. Etiam fringilla bibendum libero, eget lobortis dui sollicitudin sed. Praesent interdum risus auctor, tristique diam a, finibus nunc. Ut convallis mi leo, vitae posuere dolor porttitor vel. Duis id enim et arcu sollicitudin porta nec egestas nibh.
         
         <VideoClip url='https://i.imgur.com/W4ixOum.mp4' side='left' />
@@ -45,6 +48,7 @@ Morbi tristique convallis sem non commodo. Sed arcu elit, fermentum vitae felis 
         Maecenas a vulputate est, vitae ultricies nisi. Praesent volutpat lacus a aliquet luctus. Donec vel ante ac orci tincidunt vulputate a a nulla. Vestibulum pretium a augue ac bibendum. Curabitur placerat tincidunt commodo. Pellentesque ut aliquet turpis. Quisque laoreet ligula sit amet justo mattis pretium. Nullam dictum diam vel mauris mollis sodales.
     </TabItem>
     <TabItem value='holy-paladin' label='Holy Paladin'>
+        ## Holy Paladin Tips
         Maecenas a vulputate est, vitae ultricies nisi. Praesent volutpat lacus a aliquet luctus. Donec vel ante ac orci tincidunt vulputate a a nulla. Vestibulum pretium a augue ac bibendum. Curabitur placerat tincidunt commodo. Pellentesque ut aliquet turpis. Quisque laoreet ligula sit amet justo mattis pretium. Nullam dictum diam vel mauris mollis sodales.
 
         <VideoClip url='https://i.imgur.com/W4ixOum.mp4' side='center' />
@@ -52,7 +56,7 @@ Morbi tristique convallis sem non commodo. Sed arcu elit, fermentum vitae felis 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis est risus, id efficitur diam scelerisque eu. Nulla tempus hendrerit interdum. Maecenas in justo ac purus dapibus volutpat. Aliquam erat volutpat. Nulla facilisis arcu vel urna elementum, in bibendum elit lacinia. Maecenas laoreet, arcu vitae rhoncus interdum, est ex sodales lorem, et bibendum mauris mauris vel lectus. Vestibulum imperdiet velit id lectus eleifend vulputate. Etiam fringilla bibendum libero, eget lobortis dui sollicitudin sed. Praesent interdum risus auctor, tristique diam a, finibus nunc. Ut convallis mi leo, vitae posuere dolor porttitor vel. Duis id enim et arcu sollicitudin porta nec egestas nibh.
     </TabItem>
     <TabItem value='restoration-shaman' label='Restoration Shaman'>
-    
+        ## Restoration Shaman Tips
         <VideoClip url='https://i.imgur.com/W4ixOum.mp4' side='right' />
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis est risus, id efficitur diam scelerisque eu. Nulla tempus hendrerit interdum. Maecenas in justo ac purus dapibus volutpat. Aliquam erat volutpat. Nulla facilisis arcu vel urna elementum, in bibendum elit lacinia. Maecenas laoreet, arcu vitae rhoncus interdum, est ex sodales lorem, et bibendum mauris mauris vel lectus. Vestibulum imperdiet velit id lectus eleifend vulputate. Etiam fringilla bibendum libero, eget lobortis dui sollicitudin sed. Praesent interdum risus auctor, tristique diam a, finibus nunc. Ut convallis mi leo, vitae posuere dolor porttitor vel. Duis id enim et arcu sollicitudin porta nec egestas nibh.

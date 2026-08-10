@@ -17,8 +17,8 @@
     },
     {
       "filename": "kings-rest.png",
-      "link": "/general/Dungeons/kings-rest",
-      "exists": true
+      "link": null,
+      "exists": false
     },
     {
       "filename": "murder-row.png",
@@ -27,8 +27,8 @@
     },
     {
       "filename": "ruby-life-pools.png",
-      "link": null,
-      "exists": false
+      "link": "/general/Dungeons/ruby-life-pools",
+      "exists": true
     },
     {
       "filename": "temple-of-sethraliss.png",

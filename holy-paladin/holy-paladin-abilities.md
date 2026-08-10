@@ -5,6 +5,12 @@ unlisted: false
 sidebar_position: 3
 ---
 
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
+
 ## Baseline abilities
 
 ### Mastery

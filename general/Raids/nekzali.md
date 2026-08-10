@@ -1,5 +1,7 @@
 ---
-title: Content Guide Template
+title: Nek'zali the Soulcoiler
+description: Healing raids tips and tricks for Nek'zali the Soulcoiler
+unlisted: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis est risus, id efficitur diam scelerisque eu. Nulla tempus hendrerit interdum. Maecenas in justo ac purus dapibus volutpat. Aliquam erat volutpat. Nulla facilisis arcu vel urna elementum, in bibendum elit lacinia. Maecenas laoreet, arcu vitae rhoncus interdum, est ex sodales lorem, et bibendum mauris mauris vel lectus. Vestibulum imperdiet velit id lectus eleifend vulputate. Etiam fringilla bibendum libero, eget lobortis dui sollicitudin sed. Praesent interdum risus auctor, tristique diam a, finibus nunc. Ut convallis mi leo, vitae posuere dolor porttitor vel. Duis id enim et arcu sollicitudin porta nec egestas nibh. 

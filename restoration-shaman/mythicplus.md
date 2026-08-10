@@ -4,6 +4,12 @@ description: How to Play Restoration Shaman in Mythic+
 title: Mythic+
 ---
 
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
+
 On mythic+ your focus is more on spot healing and burst. You forgo efficiency and long-term hps in favor of whatever keeps the targets alive through the most dangerous parts of encounters. !Healing Wave! gains a lot of value here being your main tool for spot healing and !Healing Rain! becomes your best way to keep !Deluge! active on targets after you consume your !Riptide!s with !Flow of the Tides!
 
 ## Where Does Your Healing Come From

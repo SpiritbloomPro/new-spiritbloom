@@ -18,8 +18,6 @@ Curabitur tristique, quam at pellentesque tempus, ipsum ligula egestas ex, sit a
 - [Gameplay](/template/gameplay.md): Introduction to the most important parts of the spec.
 - [Raids](/template/raid.md): How to play during raids.
 - [Mythic+](/template/mythicplus.md): How to play during keys.
-- [Talents](/template/mythicplus.md): Explanations on our talent tree.
-- [Gear](/template/gear.md): How to gear and what stats to pick.
 - [Spell Interactions](/template/interactions): A list of all the inner workings of the spec's spells.
 - [Bug List](/template/bugs): Our list of known bugs.
 

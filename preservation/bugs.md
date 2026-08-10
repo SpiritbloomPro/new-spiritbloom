@@ -5,6 +5,12 @@ unlisted: false
 sidebar_position: 9
 ---
 
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
+
 This is a list of all currently known bugs affecting Preservation. If you find any bug or inconsistent behavior not listed here, please let us know by contacting Harrek or YouTee on [the evoker discord](https://discord.gg/evoker) or the [SpiritbloomPro Discord](http://discord.spiritbloom.pro).
 
 ## Active Abilities

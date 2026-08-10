@@ -5,6 +5,12 @@ unlisted: false
 sidebar_position: 20
 ---
 
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
+
 Thank you to Hammer of Wrath and Clarius for keeping the sheet up to date, see more info [here](https://docs.google.com/spreadsheets/d/1MTbf-dYMsNF3wWUqE8HZokIm8drV1-hNogcQtV31Ues/edit?gid=1850733112#gid=1850733112)
 
 #### Greater Judgment
