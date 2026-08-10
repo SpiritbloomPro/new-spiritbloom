@@ -12,10 +12,16 @@ Using just the right amount of resources to respond to any given situation witho
 
 ## Pages
 
-- [Raid](/preservation/preservation-evoker-season-1-raid-guide): An in-depth view of how to play Preservation during raids.
-- [Mythic+](/preservation/preservation-evoker-season-1-m-guide): Explanations on how Preservation plays in Mythic+.
-- [Spell Interactions](/preservation/interactions): A detailed description of the way our spells work and interact with each other.
-- [Bug List](/preservation/bugs): Our list of known and reproducible bugs.
+- [Quick Guide](/preservation/quick-guide.md): A quick summary of everything needed to start playing.
+- [Gameplay](/preservation/gameplay.md): Introduction to the most important parts of the spec.
+- [Raids](/preservation/raid.md): Explanation on how to play during raids.
+- [Mythic+](/preservation/mythicplus.md): Explanation on how to play during keys.
+- [Spell Interactions](/preservation/interactions): A list of all the inner workings of the spec's spells.
+- [Bug List](/preservation/bugs): Our list of known bugs.
+
+## Content
+
+<ContentGrid />
 
 ## The Authors
 

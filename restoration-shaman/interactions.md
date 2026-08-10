@@ -4,7 +4,11 @@ description: List of all the functionality and mechanics of Restoration Shaman s
 sidebar_position: 7
 ---
 
-# Spell Interactions
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
 
 Here you will find details on how the Restoration Shaman spells work. The goal here is to document in depth how the spells actually interact with each other and with other mechanics in order to understand them better.
 

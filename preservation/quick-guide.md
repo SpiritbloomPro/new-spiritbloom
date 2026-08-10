@@ -14,40 +14,33 @@ toc_max_heading_level: 2
 
 [-Talents-]
 
-(Evoker/Chronowarden/EAQEEJFAWYZFVFAZERFBQOVVVQRUIVRFCJBdCUAFFVVVUBE)
+(Evoker/Flameshaper/EAQEEJFASYZFVFBZERFBAOVVFIRJIVQVCIRNBUFFVVVUBE)
 
 ### Spec Tree
 
-- The choice between !Dreamflight! and !Stasis! comes down to how much value can you get out of !Dreamflight!. If the fight allows you to hit most of your raid during a dangerous situation then !Dreamflight! is simply better. If this isn't possible then you would opt into !Stasis!. For almost all of the fights in the current tier you will default to !Dreamflight!.
-- !Inner Flame! is good because of !Dreamflight! and loses a lot of value if you are playing !Stasis!, so you most likely want to move this talent somewhere else.
+- !Spiritual Clarity! can be good but the need to path through !Lifebind! and !Unshakeable! means this is very expensive point wise and likely not worth it.
+- !Lifeforce Mender! is a good alternative when you acquire your season two tierset. You would move the point from !Titan's Gift! and one from !Renewing Breath! into it.
 
 [-Rotation-]
 
-### Normal Gameplay
-
-While raiding it is important to note that some spells are very good and you want to cast them often, but they are still not our best !Echo! option and so you want to avoid consuming !Echo!es with them. !Dream Breath! and !Verdant Embrace! fall into this category.
-
-**To Generate !Echo!es**:
-
-1. Your main tool to apply !Echo! will be !Temporal Anomaly!.
-2. !Dream Breath! will generate !Essence Burst! from the !After image! !Chrono Flames!. It will also give you a !Merithra's Blessing!.
-3. Casting !Fire Breath! will give you !Leaping Flames!. This is another good way to generate !Essence Burst!.
-4. During downtime, use !Chrono Flame! on the boss to generate even more bursts.
-5. Use your !Essence Burst!s on !Emerald Blossom! for !Twin Echoes!. You will get the healing from the blossom for free and still have the same amount of !Echo!es.
-
-**To Consume Your !Echo!es**:
-
-You want all your !Echo!es to go into !Merithra's Blessing!. It can be a good idea to use !Dream Breath! before you start applying them to guarantee you can cast it but all your !Echo! casts have a decently high likelyhood of generating one. Currently all other !Echo! consumption alternatives are below !Merithra's Blessing!. If you need to consume !Echo!es and you don't have !Merithra's Blessing! available you should use either !Verdant Embrace! or !Reversion!.
+1. Use !Temporal Anomaly! on cooldown.
+2. Use !Dream Breath! on cooldown but avoid consuming !Echo!es with it. You have two charges of this spell so you can bank the second one for specific situations where you need more healing.
+3. Use all your !Essence Burst!s on !Emerald Blossom!.
+4. Use all your essence to apply !Echo!es
+5. Consume your !Echo!es with !Merithra's Blessing!.
+6. The rest of the time, cast !Living Flame! on an enemy.
 
 [-Stats-]
 
-### Mastery > Critical Strike >= Haste > Versatility
+Mastery is our best stat for healing and stacking more of it will always lead to best results when it comes to keeping people alive. Critical Strike and Haste have similar values. Versatility is currently our lowest value stat
 
-Mastery is our best stat for healing and stacking more of it will always lead to best results when it comes to keeping people alive. Critical Strike and Haste have similar values with Crit being slightly ahead and having the advantage of not costing you more mana. Versatility is currently our lowest value stat
+1. Mastery
+2. Critical Strike = Haste
+3. Versatility
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay for raids, check the [raid](/preservation/preservation-evoker-season-1-raid-guide) page.
+For more details on how to optimize your gameplay for raids, check the [raid](/preservation/raid) page.
 
 [-MythicPlus-]
 
@@ -55,38 +48,35 @@ For more details on how to optimize your gameplay for raids, check the [raid](/p
 
 [-Talents-]
 
-(Evoker/Chronowarden/EAQUUBlEUZJkREFYFQBAOVVVQVQIVQQGZRNCVQFFVVVUBE)
+(Evoker/Flameshaper/EAQEEJlEUZJERFFYFQFBAOVVVQVQIVQQGpBNCVQFFVVVUBU)
 
 ### Spec Tree
 
-- !Twin Echoes! is a very strong talent point once you have your !Tierset 4 piece bonus!. Before you get it the point could be moved into other options but you will always play with it once you acquire it.
-- !Lifeforce Mender! is a low value point that could be moved around. The increase to red spells affects !Chrono Flame! (the ones you cast and the ones from !After image!) and !Fire Breath! healing via !Life-Giver's Flame! so it is an always-active increase but is isn't very impactful.
-- !Ouroboros! has synergy with the !Tierset 4 piece bonus! and !Twin Echoes! which makes it another option to increase your healing passively. This comes in the form of !Emerald Blossom! healing so if you are not consistently getting people inside of them it loses value. Opt for this instead of !Lifeforce Mender! in melee heavy groups.
-- !Temporal Artificer! can be good in situations that fit a 3 minute cooldown much better than a 4 minute one, but this is very niche. Unless you identify a specific place where these timings apply then the talent is useless. !Energy Loop! can be a good pick if you find yourself heavily struggling with mana. Both of these options would be picked in place of !Time of Need!.
+- The point from !Time of Need! can be moved into !Energy Loop! if you have mana issues.
+
+### Class Tree
+
+- If you decide to play !Energy Loop! in the class tree, the points from !Innate Magic! must be moved into !Landslide! and !Natural Convergence!.
 
 [-Rotation-]
 
-Your gameplay during M+ will revolve around applying !Echo! on people in preparation for damage and then consuming them with different spells depending on what you need and what it is available. An important thing to remember when doing keys is that whatever keeps people alive can be a good choice in the moment and not doing anything because you are trying to think of the optimal answer is worse than simply healing with a suboptimal one.
-
-1. Apply !Echo! early an often. You can do this with both !Temporal Anomaly! and manual casts.
-2. Maintain !Reversion! active on the group, !Temporal Anomaly! is a great way to do this. Using !Merithra's Blessing! will also apply a normal !Reversion!.
-3. Use !Dream Breath!. This can be a flexible tool as it is both a good up-front heal and a heal over time. It will also guarantee a !Merithra's Blessing! proc.
-4. Use !Verdant Embrace! often. This is a very good burst healing tool and also gives you !Primacy!.
-5. Heal with !Merithra's Blessing!. You get all the jumps for every !Echo! you consume with it so its a very good !Echo! choice.
-6. !Fire Breath! can be a potent healing spell in multi target scenarios via !Life-Giver's Flame!.
-7. You can use !Leaping Flames! as an emergency heal on the group, but most of the time you will simply spend these on damage.
-
-The rest of the time, use !Disintegrate! to recover mana if you have extra essence or !Chrono Flame! to do damage.
-
+1. Use !Temporal Anomaly! on cooldown.
+2. Use !Dream Breath! on cooldown but avoid consuming !Echo!es with it. You have two charges of this spell so you can bank the second one for specific situations where you need more healing.
+3. Use all your !Essence Burst!s on !Emerald Blossom!.
+4. Use all your essence to apply !Echo!es
+5. Consume your !Echo!es with !Merithra's Blessing!.
+6. Use !Reversion! on people that need spot healing to heal them with !Golden Hour!.
+7. The rest of the time, cast !Living Flame! on an enemy.
 
 [-Stats-]
 
-### Mastery > Haste > Critical Strike > Versatility
+In M+ your stats are closer to each other in value: There is a small preference towards Haste but you can consider it, Mastery, and Critical Strike roughly equivalents
 
-Mastery is our best stat for healing and stacking more of it will always lead to best results when it comes to keeping people alive. Haste has extra gameplay considerations in mythic+ that make it good and then Critical Strike and Versatility fall down as less valuable.
+1. Haste >= Mastery = Critical Strike
+2. Versatility
 
 [-EndTabs-]
 
-For more details on how to optimize your gameplay in keys, check the [Mythic+](/preservation/preservation-evoker-season-1-m-guide) page.
+For more details on how to optimize your gameplay in keys, check the [Mythic+](/preservation/mythicplus) page.
 
 [-EndTabs-]

@@ -5,6 +5,12 @@ unlisted: false
 sidebar_position: 2
 ---
 
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
+
 # 12.0.5 changes
 
 - Holy Shock healing increased by 10%. 

@@ -1,0 +1,91 @@
+{
+  "dungeons": [
+    {
+      "filename": "altar-of-fangs.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "blinding-vale.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "den-of-nalorakk.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "kings-rest.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "murder-row.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "ruby-life-pools.png",
+      "link": "/general/Dungeons/ruby-life-pools",
+      "exists": true
+    },
+    {
+      "filename": "temple-of-sethraliss.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "voidscar-arena.png",
+      "link": null,
+      "exists": false
+    }
+  ],
+  "raids": [
+    {
+      "filename": "1-nymrissa-wavecaller.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "2-nekzali.png",
+      "link": "/general/Raids/nekzali",
+      "exists": true
+    },
+    {
+      "filename": "3-entombed-sentinels.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "4-vashnik.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "5-lost-explorers.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "6-sszorak.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "7-twin-fangs.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "8-bargained-crown.png",
+      "link": null,
+      "exists": false
+    },
+    {
+      "filename": "9-ulatek.png",
+      "link": null,
+      "exists": false
+    }
+  ]
+}

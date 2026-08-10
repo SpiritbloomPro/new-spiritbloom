@@ -15,7 +15,7 @@ export default function WowheadTalents({ spec, hero, string }) {
         Totemic: 'totemic'
     };
 
-    const wowheadVersion = 'beta'; //Loading special versions of the wowhead site. Default = 'www'
+    const wowheadVersion = 'ptr'; //Loading special versions of the wowhead site. Default = 'www'
 
     return (
         <iframe src={`https://${wowheadVersion}.wowhead.com/talent-calc/embed/${specList[spec]}/${heroTalentList[hero]}/${string}`} width={'100%'} height={'575px'} scrolling="no"></iframe>

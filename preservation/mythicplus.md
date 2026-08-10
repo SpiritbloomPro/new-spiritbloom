@@ -1,9 +1,14 @@
 ---
 title: Mythic+
 description: How to Play Preservation Evoker in Mythic+
-unlisted: false
 sidebar_position: 5
 ---
+
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
 
 Preservation is a healing spec that offers an array of useful tools in M+. Burst healing, mobility, and unique utility allow it to bring strengths that differ from most healing specializations. Its healing style blends proactive and reactive elements, giving Preservation the flexibility to handle a wide range of damage profiles.
 

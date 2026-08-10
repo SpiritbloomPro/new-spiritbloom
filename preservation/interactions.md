@@ -4,7 +4,11 @@ description: List of all the functionality and mechanics of Preservation spells
 sidebar_position: 8
 ---
 
-# Spell Interactions
+:::warning
+
+This page is in the process of being updated for **Midnight Season 2**
+
+:::
 
 Preservation is a spec that relies pretty strongly on the interaction between it's spells to get the most out of them, which means its pretty important to be aware of all the ways the spells buff or improve each other. This is a list of all the functionality and mechanics of Preservation spells to document how they really work in practice.
 
