@@ -48,15 +48,7 @@ For more details on how to optimize your gameplay for raids, check the [raid](/p
 
 [-Talents-]
 
-(Evoker/Flameshaper/EAQEEJlEUZJERFFYFQFBAOVVVQVQIVQQGpBNCVQFFVVVUBU)
-
-### Spec Tree
-
-- The point from !Time of Need! can be moved into !Energy Loop! if you have mana issues.
-
-### Class Tree
-
-- If you decide to play !Energy Loop! in the class tree, the points from !Innate Magic! must be moved into !Landslide! and !Natural Convergence!.
+(Evoker/Flameshaper/EAQUUBlEUZJkREFYFQBAOVVVYRZAVQQShENCVAFFVVVUBU)
 
 [-Rotation-]
 
