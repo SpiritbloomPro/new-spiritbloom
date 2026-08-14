@@ -36,8 +36,6 @@ You will use !Temporal Anomaly! and !Dream Breath! pretty much on cooldown, use 
 
 ## Major Cooldowns
 
---Explanations on how to use them and what to look out for, this is gonna go in tabs. There can be an intro paragraph if you wanna yap about how the specs cooldowns are good/bad or whatever--
-
 [-Tabs-]
 
 [-Rewind-]

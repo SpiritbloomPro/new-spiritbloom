@@ -240,7 +240,7 @@ button:hover {
     position: relative;
     height: 200px;
     padding: 0;
-    --ifm-col-width: 20%;
+    --ifm-col-width: 25%;
     margin-bottom: 1rem;
 }
 

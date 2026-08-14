@@ -20,11 +20,6 @@ function HomepageHeader() {
 
 const Guides = [
     {
-        title: 'General Guides',
-        link: 'general',
-        image: 'general-guide.png'
-    },
-    {
         title: 'Preservation Evoker',
         link: 'preservation',
         image: 'preservation-guide.png'
@@ -43,10 +38,16 @@ const Guides = [
 
 const Content = [
     {
+        title: 'General Guides',
+        link: 'general',
+        image: 'general-guide.png'
+    },
+    {
         title: 'Our Blog',
         link: 'blog',
         image: 'blog.png'
     },
+    /*
     {
         title: 'Who Are We?',
         link: 'blog/authors',
@@ -57,6 +58,7 @@ const Content = [
         link: 'clips',
         image: 'clips.png'
     },
+    */
     {
         title: 'Support Us',
         link: 'support',
