@@ -23,8 +23,8 @@ toc_max_heading_level: 2
 
 [-Rotation-]
 
-1. Use !Temporal Anomaly! on cooldown.
-2. Use !Dream Breath! on cooldown but avoid consuming !Echo!es with it. You have two charges of this spell so you can bank the second one for specific situations where you need more healing.
+1. Use !Dream Breath! on cooldown but avoid consuming !Echo!es with it. You have two charges of this spell so you can bank the second one for specific situations where you need more healing.
+2. Use !Temporal Anomaly! on cooldown.
 3. Use all your !Essence Burst!s on !Emerald Blossom!.
 4. Use all your essence to apply !Echo!es
 5. Consume your !Echo!es with !Merithra's Blessing!.
@@ -52,11 +52,10 @@ For more details on how to optimize your gameplay for raids, check the [raid](/p
 
 [-Rotation-]
 
-1. Use !Temporal Anomaly! on cooldown.
-2. Use !Dream Breath! on cooldown but avoid consuming !Echo!es with it. You have two charges of this spell so you can bank the second one for specific situations where you need more healing.
-3. Use all your !Essence Burst!s on !Emerald Blossom!.
-4. Use all your essence to apply !Echo!es
-5. Consume your !Echo!es with !Merithra's Blessing!.
+1. Use !Dream Breath! on cooldown. You have two charges of this spell so you can bank the second one for specific situations where you need more healing.
+2. Use !Temporal Anomaly! on cooldown.
+3. Consume your !Echo!es with !Merithra's Blessing!.
+4. Use !Emerald Blossom! to heal your group. Even if you don't hit someone with the blossom directly, the !Fluttering Seedlings! will get them and heal them with !Consume Flame!.
 6. Use !Reversion! on people that need spot healing to heal them with !Golden Hour!.
 7. The rest of the time, cast !Living Flame! on an enemy.
 

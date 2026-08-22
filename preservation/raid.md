@@ -21,13 +21,14 @@ These two points combined mean that the central thing to focus on is **proper es
 - !Temporal Anomaly! and !Dream Breath! are very potent tools at your disposal that you should use pretty much on cooldown. !Temporal Anomaly! enables most of your !Echo! spread and gives you more casts of !Dream Breath! via !Nozdormus Teachings!, while !Dream Breath! does a lot of healing by itself, gives you casts of !Merithra's Blessing!, and is needed for !Consume Flame! to work.
 - !Verdant Embrace! has fallen off a bit in the latest seasons. It is still an ok tool for spot healing but it can be very dangerous to use as most raid builds won't run !Dream Simulacrum!. It should still be used often but mostly on yourself as an !Essence Burst! generator via our tierset 4-piece bonus.
 - It can be important that you target different players that are hurt with each of your !Emerald Blossom! casts. While before this didn't matter as the blossom simply picked targets inside its area, our tierset 2-piece bonus will cast free !Living Flame!s to your target when spending essence which means using it on someone that doesn't need that much healing at the moment makes you lose some value.
+- **It doesn't matter if you don't hit 5 players with your !Emerald Blossom!**. All the misses you get will spawn more !Fluttering Seedlings! to compensate for the healing loss.
 
-## Gameplay
+## Rotation
 
 You will use !Temporal Anomaly! and !Dream Breath! pretty much on cooldown, use all !Essence Burst!s you generate to cast !Emerald Blossom! and the !Twin Echoes! procs you get from that to apply !Echo! to the raid. You will then consume these !Echo!es with !Merithra's Blessing! and keep repeating the cycle depending on what resources you have available.
 
-1. Use !Temporal Anomaly! on cooldown, this will apply !Echo! and shields to your raid as it passes through them, and also reduce the cooldown of !Dream Breath! and !Fire Breath! by 5 seconds each time due to !Nozdormus Teachings!.
-2. Use !Dream Breath! on cooldown but avoid consuming !Echo!es with it. You have two charges of this spell so you can bank the second one for specific situations where you need more healing. Using !Dream Breath! gives you a !Merithra's Blessing! proc so you should use it before spreading !Echo!es to guarantee you can consume them with your apex.
+1. Use !Dream Breath! on cooldown but avoid consuming !Echo!es with it. You have two charges of this spell so you can bank the second one for specific situations where you need more healing. Using !Dream Breath! gives you a !Merithra's Blessing! proc so you should use it before spreading !Echo!es to guarantee you can consume them with your apex.
+2. Use !Temporal Anomaly! on cooldown, this will apply !Echo! and shields to your raid as it passes through them, and also reduce the cooldown of !Dream Breath! and !Fire Breath! by 5 seconds each time due to !Nozdormus Teachings!.
 3. Use all your !Essence Burst!s on !Emerald Blossom!. Blossoms are very expensive mana wise but !Essence Burst! makes them free, so you want to maximize this in combination with !Twin Echoes!. There can be some nuance in how to choose between a blossom and an echo depending on specific circumstances and resources but the general rule of thumb that you can't break is to always use !Emerald Blossom! with !Essence Burst!s and never with natural essence.
 4. Use all your essence to apply !Echo!es, this will consume your !Twin Echoes! stacks to apply several !Echo!es at once every cast
 5. Consume your !Echo!es with !Merithra's Blessing!.
